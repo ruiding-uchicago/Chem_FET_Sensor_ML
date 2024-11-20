@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1039/d0tc00635a",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "ferric chloride"
+    ],
+    "lower_detection_limit_log_ppm": -11.25305459,
+    "upper_detection_limit_log_ppm": -1.25305459,
+    "probe_material": [
+        "carbon quantum dot"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

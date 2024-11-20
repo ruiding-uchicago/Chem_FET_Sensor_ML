@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1088/0957-4484/24/24/245502",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": 2.301029996,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "graphene",
+        "phenol",
+        "ethylene oxide",
+        "benzoic acid"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

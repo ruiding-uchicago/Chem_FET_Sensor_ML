@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1021/nn100780v",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "dopamine"
+    ],
+    "lower_detection_limit_log_ppm": 2.185202065,
+    "upper_detection_limit_log_ppm": 3.088292052,
+    "probe_material": [
+        "poly-l-lysine"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 7.7,
+    "max_pH_when_testing": 7.7,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

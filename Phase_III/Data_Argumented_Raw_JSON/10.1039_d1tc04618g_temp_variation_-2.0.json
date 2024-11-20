@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1039/d1tc04618g",
+    "sensor_type": "gas",
+    "detect_target": [
+        "acetone"
+    ],
+    "lower_detection_limit_log_ppm": -1.161150909,
+    "upper_detection_limit_log_ppm": 0.602059991,
+    "probe_material": [
+        "neodymium oxide",
+        "indium oxide"
+    ],
+    "test_operating_temperature_celsius": 18.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

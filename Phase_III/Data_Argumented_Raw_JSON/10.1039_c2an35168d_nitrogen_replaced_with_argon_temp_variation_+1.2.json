@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1039/c2an35168d",
+    "sensor_type": "gas",
+    "detect_target": [
+        "p-xylene"
+    ],
+    "lower_detection_limit_log_ppm": 2.954242509,
+    "upper_detection_limit_log_ppm": 4.491361694,
+    "probe_material": [
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

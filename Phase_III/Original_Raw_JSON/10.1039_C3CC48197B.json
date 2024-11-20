@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1039/C3CC48197B",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hydrazine"
+    ],
+    "lower_detection_limit_log_ppm": -3.907649709,
+    "upper_detection_limit_log_ppm": 0.283914237,
+    "probe_material": [
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.4,
+    "max_pH_when_testing": 7.4,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": 1.0
+}

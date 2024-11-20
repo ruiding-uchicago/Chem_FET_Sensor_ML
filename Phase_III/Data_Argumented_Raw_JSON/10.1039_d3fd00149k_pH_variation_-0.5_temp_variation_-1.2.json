@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1039/d3fd00149k",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hydrogen peroxide"
+    ],
+    "lower_detection_limit_log_ppm": -2.769551079,
+    "upper_detection_limit_log_ppm": -0.468521083,
+    "probe_material": [
+        "4,4'-thiobisbenzenethiol"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

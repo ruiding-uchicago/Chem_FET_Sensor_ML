@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1039/c5cc02643a",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "f-"
+    ],
+    "lower_detection_limit_log_ppm": 1.123851641,
+    "upper_detection_limit_log_ppm": 2.977723605,
+    "probe_material": [
+        "3-carboxy-5-nitrophenylboronic acid"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.0,
+    "max_pH_when_testing": 6.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

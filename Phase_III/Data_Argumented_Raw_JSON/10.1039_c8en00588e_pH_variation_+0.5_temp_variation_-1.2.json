@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1039/c8en00588e",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "nitrate"
+    ],
+    "lower_detection_limit_log_ppm": -2.958607315,
+    "upper_detection_limit_log_ppm": 1.447158031,
+    "probe_material": [
+        "benzyltriethylammonium chloride"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

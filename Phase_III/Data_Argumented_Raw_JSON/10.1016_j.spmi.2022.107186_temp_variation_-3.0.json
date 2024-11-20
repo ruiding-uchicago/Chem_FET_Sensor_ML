@@ -1,0 +1,27 @@
+{
+    "DOI": "10.1016/j.spmi.2022.107186",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -9.2,
+    "upper_detection_limit_log_ppm": -0.1,
+    "probe_material": [
+        "boron",
+        "silicon"
+    ],
+    "test_operating_temperature_celsius": 27.0,
+    "min_pH_when_testing": 3.1,
+    "max_pH_when_testing": 12.2,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

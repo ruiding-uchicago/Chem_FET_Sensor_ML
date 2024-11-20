@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1002/aelm.202101353",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "phosphate"
+    ],
+    "lower_detection_limit_log_ppm": -4.761953897,
+    "upper_detection_limit_log_ppm": -1.040005162,
+    "probe_material": [
+        "2,7,12,17,22-penta-tert-butyl-4,9,14,19,24-pentacyano-pentabenzo[ab,fg,kl,pq,uv]-[25]annulene"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 7.7,
+    "max_pH_when_testing": 7.7,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

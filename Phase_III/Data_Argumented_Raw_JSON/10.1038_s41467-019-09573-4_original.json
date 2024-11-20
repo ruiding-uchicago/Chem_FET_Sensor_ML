@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1038/s41467-019-09573-4",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hydroxyl radical"
+    ],
+    "lower_detection_limit_log_ppm": -4.769551079,
+    "upper_detection_limit_log_ppm": 1.230448921,
+    "probe_material": [
+        "cysteamine"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.4,
+    "max_pH_when_testing": 7.4,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Moderate UDL Range"
+}

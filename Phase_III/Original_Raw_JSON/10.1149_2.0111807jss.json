@@ -1,0 +1,21 @@
+{
+    "DOI": "10.1149/2.0111807jss",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": 2.301029996,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "phosphorus"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": null
+}

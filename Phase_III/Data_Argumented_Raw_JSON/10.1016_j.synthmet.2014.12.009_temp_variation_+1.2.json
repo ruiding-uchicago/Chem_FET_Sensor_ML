@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.synthmet.2014.12.009",
+    "sensor_type": "gas",
+    "detect_target": [
+        "water"
+    ],
+    "lower_detection_limit_log_ppm": 1.848189117,
+    "upper_detection_limit_log_ppm": 4.126942718,
+    "probe_material": [
+        "pentacene"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

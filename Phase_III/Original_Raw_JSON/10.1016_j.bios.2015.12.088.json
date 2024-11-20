@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.bios.2015.12.088",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "d-arabitol"
+    ],
+    "lower_detection_limit_log_ppm": 1.261424658,
+    "upper_detection_limit_log_ppm": 2.182243412,
+    "probe_material": [
+        "polythiophene",
+        "poly 2,2'-bithiophene-5-boronic acid",
+        "3,3'-bithiophene"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.0,
+    "max_pH_when_testing": 7.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

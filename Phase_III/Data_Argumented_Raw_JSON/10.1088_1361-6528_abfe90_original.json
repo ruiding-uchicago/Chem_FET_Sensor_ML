@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1088/1361-6528/abfe90",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -0.568636236,
+    "upper_detection_limit_log_ppm": 1.255272505,
+    "probe_material": [
+        "6,13-bis(triisopropylsilylethynyl)pentacene"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 3.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

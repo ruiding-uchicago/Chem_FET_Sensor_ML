@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acs.langmuir.3c02334",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ethanol"
+    ],
+    "lower_detection_limit_log_ppm": -3.40560745,
+    "upper_detection_limit_log_ppm": 2.77815125,
+    "probe_material": [
+        "copper phthalocyanine"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Moderate UDL Range"
+}

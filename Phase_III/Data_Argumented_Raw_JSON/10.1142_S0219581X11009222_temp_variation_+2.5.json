@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1142/S0219581X11009222",
+    "sensor_type": "gas",
+    "detect_target": [
+        "trinitrotoluene"
+    ],
+    "lower_detection_limit_log_ppm": -3.0,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "poly(3-hexylthiophene)"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": null
+}

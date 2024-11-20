@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.snb.2021.129887",
+    "sensor_type": "gas",
+    "detect_target": [
+        "water"
+    ],
+    "lower_detection_limit_log_ppm": 3.672097858,
+    "upper_detection_limit_log_ppm": 4.070037867,
+    "probe_material": [
+        "poly(acrylic acid)"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

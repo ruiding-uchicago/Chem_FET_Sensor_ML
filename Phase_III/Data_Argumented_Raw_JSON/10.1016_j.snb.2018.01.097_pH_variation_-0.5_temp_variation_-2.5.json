@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1016/j.snb.2018.01.097",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": -1.301029996,
+    "upper_detection_limit_log_ppm": 2.0,
+    "probe_material": [
+        "polyaniline",
+        "titanium dioxide"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "potassium chloride",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

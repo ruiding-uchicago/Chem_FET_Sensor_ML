@@ -1,0 +1,25 @@
+{
+    "DOI": "10.1149/1.3543922",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "na+"
+    ],
+    "lower_detection_limit_log_ppm": 1.838849091,
+    "upper_detection_limit_log_ppm": 3.492061605,
+    "probe_material": [
+        "hafnium oxide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 8.0,
+    "max_pH_when_testing": 8.0,
+    "test_medium_electrolyte": [
+        "tris",
+        "tromethamine",
+        "hydrochloric acid",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

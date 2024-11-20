@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1109/IEDM.2016.7838443",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -0.602059991,
+    "upper_detection_limit_log_ppm": 0.397940009,
+    "probe_material": [
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 171.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

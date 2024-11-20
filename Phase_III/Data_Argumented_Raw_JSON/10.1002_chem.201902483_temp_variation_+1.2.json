@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1002/chem.201902483",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -0.769551079,
+    "upper_detection_limit_log_ppm": -0.301029996,
+    "probe_material": [
+        "zn2+",
+        "2-methylimidazole"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

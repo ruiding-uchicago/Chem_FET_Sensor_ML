@@ -1,0 +1,27 @@
+{
+    "DOI": "10.1016/j.snb.2020.127850",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "dopamine"
+    ],
+    "lower_detection_limit_log_ppm": -10.09629625,
+    "upper_detection_limit_log_ppm": -3.814797935,
+    "probe_material": [
+        "indium oxide",
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Very Narrow Range (Low UDL)"
+}

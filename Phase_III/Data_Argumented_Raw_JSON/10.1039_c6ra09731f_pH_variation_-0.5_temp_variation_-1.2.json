@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1039/c6ra09731f",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "ammonium hydroxide"
+    ],
+    "lower_detection_limit_log_ppm": -2.610337862,
+    "upper_detection_limit_log_ppm": 1.942504106,
+    "probe_material": [
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

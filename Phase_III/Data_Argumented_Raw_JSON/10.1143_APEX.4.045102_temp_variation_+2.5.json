@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1143/APEX.4.045102",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -1.11,
+    "upper_detection_limit_log_ppm": -1.01,
+    "probe_material": [
+        "carbon nanotube"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 4.01,
+    "max_pH_when_testing": 4.11,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

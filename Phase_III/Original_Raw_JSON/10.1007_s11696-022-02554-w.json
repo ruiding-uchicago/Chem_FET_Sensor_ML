@@ -1,0 +1,21 @@
+{
+    "DOI": "10.1007/s11696-022-02554-w",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "na+"
+    ],
+    "lower_detection_limit_log_ppm": 0.361727836,
+    "upper_detection_limit_log_ppm": 4.361727836,
+    "probe_material": [
+        "zirconium oxide",
+        "silicon"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 5.2,
+    "max_pH_when_testing": 5.2,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

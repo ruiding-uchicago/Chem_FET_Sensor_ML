@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1038/ncomms3954",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hg2+"
+    ],
+    "lower_detection_limit_log_ppm": 0.302330929,
+    "upper_detection_limit_log_ppm": 2.302330929,
+    "probe_material": [
+        "polyisoindigo"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water",
+        "sodium chloride",
+        "magnesium chloride",
+        "calcium sulfate",
+        "potassium chloride"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

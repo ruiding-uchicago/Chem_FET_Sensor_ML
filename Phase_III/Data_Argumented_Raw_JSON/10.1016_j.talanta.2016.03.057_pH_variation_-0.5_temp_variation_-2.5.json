@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.talanta.2016.03.057",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "fe3+"
+    ],
+    "lower_detection_limit_log_ppm": -4.301029996,
+    "upper_detection_limit_log_ppm": -2.698970004,
+    "probe_material": [
+        "transferrin"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

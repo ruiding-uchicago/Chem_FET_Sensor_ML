@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1002/aelm.201800362",
+    "sensor_type": "gas",
+    "detect_target": [
+        "4-hydroxybenzoate"
+    ],
+    "lower_detection_limit_log_ppm": -3.522878745,
+    "upper_detection_limit_log_ppm": -1.698970004,
+    "probe_material": [
+        "6,13-bis(triisopropylsilylethynyl)pentacene",
+        "4-tert-butylcalix[6]arene"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

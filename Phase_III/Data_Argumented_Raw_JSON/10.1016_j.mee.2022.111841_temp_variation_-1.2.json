@@ -1,0 +1,27 @@
+{
+    "DOI": "10.1016/j.mee.2022.111841",
+    "sensor_type": "gas",
+    "detect_target": [
+        "sulfur dioxide"
+    ],
+    "lower_detection_limit_log_ppm": 1.0,
+    "upper_detection_limit_log_ppm": 1.903089987,
+    "probe_material": [
+        "graphene",
+        "phenol",
+        "ethylene oxide",
+        "benzoic acid",
+        "titanium dioxide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

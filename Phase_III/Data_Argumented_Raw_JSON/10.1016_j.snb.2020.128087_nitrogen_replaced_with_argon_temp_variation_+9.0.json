@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.snb.2020.128087",
+    "sensor_type": "gas",
+    "detect_target": [
+        "hydrogen sulfide"
+    ],
+    "lower_detection_limit_log_ppm": 1.698970004,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "indium oxide"
+    ],
+    "test_operating_temperature_celsius": 189.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 3.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

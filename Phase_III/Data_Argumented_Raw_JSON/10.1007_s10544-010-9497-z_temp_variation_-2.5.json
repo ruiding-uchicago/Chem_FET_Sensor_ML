@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1007/s10544-010-9497-z",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -2.300162274,
+    "upper_detection_limit_log_ppm": 3.399673721,
+    "probe_material": [
+        "aluminum oxide"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -0.3996737210000001,
+    "max_pH_when_testing": 5.300162274,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 8.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "High UDL Range"
+}

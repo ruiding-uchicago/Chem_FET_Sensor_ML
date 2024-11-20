@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1063/1.4816764",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "potassium chloride"
+    ],
+    "lower_detection_limit_log_ppm": 2.872455221,
+    "upper_detection_limit_log_ppm": 4.872455221,
+    "probe_material": [
+        "graphene"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

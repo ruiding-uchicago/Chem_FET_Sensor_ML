@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.synthmet.2021.116764",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": -1.397940009,
+    "upper_detection_limit_log_ppm": 1.0,
+    "probe_material": [
+        "dipyrazino[2,3-f:2',3'-h]quinoxaline-2,3,6,7,10,11-hexacarbonitrile"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

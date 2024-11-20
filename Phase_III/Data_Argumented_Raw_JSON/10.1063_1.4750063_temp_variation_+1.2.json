@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1063/1.4750063",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ethanol"
+    ],
+    "lower_detection_limit_log_ppm": 0.698970004,
+    "upper_detection_limit_log_ppm": 3.0,
+    "probe_material": [
+        "indolo[3,2-b]carbazole",
+        "2,8-dichloro-5,11-dihexyl-indolo(3,2-b)carbazole"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

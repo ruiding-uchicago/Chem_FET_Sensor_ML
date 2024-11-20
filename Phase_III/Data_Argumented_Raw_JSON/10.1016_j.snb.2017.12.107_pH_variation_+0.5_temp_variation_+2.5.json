@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.snb.2017.12.107",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "di-2-ethylhexyl phthalate"
+    ],
+    "lower_detection_limit_log_ppm": -1.602059991,
+    "upper_detection_limit_log_ppm": -1.301029996,
+    "probe_material": [
+        "polyacrylamide"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

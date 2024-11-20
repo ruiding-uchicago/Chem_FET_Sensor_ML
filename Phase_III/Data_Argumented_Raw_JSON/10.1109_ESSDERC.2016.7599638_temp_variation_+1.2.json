@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1109/ESSDERC.2016.7599638",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -1.301029996,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "carbon nanotube"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 4.0,
+    "UDL_ranking": null,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": null
+}

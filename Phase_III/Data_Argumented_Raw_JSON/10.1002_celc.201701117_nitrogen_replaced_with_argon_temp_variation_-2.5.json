@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1002/celc.201701117",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -0.301029996,
+    "upper_detection_limit_log_ppm": 0.477121255,
+    "probe_material": [
+        "1,4,8,11,15,18,22,25-octabutoxy-29h,31h-phthalocyanine",
+        "yttrium"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

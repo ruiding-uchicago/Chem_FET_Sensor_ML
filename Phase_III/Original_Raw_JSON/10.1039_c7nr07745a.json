@@ -1,0 +1,20 @@
+{
+    "DOI": "10.1039/c7nr07745a",
+    "sensor_type": "gas",
+    "detect_target": [
+        "methanol"
+    ],
+    "lower_detection_limit_log_ppm": 3.079181246,
+    "upper_detection_limit_log_ppm": 3.806179974,
+    "probe_material": [
+        "platinum"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

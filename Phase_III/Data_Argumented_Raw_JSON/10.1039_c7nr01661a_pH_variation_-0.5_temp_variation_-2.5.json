@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1039/c7nr01661a",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "sodium arsenite"
+    ],
+    "lower_detection_limit_log_ppm": -7.125402231,
+    "upper_detection_limit_log_ppm": -3.125402231,
+    "probe_material": [
+        "carboxylated polypyrrole"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Very Narrow Range (Low UDL)"
+}

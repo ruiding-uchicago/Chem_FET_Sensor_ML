@@ -1,0 +1,27 @@
+{
+    "DOI": "10.7503/cjcu20210688",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hg2+"
+    ],
+    "lower_detection_limit_log_ppm": -6.698970004,
+    "upper_detection_limit_log_ppm": -1.698970004,
+    "probe_material": [
+        "18-crown-6",
+        "thioformaldehyde"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

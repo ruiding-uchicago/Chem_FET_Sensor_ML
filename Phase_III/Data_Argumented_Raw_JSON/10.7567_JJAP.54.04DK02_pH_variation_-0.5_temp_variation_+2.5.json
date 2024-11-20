@@ -1,0 +1,23 @@
+{
+    "DOI": "10.7567/JJAP.54.04DK02",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "histamine"
+    ],
+    "lower_detection_limit_log_ppm": 3.000151976,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "5-carboxy-1-pentanethiol"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 5.0,
+    "max_pH_when_testing": 5.0,
+    "test_medium_electrolyte": [
+        "2-morpholinoethanesulfonic acid",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

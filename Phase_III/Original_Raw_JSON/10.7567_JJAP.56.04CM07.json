@@ -1,0 +1,25 @@
+{
+    "DOI": "10.7567/JJAP.56.04CM07",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "glucose"
+    ],
+    "lower_detection_limit_log_ppm": 0.209886419,
+    "upper_detection_limit_log_ppm": 2.153271001,
+    "probe_material": [
+        "gold",
+        "4-mercaptophenylboronic acid"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.4,
+    "max_pH_when_testing": 7.4,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

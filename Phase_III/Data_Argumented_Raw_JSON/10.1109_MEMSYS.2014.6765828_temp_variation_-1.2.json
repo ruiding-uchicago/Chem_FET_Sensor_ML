@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1109/MEMSYS.2014.6765828",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -6.0,
+    "upper_detection_limit_log_ppm": 0.0,
+    "probe_material": [
+        "hafnium dioxide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 3.0,
+    "max_pH_when_testing": 9.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 2.02,
+    "UDL_ranking": 1.02,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

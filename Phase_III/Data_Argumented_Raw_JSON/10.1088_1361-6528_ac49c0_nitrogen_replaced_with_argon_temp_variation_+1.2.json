@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1088/1361-6528/ac49c0",
+    "sensor_type": "gas",
+    "detect_target": [
+        "dimethyl methylphosphonate"
+    ],
+    "lower_detection_limit_log_ppm": -1.301029996,
+    "upper_detection_limit_log_ppm": 1.698970004,
+    "probe_material": [
+        "hexafluoro-2-propanol",
+        "phenyl"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

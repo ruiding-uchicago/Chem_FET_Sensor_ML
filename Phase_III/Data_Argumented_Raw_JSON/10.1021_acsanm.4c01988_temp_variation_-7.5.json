@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acsanm.4c01988",
+    "sensor_type": "gas",
+    "detect_target": [
+        "carbon monoxide"
+    ],
+    "lower_detection_limit_log_ppm": -3.0,
+    "upper_detection_limit_log_ppm": -1.522878745,
+    "probe_material": [
+        "tin(iv) oxide"
+    ],
+    "test_operating_temperature_celsius": 142.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

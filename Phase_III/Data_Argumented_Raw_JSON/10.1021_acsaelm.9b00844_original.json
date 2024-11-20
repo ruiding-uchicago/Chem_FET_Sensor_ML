@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acsaelm.9b00844",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "histamine"
+    ],
+    "lower_detection_limit_log_ppm": 3.000151976,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "4-mercaptobenzoic acid"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 5.5,
+    "max_pH_when_testing": 5.5,
+    "test_medium_electrolyte": [
+        "water",
+        "2-morpholinoethanesulfonic acid"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

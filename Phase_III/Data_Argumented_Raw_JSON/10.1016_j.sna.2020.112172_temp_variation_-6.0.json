@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.sna.2020.112172",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": -0.508638306,
+    "upper_detection_limit_log_ppm": 3.698970004,
+    "probe_material": [
+        "platinum"
+    ],
+    "test_operating_temperature_celsius": 114.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

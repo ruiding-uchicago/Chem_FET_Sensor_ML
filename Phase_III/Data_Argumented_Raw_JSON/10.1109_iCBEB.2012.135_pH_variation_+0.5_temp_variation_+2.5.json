@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1109/iCBEB.2012.135",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "quinine"
+    ],
+    "lower_detection_limit_log_ppm": -0.488896396,
+    "upper_detection_limit_log_ppm": 3.511103604,
+    "probe_material": [
+        "tungstophosphoric acid"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

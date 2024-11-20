@@ -1,0 +1,29 @@
+{
+    "DOI": "10.1016/j.talanta.2024.126178",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "epinephrine"
+    ],
+    "lower_detection_limit_log_ppm": -1.73754891,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "4-formylphenylboronic acid",
+        "indium oxide",
+        "zinc oxide",
+        "tin dioxide"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": null
+}

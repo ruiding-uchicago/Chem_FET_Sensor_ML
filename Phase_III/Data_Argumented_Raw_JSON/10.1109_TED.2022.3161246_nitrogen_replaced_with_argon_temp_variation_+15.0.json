@@ -1,0 +1,25 @@
+{
+    "DOI": "10.1109/TED.2022.3161246",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -2.995678626,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "indium oxide",
+        "gallium oxide",
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 165.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": null,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": null
+}

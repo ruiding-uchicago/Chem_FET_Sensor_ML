@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.orgel.2021.106083",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": 0.0,
+    "upper_detection_limit_log_ppm": 1.477121255,
+    "probe_material": [
+        "poly[2,5-bis(2-decyltetradecyl)pyrrolo[3,4-c]pyrrole-1,4(2h,5h)-dione-alt-5,5'-di(thiophen-2-yl)-2,2'-(e)-2-(2-(thiophen-2-yl)vinyl)thiophene]"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

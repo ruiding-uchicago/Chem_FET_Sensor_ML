@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.snb.2012.08.076",
+    "sensor_type": "gas",
+    "detect_target": [
+        "2,4,6-trinitrotoluene"
+    ],
+    "lower_detection_limit_log_ppm": 1.77815125,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "poly(3-hexylthiophene)"
+    ],
+    "test_operating_temperature_celsius": 66.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

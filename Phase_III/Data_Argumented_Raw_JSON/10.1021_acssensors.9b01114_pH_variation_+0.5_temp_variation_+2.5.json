@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acssensors.9b01114",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "cu2+"
+    ],
+    "lower_detection_limit_log_ppm": -1.489341605,
+    "upper_detection_limit_log_ppm": -0.020820523,
+    "probe_material": [
+        "nitrilotriacetic acid"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

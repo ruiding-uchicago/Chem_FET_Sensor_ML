@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1088/1361-6641/abb288",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "lactic acid"
+    ],
+    "lower_detection_limit_log_ppm": -0.246031073,
+    "upper_detection_limit_log_ppm": 1.954628378,
+    "probe_material": [
+        "3-carboxy-5-nitrophenylboronic acid"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1021/ac3000336",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hg2+"
+    ],
+    "lower_detection_limit_log_ppm": -2.299750713,
+    "upper_detection_limit_log_ppm": 0.454597623,
+    "probe_material": [
+        "gold"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.0,
+    "max_pH_when_testing": 7.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

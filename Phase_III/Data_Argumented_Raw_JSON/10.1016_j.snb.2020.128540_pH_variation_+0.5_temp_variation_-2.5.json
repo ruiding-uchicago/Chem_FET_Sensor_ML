@@ -1,0 +1,27 @@
+{
+    "DOI": "10.1016/j.snb.2020.128540",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "serotonin"
+    ],
+    "lower_detection_limit_log_ppm": -4.291558881,
+    "upper_detection_limit_log_ppm": -0.753956879,
+    "probe_material": [
+        "aluminum oxide",
+        "bismuth oxide"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 7.7,
+    "max_pH_when_testing": 7.7,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

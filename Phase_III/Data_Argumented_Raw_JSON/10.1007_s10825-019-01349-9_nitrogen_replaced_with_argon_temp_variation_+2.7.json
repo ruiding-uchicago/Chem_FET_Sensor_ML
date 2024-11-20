@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1007/s10825-019-01349-9",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": -0.853871964,
+    "upper_detection_limit_log_ppm": 1.698970004,
+    "probe_material": [
+        "gold"
+    ],
+    "test_operating_temperature_celsius": 29.7,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

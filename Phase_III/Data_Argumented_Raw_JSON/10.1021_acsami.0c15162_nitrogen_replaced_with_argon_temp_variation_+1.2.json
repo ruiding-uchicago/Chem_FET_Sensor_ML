@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acsami.0c15162",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -1.602059991,
+    "upper_detection_limit_log_ppm": 0.0,
+    "probe_material": [
+        "molybdenum disulfide"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 4.0,
+    "UDL_ranking": 4.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

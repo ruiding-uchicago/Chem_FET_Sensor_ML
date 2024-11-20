@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.aca.2017.07.066",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "calcium chloride"
+    ],
+    "lower_detection_limit_log_ppm": -2.95475528,
+    "upper_detection_limit_log_ppm": 3.04524472,
+    "probe_material": [
+        "calcium ionophore iv"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.0,
+    "max_pH_when_testing": 7.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "High UDL Range"
+}

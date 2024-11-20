@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acs.jpcc.7b11128",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "potassium chloride"
+    ],
+    "lower_detection_limit_log_ppm": 1.872455221,
+    "upper_detection_limit_log_ppm": 2.872455221,
+    "probe_material": [
+        "poly(diallyldimethylammonium chloride)",
+        "poly(sodium 4-styrenesulfonate)"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.0,
+    "max_pH_when_testing": 7.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

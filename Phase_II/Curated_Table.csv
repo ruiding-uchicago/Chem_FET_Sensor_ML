@@ -1,0 +1,1434 @@
+﻿DOI,sensor type (gas/liquid),detect target,lower detection limit (log ppm),upper detection limit (log ppm),probe material,test operating temperature (celcius),pH value (-1 for gas detect),test medium/electrolyte
+10.1002/smll.200900876,liquid,h+,-7,-1,(3-aminopropyl)triethoxysilane,25,,water
+10.1109/ICSENS.2012.6411075,gas,toluene,-2.301029996,-0.301029996,4-aminophthalimide,25,-1,oxygen/nitrogen
+10.1007/s12274-020-3063-7,gas,nitrogen dioxide,-2,9,molybdenum disulfide,25,-1,nitrogen
+10.1016/j.orgel.2021.106341,liquid,cyanide,-1.584692708,3.415307292,"1-beta-D-glucopyranosyl-4-phenyl-1H-1,2,3-triazole",25,7,water
+10.1016/j.mssp.2019.104911,liquid,glucose,2.556678726,3.100746771,zinc oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1117/12.897285,gas,nitrogen dioxide,-1.698970004,1,carbon nanotube,25,-1,oxygen/nitrogen
+10.1016/j.sna.2021.113004,gas,carbon monoxide,2,3.602059991,cupric oxide,150,-1,oxygen/nitrogen
+10.1016/j.apsusc.2014.10.097,liquid,h+,-5.28,-0.58,(3-aminopropyl)triethoxysilane,25,,water
+10.1021/acsami.0c08555,liquid,hydrogen peroxide,-2.468393368,,boron carbon nitride,25,7,water
+10.1016/j.ijhydene.2011.09.031,gas,hydrogen,1.176091259,4,palladium,25,-1,oxygen/nitrogen
+10.1142/S0219581X11009222,gas,trinitrotoluene,-3,,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1016/j.snb.2023.134788,liquid,na+,-1.890084137,3.565847819,sodium ionophore x,25,7,water/glucose/saccharose/monosodium phosphate/calcium chloride/sodium chloride/4-(2-hydroxyethyl)-1-piperazine ethanesulfonic acid/potassium chloride
+10.1016/j.snb.2023.134788,liquid,k+,-0.024581979,2.494154594,valinomycin,25,7,water/glucose/saccharose/monosodium phosphate/calcium chloride/sodium chloride/4-(2-hydroxyethyl)-1-piperazine ethanesulfonic acid/potassium chloride
+10.1016/j.snb.2023.134788,liquid,ca2+,0.049218023,,calcium ionophore ii,25,7,water/glucose/saccharose/monosodium phosphate/calcium chloride/sodium chloride/4-(2-hydroxyethyl)-1-piperazine ethanesulfonic acid/potassium chloride
+10.1109/LED.2012.2220515,liquid,h+,-6,-2,(3-aminopropyl)triethoxysilane,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2024.136146,liquid,as3+,-1.125402231,,dithiothreitol,25,7,water
+10.1109/JSEN.2023.3285892,gas,hydrogen fluoride,-0.659555885,1.77815125,lanthanum fluoride,25,-1,oxygen/nitrogen
+10.1109/ICSENS.2010.5690237,liquid,sodium chloride,3.766710207,-0.233289793,polyvinyl chloride,25,7,water
+10.1109/EDTM.2019.8731320,gas,ammonia,-4,,graphene,425,-1,oxygen/nitrogen
+10.1039/c8an00032h,liquid,h+,-4.94,-3.84,(3-aminopropyl)triethoxysilane,25,,water
+10.1002/advs.202302506,gas,ammonia,-2,0.698970004,zinc oxide,265,-1,oxygen/nitrogen
+10.1002/advs.202302506,gas,hydrogen sulfide,-2,0.698970004,zinc oxide,265,-1,oxygen/nitrogen
+10.1007/s42341-022-00381-0,gas,ammonia,0,,"6,13-bis(triisopropylsilylethynyl) pentacene",25,-1,oxygen/nitrogen
+10.1016/j.aeue.2024.155337,gas,hydrogen,-11.87614836,-6.876148359,palladium,320,-1,hydrogen
+10.1016/j.sna.2018.09.044,liquid,na+,-3.93930216,2.361727836,molybdenum disulfide,25,7,water
+10.1016/j.sna.2018.09.044,liquid,hg2+,-1.998699067,1.001300933,molybdenum disulfide,25,7,water
+10.1016/j.sna.2018.09.044,liquid,cd2+,-2.250209594,-0.250209594,molybdenum disulfide,25,7,water
+10.1021/acsami.0c00803,gas,nitrogen dioxide,-3.096910013,1.698970004,"poly{3,6-dithiophen-2-yl-2,5-bis(2-decyltetradecyl)pyrrolo[3,4-c]pyrrole-1,4-dione-alt-thienylenevinylene-2,5-yl}",25,-1,oxygen/nitrogen
+10.1557/adv.2016.330,liquid,sodium chloride,4.766710207,,silicon,25,7,water
+10.3390/chemosensors9020020,liquid,h+,-8,0,3-aminopropyltriethoxysilane/silicon dioxide,25,,water
+10.1021/acssensors.3c00653,gas,hydrogen sulfide,-1.698970004,0,platinum,150,-1,oxygen/nitrogen
+10.1021/nl401169k,liquid,h+,-6,-3,"8-hydroxy-1,3,6-pyrenetrisulfonic acid",37,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1149/07513.0011ecst,gas,isopropanol,-6,,graphene,21,-1,oxygen/nitrogen
+10.1016/j.matlet.2021.129370,gas,nitrogen dioxide,0,1.477121255,copper phthalocyanine,18,-1,oxygen/nitrogen
+10.1039/d3tc00891f,gas,ammonia,-0.301029996,1,"poly(diketopyrrolopyrrolethiophene-thieno[3,2,b]thiophene-thiophene) (pdpp-tt)",25,-1,oxygen/nitrogen
+10.1117/12.2506448,gas,nitrogen dioxide,0.301029996,1.477121255,"graphene/phenol/ethylene oxide/benzoic acid/6,13-bis(triisopropylsilylethynyl)pentacene",25,-1,oxygen/nitrogen
+10.1021/nl200623n,liquid,h+,-10,-2,alumina,22,,water
+10.1109/MIC.2013.6757947,gas,nitrogen dioxide,1,,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1016/j.snb.2022.132257,gas,nitrogen dioxide,-0.301029996,0.301029996,indium oxide,160,-1,oxygen/nitrogen
+10.1109/TRANSDUCERS.2019.8808294,gas,hydrogen sulfide,0.698970004,1,gold,25,-1,oxygen/nitrogen
+10.1109/TRANSDUCERS.2017.7994346,liquid,h+,-9,1,alumina,25,,water
+10.1016/j.snb.2021.130134,gas,water,2.902546779,4.281158408,graphene,20,-1,oxygen/nitrogen
+10.1016/j.jbiotec.2012.08.004,liquid,h+,-9,1,aluminum nitride/gallium nitride,80,,water
+10.1038/ncomms3954,liquid,hg2+,0.302330929,2.302330929,polyisoindigo,25,7,water/sodium chloride/magnesium chloride/calcium sulfate/potassium chloride
+10.7567/JJAP.53.11RD01,liquid,h+,-6.26,-0.992,aluminum nitride/gallium nitride,80,,water
+10.1080/03067319.2012.717269,gas,ozone,-2.387216143,-0.346787486,iron hydroxide oxide/carbon nanotube,25,-1,oxygen/nitrogen
+10.1016/j.snb.2023.134251,gas,ammonia,-0.498940738,1.698970004,"poly(2,5-bis(3-tetradecylthiophen-2yl)thieno(3,2-b)thiophene)/molybdenum disulfide",25,-1,oxygen/nitrogen
+10.1016/j.snb.2023.133661,gas,hydrogen,2,,tungsten trioxide,250,-1,oxygen/nitrogen
+10.3390/s19071585,liquid,h+,-6,0,aluminum oxide,25,,water
+10.1002/smll.202104168,liquid,h+,-6,0,aluminum oxide,25,,water
+10.1002/elan.201900405,liquid,h+,-6,0,aluminum oxide,25,,water
+10.3390/s21061939,liquid,h+,-6,-1,aluminum oxide,25,,water
+10.1002/elan.201900405,liquid,k+,-1.408935393,3.59E+00,poly(vinyl chloride),25,7,water
+10.1109/SENSORS56945.2023.10325245,liquid,h+,-5.14,-3.1,aluminum oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.bios.2021.113683,liquid,h+,-6,-1,aluminum oxide,37,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acs.accounts.6b00329,gas,dichloromethane,-3.193820026,,graphene,25,-1,oxygen/nitrogen
+10.1109/JEDS.2018.2861622,liquid,h+,-7,-1,aluminum oxide,25,,water
+10.1109/JSEN.2010.2100379,gas,hydrogen,1.176091259,4,palladium,25,-1,oxygen/nitrogen
+10.1109/JSEN.2020.2999378,gas,dimethyl methylphosphonate,-1,1.812913357,4-carboxyphenylboronic acid,25,-1,oxygen/nitrogen
+10.1088/1361-6528/ac512d,gas,methanol,-0.559090918,1.903089987,indium oxide/tin dioxide,25,-1,oxygen/nitrogen
+10.1109/ICEE50728.2020.9777095,gas,oxygen,0.698970004,1.176091259,indium oxide/zinc oxide/gallium oxide,25,-1,oxygen/nitrogen
+10.3390/s18030787,gas,methane,1,2.176091259,tin dioxide,25,-1,oxygen/nitrogen
+10.1109/JSEN.2014.2340436,gas,hydrogen,4.30E+00,,platinum,260,-1,helium
+10.3390/s19081855,gas,hydrogen,2.301029996,3.301029996,palladium,130,-1,oxygen/nitrogen
+10.1002/smll.202404633,gas,water,3.371067862,4.246129126,benzothiazole spiropyran,25,-1,oxygen/nitrogen
+10.1063/5.0124891,gas,nitrogen dioxide,-1,,carbon nanotube,30,-1,nitrogen
+10.1007/s10544-010-9497-z,liquid,h+,-2.300162274,3.399673721,aluminum oxide,25,,water
+10.1109/ICSENS.2011.6127311,gas,hexane,1.397940009,3.079181246,heptacyclene,25,-1,oxygen/nitrogen
+10.1109/LSENS.2023.3274682,liquid,ammonium,0.256236533,3.256236533,nonactin,25,7,sodium chloride/ammonium chloride/lactic acid/urea/acetic acid/water
+10.1109/JSEN.2013.2252527,gas,hydrogen,0,4,palladium,30,-1,oxygen/nitrogen
+10.1016/j.jelechem.2024.118572,liquid,sodium nitrite,-5.161180493,1.838819507,indium oxide,25,7.4,glycerol/sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acssensors.9b00731,liquid,h+,-8,0,aluminum oxide,25,,water
+10.1021/acssensors.9b01751,gas,nitrogen dioxide,-0.698970004,1.301029996,poly(bisdodecylquaterthiophene)/polystyrene,25,-1,oxygen/nitrogen
+10.1021/acssensors.9b01751,gas,sulfur dioxide,0.698970004,,poly(bisdodecylquaterthiophene)/polystyrene,25,-1,oxygen/nitrogen
+10.1021/acssensors.9b01751,gas,ammonia,0.698970004,,poly(bisdodecylquaterthiophene)/polystyrene,25,-1,oxygen/nitrogen
+10.1021/acssensors.9b01751,gas,hydrogen sulfide,0.698970004,,poly(bisdodecylquaterthiophene)/polystyrene,25,-1,oxygen/nitrogen
+10.3390/bios13030363,liquid,gadolinium cation (3+),-6.803547458,2.196452542,tetraxetan,25,7.4,potassium chloride/water
+10.1016/j.bios.2023.115150,liquid,ampicillin,1.491361694,2.301029996,iridium oxide,25,7,potassium phosphate/water
+10.4028/www.scientific.net/KEM.575-576.477,gas,formaldehyde,1,2.397940009,pentacene,25,-1,nitrogen
+10.1109/IEDM.2012.6479098,liquid,h+,-4,-1,aluminum oxide,25,,water
+10.1039/c7nr07745a,gas,methanol,3.079181246,3.806179974,platinum,25,-1,nitrogen
+10.1109/TED.2023.3336301,gas,hydrogen sulfide,-1.819014419,0.698970004,silver,25,-1,oxygen/nitrogen
+10.1063/1.4878659,liquid,h+,-4.5,-1.7,aluminum oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1007/s40843-021-1903-5,liquid,diethyl carbonate,0.146128036,2.77815125,"biurea /dinaphtho[2,3-b:2',3'-f]thieno[3,2-b]thiophene",25,-1,oxygen/nitrogen
+10.1038/s41598-021-83451-2,liquid,potassium chloride,0.872447648,4.872447648,carbon nanotube,25,7,water
+10.1016/j.carbon.2022.01.023,gas,ethanol,-1.301029996,0.954242509,carbon molecular sieve,150,-1,nitrogen
+10.1021/acsnano.3c01582,gas,ammonia,1.698970004,3.301029996,platinum diselenide,25,-1,oxygen/nitrogen
+10.1007/s00604-024-06487-x,liquid,phenytoin,-1.88941029,-1.27572413,zinc oxide,25,7,sodium dihydrogen phosphate/disodium hydrogen phosphate/water
+10.1016/j.synthmet.2019.04.010,gas,nitrogen dioxide,-1,0.301029996,"5,10,15-tris(pentafluorophenyl)corrole/cu2+/(4-hydroxyphenyl)diphenylmethanol",25,-1,nitrogen
+10.1016/j.snb.2016.10.051,liquid,h+,-11,2,aluminum oxide,25,,water
+10.1016/j.xcrp.2023.101564,gas,sulfur dioxide,0,1.698970004,titanium dioxide,175,-1,oxygen/nitrogen
+10.1002/cphc.201100918,liquid,h+,-5.5,-2.5,aluminum oxide,25,,water
+10.1016/j.synthmet.2021.116764,gas,ammonia,-1.397940009,1,"dipyrazino[2,3-f:2',3'-h]quinoxaline-2,3,6,7,10,11-hexacarbonitrile",25,-1,nitrogen
+10.7503/cjcu20180283,liquid,l-cystine,-0.189493949,2.380753771,polydithiopropane sulfonic acid,25,5,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/admi.202100314,liquid,h+,-7,0,aluminum oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.3390/molecules28135054,gas,nitrogen dioxide,-1,1.698970004,graphene,25,-1,nitrogen
+10.1109/LSENS.2024.3409363,liquid,pb2+,-3,1,graphene/phenol/ethylene oxide/benzoic acid,25,7,water
+10.1109/JSEN.2016.2625420,liquid,dopamine,-9.814797935,-1.814797935,4-carboxyphenylboronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/admi.202301088,gas,water,3.216165902,3.915135907,"2,8-difluoro-5,11-bis(triethylsilylethynyl)",25,-1,oxygen/nitrogen
+10.1007/s10904-020-01541-6,liquid,glucose,-1.744351269,-1.346411261,silver,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2024.135872,gas,ammonia,-0.356547324,1.301029996,"poly(2,5-bis(3-tetradecylthiophen-2yl)thieno(3,2-b)thiophene)",27,-1,oxygen/nitrogen
+10.1021/nl100892y,liquid,h+,-6,0,aluminum oxide,25,,water
+10.23919/SISPAD.2017.8085298,gas,hydrogen,4.7124,,zinc oxide,200,-1,nitrogen
+10.1002/admi.202200647,liquid,ammonium,-0.965612216,0.256236533,tungsten trioxide,25,7.4,water/sodium chloride/potassium chloride/calcium chloride
+10.1109/LSENS.2024.3420404,gas,trimethylamine,-1,0,graphene,25,-1,oxygen/nitrogen
+10.1021/acsami.3c00105,gas,methanol,0,2,"n-alkyl-diketopyrrolo-pyrrole-dithienylthieno[3,2-b]thiophene",25,-1,oxygen/nitrogen
+10.1016/j.snb.2023.133511,gas,ammonia,0.225309282,2.698970004,carbon nanotube,25,-1,oxygen/nitrogen
+10.1016/j.snb.2023.133430,gas,nitrogen dioxide,0.392696953,1.301029996,graphene,23,-1,nitrogen
+10.1021/acssensors.7b00047,liquid,h+,-8.4,-0.3,aluminum oxide,25,,water
+10.1016/j.snb.2022.132155,gas,"n,n-dimethylformamide",-3,-0.301029996,tin dioxide/zirconium oxide,28,-1,oxygen/nitrogen
+10.1109/JSEN.2017.2786739,gas,trinitrotoluene,-1.795880017,-0.872895202,parylene c,70,-1,nitrogen
+10.1016/j.snb.2023.134135,liquid,na+,-0.66514431,4.361727836,4-tert-butylcalix[4]arene-tetraacetic acid tetraethyl ester,25,7,sodium chloride/potassium nitrate/calcium chloride/magnesium sulfate/lactic acid/tris(hydroxymethyl)aminomethane/water
+10.1021/acsami.2c20391,gas,nitrogen dioxide,-2.522878745,0.698970004,triisopropylsilylethynyl pentacene,25,-1,nitrogen
+10.1039/d0tc05458e,gas,nitrogen dioxide,-0.301029996,1.301029996,diketopyrrolopyrrole fluorene copolymer,25,-1,oxygen/nitrogen
+10.1021/acssensors.4c00357,gas,nitrogen dioxide,-1,0,palladium/carbon nanotube,80,-1,oxygen/nitrogen
+10.3938/jkps.68.797,gas,nitric oxide,0.903089987,1.505149978,carbon nanotube,25,-1,oxygen/nitrogen
+10.1021/acs.nanolett.2c01107,liquid,h+,-6,0,aluminum oxide,25,,water
+10.1117/12.2024135,liquid,sodium chloride,-0.233289793,2.766710207,poly(3-hexylthiophene),25,7,water
+10.1021/acsanm.9b02037,liquid,h+,-7.77,-0.29,aluminum oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acs.analchem.4c00435,liquid,hg2+,-6,-0.381951903,gallium nitride,25,7.2,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.apsusc.2017.03.167,liquid,h+,-6,2,aluminum oxide,23,,water
+10.1016/j.matlet.2016.01.131,liquid,glucose,-0.744356091,2.255643909,gold,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/JSEN.2024.3444482,liquid,phenobarbital,-0.56219032,1.763867681,cerium dioxide/copper oxide/nickel oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/admt.202101149,liquid,hydrogen peroxide,2.522704993,5.522704993,poly(3-hexylthiophene),25,7,water
+10.1016/j.snb.2017.06.152,liquid,h+,-6,-1,aluminum oxide,25,,water
+10.1016/j.snb.2014.11.142,gas,nitrogen dioxide,-0.698970004,,indium arsenide,25,-1,nitrogen
+10.1149/1945-7111/abc0ac,gas,hydrogen,1.301029996,3.698970004,palladium oxide,25,-1,oxygen/nitrogen
+10.1109/JSEN.2021.3087333,liquid,h+,-7,1,aluminum oxide,30,,water
+10.1007/s00542-012-1434-z,gas,nitrogen monoxide,1.698970004,2.301029996,platinum,380,-1,nitrogen
+10.1109/ICSENS.2017.8234339,liquid,glucose,-0.744356091,3.255643909,zinc oxide,37,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsami.1c04570,gas,nitrogen dioxide,0.698970004,1.698970004,poly(3-hexylthiophene),25,-1,nitrogen
+10.1109/JSEN.2022.3201159,liquid,h+,-9,1,aluminum oxide/gallium oxide/zinc oxide,25,,water
+10.1109/TED.2021.3129711,liquid,h+,-11,0,aluminum oxide/hafnium oxide,25,,water
+10.1007/s12274-016-1356-7,liquid,methanol,4.597695186,4.8178297,tin dioxide,25,7,water
+10.1007/s12274-016-1356-7,liquid,nitric acid,2.875061263,4.355834496,tin dioxide,25,1,water
+10.1109/ECTC.2017.212,gas,ammonia,-1,2,graphene,25,-1,oxygen/nitrogen
+10.1117/12.2185259,gas,ammonia,0.698970004,1.176091259,graphene,25,-1,oxygen/nitrogen
+10.1149/1945-7111/abdc63,liquid,uric acid,1,2.477121255,nickel(ii) oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/JSEN.2023.3288932,gas,hydrogen sulfide,-0.698970004,0,"poly[2,6-(4,4-bis-(2-ethylhexyl)-4h-cyclopenta [2,1-b; 3,4-b’] dithiophene)-alt-4,7-(2,1,3-benzothiadiazole)]",25,-1,oxygen/nitrogen
+10.1021/acsami.1c16807,gas,hydrogen sulfide,-1.602059991,,fullerene/bromine,25,-1,oxygen/nitrogen
+10.1109/LED.2011.2164230,liquid,h+,-10,2,aluminum oxide/zinc oxide,25,,water
+10.1155/2013/152079,liquid,h+,-10,2,aluminum oxide/zinc oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.cplett.2015.07.026,gas,ammonia,-0.525783736,2,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1016/j.mtcomm.2023.105379,gas,nitrogen dioxide,0.602059991,1.204119983,zirconium trisulfide,25,-1,oxygen/nitrogen
+10.1149/2162-8777/acbf71,gas,hydrogen,-8.876148359,-3.876148359,palladium,25,-1,oxygen/nitrogen
+10.3390/s22186947,liquid,cu2+,-8.494850022,-2.494850022,1-pyrenecarboxaldehyde hydrazone,25,7,water
+10.1016/j.snb.2015.12.056,gas,nitrogen dioxide,-2.698970004,1.397940009,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.7567/JJAP.55.01AE16,liquid,h+,-10,2,aluminum/zinc oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/pssa.201300589,liquid,h+,-7,0.8,amine,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/EuroSOI-ULIS53016.2021.9560701,gas,nitrogen dioxide,-0.301029996,,indium oxide,150,-1,oxygen/nitrogen
+10.1109/JSEN.2023.3312334,gas,hydrogen sulfide,0,,"poly[2,6-(4,4-bis-(2-ethylhexyl)-4h-cyclopenta[2,1-b;3,4-b']dithiophene)-alt-4,7-(2,1,3-benzothiadiazole)]",25,-1,oxygen/nitrogen
+10.1039/d3sc03616b,liquid,hydrogen sulfide,1.256800942,2.708616331,"dodecamethylbambus[6]uril hydrate, bu[6]",25,8,water
+10.1063/5.0042977,liquid,cadmium nitrate,-6.080921908,-5.698970004,polyvinyl chloride,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1063/1.3463453,liquid,h+,-9,1,amino-undecyl-triethoxysilane,25,,water
+10.1109/LED.2012.2190032,gas,hydrogen,0.698970004,4,palladium,25,-1,oxygen/nitrogen
+10.1149/2.0111807jss,gas,nitrogen dioxide,2.301029996,,phosphorus,25,-1,oxygen/nitrogen
+10.1149/2.0111807jss,gas,ammonia,2.301029996,,phosphorus,25,-1,oxygen/nitrogen
+10.1021/acsami.8b10789,gas,isopropyl amine,-2,2,poly(3-hexyl thiophene),25,-1,oxygen/nitrogen
+10.3390/bios13010132,gas,nitric oxide,-0.301029996,1.477121255,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.3390/cryst10090810,liquid,hydrogen,-7,-1,indium oxide/gallium oxide,25,7,water
+10.1016/j.chemosphere.2021.131695,liquid,cr3+,-0.435807539,0.716003344,zinc oxide/graphene/phenol/ethylene oxide/benzoic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsanm.4c02392,gas,ammonia,-0.397940009,1.301029996,ruthenium,25,-1,oxygen/nitrogen
+10.7567/JJAP.54.04DK02,liquid,histamine,3.000151976,,5-carboxy-1-pentanethiol,25,5.5,2-morpholinoethanesulfonic acid/water
+10.1002/advs.201901001,liquid,h+,-3,2,azobenzene,25,,water
+10.1002/pssa.200983310,liquid,h+,-8,0,barium strontium titanate,25,,tris/tromethamine/hydrochloric acid/water
+10.1109/JSEN.2023.3304815,gas,ammonia,-1,0,tungsten disulfide,27,-1,oxygen/nitrogen
+10.1109/ICSENS.2013.6688279,gas,benzene,-3,-2.346787486,platinum,200,-1,oxygen/nitrogen
+10.1007/s11664-022-09526-6,liquid,h+,-9,-3,bismuth oxide,25,,water
+10.1021/acsami.0c18549,gas,nitrogen dioxide,0,1.301029996,"poly[2,5-(2-octyldodecyl)-3,6-diketopyrrolopyrrole-alt-5,5-(2,5-di(thien-2-yl)thieno[3,2-b]thiophene)]",25,-1,oxygen/nitrogen
+10.1002/smll.202201861,liquid,na+,-0.638272164,3.361727836,graphene/phenol/ethylene oxide/benzoic acid,25,4.7,sodium chloride/ammonium chloride/lactic acid/urea/acetic acid/water
+10.1002/smll.202201861,liquid,k+,-0.408935393,3.591064607,graphene/phenol/ethylene oxide/benzoic acid,25,4.7,sodium chloride/ammonium chloride/lactic acid/urea/acetic acid/water
+10.1016/j.sse.2019.107648,gas,acetone,0.698970004,3.301029996,manganese dioxide/zinc oxide,340,-1,oxygen/nitrogen
+10.1002/pssa.202000278,liquid,h+,-9,1,boron/diamond,25,,boric acid/citric acid monohydrate/trisodium phosphate dodecahydrate/water
+10.1039/d3ta02070c,gas,toluene,-1.096910013,0.954242509,palladium,25,-1,oxygen/nitrogen
+10.1039/d3ta02070c,gas,formaldehyde,-1.301029996,0.954242509,cobalt oxide,25,-1,oxygen/nitrogen
+10.1039/d3ta02070c,gas,benzene,-1.301029996,0.954242509,palladium/cobalt oxide,25,-1,oxygen/nitrogen
+10.1039/d3ta02070c,gas,ammonia,-1.301029996,0.954242509,gold/cobalt oxide,25,-1,oxygen/nitrogen
+10.1039/d3ta02070c,gas,nitrogen dioxide,-1.301029996,0.954242509,chromium/cobalt oxide,25,-1,oxygen/nitrogen
+10.3390/s17051040,liquid,h+,-7,1,boron/diamond,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.apsusc.2023.156959,gas,nitrogen dioxide,-3.73754891,0,gold,30,-1,oxygen/nitrogen
+10.3390/chemosensors10110467,gas,ammonia,0,2,polypyrrole,25,-1,oxygen/nitrogen
+10.1016/j.spmi.2022.107186,liquid,h+,-9.2,-0.1,boron/silicon,30,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/adfm.202215215,gas,nitrogen dioxide,-0.036212173,,"2,8-difluoro-5,11-bis(triethylsilylethynyl)anthradithiophene",25,-1,oxygen/nitrogen
+10.1002/admi.202100493,gas,ammonia,0.301029996,2,bithiophene,26,-1,nitrogen
+10.1039/d1tc04618g,gas,acetone,-1.161150909,0.602059991,neodymium oxide/indium oxide,20,-1,oxygen/nitrogen
+10.3390/s23239321,gas,ethanol,1.698970004,,molybdenum disulfide/copper phthalocyanine,25,-1,oxygen/nitrogen
+10.3390/chemosensors11020074,liquid,h+,-1.9,0.2,c8-btbt,25,,sodium chloride/water
+10.1021/acsami.4c03107,gas,nitrogen dioxide,-2,2,2-pyridyl diketopyrrolopyrrole,25,-1,oxygen/nitrogen
+10.1039/d2sd00023g,liquid,h+,-5,-2,carbon,25,,sodium chloride/potassium chloride/calcium chloride/sodium dihydrogen phosphate/magnesium sulfate/disodium hydrogen phosphate/water
+10.3390/s21144748,liquid,urea,-0.221414672,4.27827241,tin dioxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1143/APEX.4.045102,liquid,h+,-1.11,-1.01,carbon nanotube,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsanm.3c05183,liquid,glucose,-1.762084858,3.100741949,silver,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.3390/molecules27072131,gas,ethanol,-0.301029996,1.698970004,"2,3,6,7,10,11-hexaiminotriphenylene/cu2+",25,-1,oxygen/nitrogen
+10.1109/LED.2013.2278214,liquid,h+,-10,2,carbon nanotube,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/adma.202403678,liquid,na+,-1.638272164,0.662757832,indium oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/ICSENS.2013.6688187,gas,nitrogen dioxide,-1.346787486,,indium nitride,25,-1,nitrogen
+10.1016/j.proeng.2015.08.677,gas,formaldehyde,-2,,silicon carbide,25,-1,oxygen/nitrogen
+10.1016/j.proeng.2015.08.677,gas,benzene,-3,,silicon carbide,25,-1,oxygen/nitrogen
+10.1016/j.proeng.2015.08.677,gas,naphthalene,-3.301029996,,silicon carbide,25,-1,oxygen/nitrogen
+10.1109/NEMS.2011.6017305,liquid,h+,-11,3,carbon nanotube,25,,water
+10.1021/jp506644w,gas,sulfur dioxide,1,1.698970004,platinum/silicon dioxide,200,-1,oxygen/nitrogen
+10.1039/d3nj05514k,liquid,h+,-9.96,1.79,carbon nanotube,25,,water
+10.1109/Transducers.2013.6626750,gas,benzene,-1.301029996,1.698970004,4-amino-n-methylphthalimide,25,-1,oxygen/nitrogen
+10.1002/smll.202002875,liquid,hg2+,-0.697690722,1.302309278,carbon nanotube,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsnano.9b10090,liquid,hydrogen peroxide,-2.468521083,1.531478917,sodium 2-anthraquinonesulfonate,25,7.45,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsami.6b12064,gas,nitrogen dioxide,2,,tellurium,25,-1,nitrogen
+10.1039/d3fd00149k,liquid,hydrogen peroxide,-2.769551079,-0.468521083,"4,4'-thiobisbenzenethiol",25,7.4,water
+10.1109/DRC.2017.7999422,liquid,k+,-7.408935393,2.892094603,valinomycin,25,7.4,tromethamine/hydrochloric acid/water
+10.1016/j.snb.2021.130956,liquid,cs+,-11.87614836,0.123851641,calix[4]arene/benzo-12-crown 4-ether,25,7.2,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1541/ieejsmas.130.407,gas,hydrogen,0.903089987,3.903089987,platinum,100,-1,oxygen/nitrogen
+10.1039/d3an00772c,liquid,uric acid,-1.996255201,-0.774406452,molybdenum disulfide,25,7,isopropyl alcohol
+10.1109/TNANO.2014.2318710,liquid,h+,-10,2,carbon nanotube,25,,water
+10.1021/acs.nanolett.8b02898,liquid,h+,-7,1,carbon nanotube,25,,water
+10.1021/acsami.3c05185,gas,diethyl sulfide,1,2.017033339,nickel,25,-1,oxygen/nitrogen
+10.1117/12.2604748,gas,nitrogen dioxide,-0.301029996,1.477121255,"poly(3-hexylthiophene-2,5-diyl)",25,-1,oxygen/nitrogen
+10.1063/1.3610554,liquid,h+,-7,1,carbon nanotube/nickel,25,,water
+10.7567/JJAP.56.04CM07,liquid,glucose,0.209886419,2.153271001,gold/4-mercaptophenylboronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1038/s41598-017-03209-7,liquid,h+,-9,1,cerium oxide/yttrium oxide,25,,water
+10.1109/TED.2023.3287509,gas,hydrogen sulfide,-3,0,"poly[2,6-(4,4-bis-(2-ethylhexyl)-4h-cyclopenta[2,1-b;3,4-b′] dithiophene)-alt-4,7(2,1,3 benzothiadiazole)]",25,-1,oxygen/nitrogen
+10.1016/j.mee.2022.111841,gas,sulfur dioxide,1,1.903089987,graphene/phenol/ethylene oxide/benzoic acid/titanium dioxide,25,-1,oxygen/nitrogen
+10.1021/acsami.3c19431,liquid,glucose,-0.308193444,3.255643909,"nickel(ii) nitrate hexahydrate/pyrene-1,3,6,8-tetraphosphonic acid",25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.ceramint.2018.04.047,liquid,h+,-9,1,cerium titanate,25,,water
+10.1109/ICSENS.2018.8589929,gas,acetone,1.477121255,2.176091259,tungsten trioxide,25,-1,oxygen/nitrogen
+10.1109/JSEN.2023.3271598,gas,nitrogen dioxide,-1.795880017,0.146128036,"poly[2,5-(2-octyldodecyl)-3,6-diketopyrrolopyrrole-alt-5,5-(2,5-di(thien-2-yl)thieno[3,2-b]-thiophene)]",25,-1,oxygen/nitrogen
+10.1016/j.apsusc.2017.04.248,liquid,h+,-8,0,chitosan,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2017.03.020,liquid,h+,-9,1,copper(ii) sulfide,25,,water
+10.1007/s10825-019-01373-9,liquid,trinitrotoluene,-1.643974143,0.054995862,3-aminopropyltriethoxysilane,25,7,water
+10.1109/ICSENS.2010.5690525,gas,hydrogen,2,4,platinum,115,-1,oxygen/nitrogen
+10.3390/s21020624,gas,nitrogen dioxide,1,,gallium nitride,20,-1,oxygen/nitrogen
+10.1103/PhysRevApplied.14.054014,gas,nitrogen dioxide,-4,0.698970004,molybdenum disulfide,25,-1,nitrogen
+10.18494/SAM.2019.2317,liquid,l-serine,1.301029996,2,ethylene glycol dimethacrylate-co-methacrylic acid,25,7,water
+10.1002/smll.202308857,gas,nitrogen dioxide,-0.397940009,0.477121255,zinc telluride,25,-1,oxygen/nitrogen
+10.1021/acsami.3c18605,liquid,cortisol,-12.44073991,-0.440739914,phosphorus,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.sna.2022.113679,gas,dimethyl methylphosphonate,-0.698970004,1.477121255,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1088/0022-3727/43/37/374020,liquid,h+,-9,1,diamond,25,,water
+10.24425/mms.2020.132777,gas,hydrogen,2.342422681,4.598790507,carbon/palladium,25,-1,nitrogen
+10.1109/TNB.2021.3112539,liquid,glucose,2.255643909,3.158733896,copper(ii) oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsnano.3c02626,gas,benzene,0.096910013,1.176091259,tetraphenylporphyrin/carbon nanotube,25,-1,oxygen/nitrogen
+10.1021/la200471b,liquid,h+,-7,1,ethyl undecylenate,25,,potassium chloride/water
+10.1016/j.sna.2018.01.033,liquid,hg2+,-4.301029996,-1.071604148,graphite,25,7,water
+10.1109/TIM.2024.3398086,gas,ammonia,-0.920818754,-0.045757491,gold,25,-1,nitrogen
+10.23919/AM-FPD49417.2020.9224482,gas,nitrogen dioxide,0,1.301029996,tin(ii) oxide,25,-1,oxygen/nitrogen
+10.1016/j.cej.2022.137097,gas,dimethyl methylphosphonate,-8,-1,"poly(3-hexylthiophene-2,5-diyl)",25,-1,oxygen/nitrogen
+10.1007/s10853-010-4603-4,liquid,h+,-9,1,fluorine/tin(iv) oxide,25,,water
+10.1016/j.aca.2022.340719,liquid,glucose,-2.744356091,3.653583918,gold/carbon nanotube,25,7.4,glycerol/sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.3390/ijms24076164,liquid,potassium chloride,0.591064607,4.591064607,valinomycin,25,7,water
+10.1016/j.snb.2023.133458,liquid,cortisol,-3.139709918,-1.733169738,"1,2-diaminobenzene",25,7.4,sodium chloride/potassium chloride/disodium hydrogen phosphate/potassium dihydrogen phosphate/water
+10.1088/1361-6641/abb288,liquid,lactic acid,-0.246031073,1.954628378,3-carboxy-5-nitrophenylboronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2023.134123,liquid,f-,-1.494307493,2.698970004,lanthanum fluoride,25,7,water
+10.1016/j.matlet.2020.128132,gas,ammonia,2.397940009,3,graphene,25,-1,oxygen/nitrogen
+10.1016/j.synthmet.2018.02.008,liquid,h+,-5,1,fluorine/tin(iv) oxide,25,,water
+10.1016/j.snb.2020.128955,liquid,na+,0.139879086,1.361727836,polyethylene glycol,25,7,water
+10.1117/12.2218397,liquid,potassium chloride,-3.127552352,-1.127552352,poly(3-hexylthiophene),25,7,water
+10.1109/ICEE50728.2020.9777024,gas,ammonia,0.698970004,1.698970004,platinum diselenide,25,-1,nitrogen
+10.1016/j.sbsr.2020.100394,liquid,hydrogen sulfide,2.434568904,4.230448921,acrylonitrile/butadiene,25,8,water
+10.1109/OJNANO.2022.3217255,gas,ammonia,0,1.361727836,"poly[2,5-bis(2-octyldodecyl)-3,6-diketopyrrolopyrrole-alt-5,5’-(2,5-di(thien-2-yl)thieno[3,2-b]thiophene)]",25,-1,nitrogen
+10.7567/JJAP.52.05DC02,gas,water,3.301029996,4,pentacene,25,-1,oxygen/nitrogen
+10.1016/j.apsusc.2013.09.080,liquid,h+,-7,1,gadolinium oxide/titanium dioxide,25,,water
+10.1109/EDSSC.2016.7785309,gas,hydrogen,0,3,palladium,25,-1,oxygen/nitrogen
+10.1109/SMELEC.2010.5549371,liquid,h+,-8.9,1.3,gallium nitride,25,,water
+10.1016/j.snb.2019.02.039,liquid,h+,-8,-0.5,gallium nitride,25,,sodium chloride/water
+10.1016/j.dyepig.2020.109017,gas,nitrogen dioxide,-0.721246399,1.698970004,triethylamine,25,-1,nitrogen
+10.1016/j.snb.2021.129598,gas,carbon dioxide,2.602059991,3.602059991,indium oxide,50,-1,oxygen/nitrogen
+10.1007/s11664-021-09210-1,liquid,h+,-9,1,gallium nitride,25,,water
+10.1016/j.snb.2023.135184,gas,dimethyl methylphosphonate,-2,,"thiazole/3-octylthiophene/2-(thiophen-3-yl)-1,3-thiazole-5-carbaldehyde/malononitrile",26,-1,oxygen/nitrogen
+10.7567/JJAP.54.06FF11,gas,oxygen,1,3,graphene,25,-1,oxygen/nitrogen
+10.1109/ICSENS.2013.6688369,gas,nitrogen dioxide,-4,-0.301029996,silicon,30,-1,oxygen/nitrogen
+10.1021/acsami.3c11191,gas,carbon monoxide,-0.698970004,0.477121255,fluorine/graphene,25,-1,nitrogen
+10.1109/TED.2021.3083208,gas,nitrogen dioxide,-1,2.698970004,indium oxide,105,-1,oxygen/nitrogen
+10.1109/ICSENS.2014.6984933,gas,ammonia,0,2.698970004,bis-methoxyphenol-perylene tetracarboxyllicdiimide,25,-1,oxygen/nitrogen
+10.1109/TED.2020.2973288,gas,hydrogen,2.301029996,4.176091259,palladium,30,-1,oxygen/nitrogen
+10.1016/j.mseb.2023.117113,liquid,h+,-8,0,gallium oxide,25,,water
+10.1007/s10854-019-02429-z,gas,nitrogen dioxide,1,,poly(vinyl alcohol),25,-1,oxygen/nitrogen
+10.1021/acsami.4c02352,liquid,ammonia,-1.956637722,1.230448921,molybdenum diselenide,25,6.8,water/potassium chloride/sodium chloride/magnesium chloride/calcium chloride/sodium dihydrogen phosphate dihydrate/disodium sulfide nonahydrate/sorbitol 
+10.1016/j.cej.2024.152319,gas,nitrogen dioxide,-2,0.301029996,cobalt,25,-1,nitrogen
+10.1016/j.jssc.2024.124934,liquid,h+,-8,0,gallium oxide,25,,water
+10.1021/acsaelm.2c00650,gas,nitrogen dioxide,1,1.698970004,sodium aluminosilicate,25,-1,oxygen/nitrogen
+10.3390/bios12060368,liquid,l-glutamine,0.766829094,3.465799099,aluminum oxide,25,4.9,acetate/water
+10.1002/celc.201700419,liquid,glucose,0.857708722,2.556678726,4-mercaptophenylboronic acid/gold,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/DevIC50843.2021.9455761,gas,hydrogen,-11.87942607,-6.879426069,palladium,25,-1,oxygen/nitrogen
+10.1109/BMEiCON.2014.7017392,liquid,serine,1.84509804,2,graphene,25,7,water
+10.1016/j.dyepig.2018.05.036,gas,nitric oxide,1.397940009,2.301029996,platinum,118,-1,nitrogen
+10.1109/iCBEB.2012.135,liquid,quinine,-0.488896396,3.511103604,tungstophosphoric acid,25,7,water
+10.1039/d2cc01899c,gas,ammonia,-2,2,benzo(ghi)perylene,25,-1,nitrogen
+10.1063/1.3518060,liquid,"2,4-dinitrotoluene",0,,diamond,25,7,water
+10.1016/j.snb.2012.09.109,liquid,h+,-7,-1,gallium oxide,25,,water
+10.1016/j.ijhydene.2015.02.126,gas,hydrogen,3,3.698970004,palladium,150,-1,nitrogen
+10.1109/ICSENS.2011.6127046,gas,nitrogen dioxide,1.698970004,2.301029996,silicon carbide,300,-1,oxygen/nitrogen
+10.3390/bios13050516,liquid,dopamine,-8.814797935,-0.814797935,tin(iv) oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1007/s00216-022-04306-x,liquid,"1,2-diphenylethylenediamine",-7.673070463,1.326929537,cellulose/trimethylolpropane tris((3-isocyanato-4-methylphenyl)carbamate),25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/d0cp05710j,liquid,nicotine,1.988282419,,molybdenum disulfide,25,7,isopropyl alcohol
+10.1063/1.3647561,gas,carbon monoxide,2,2.397940009,zinc oxide,150,-1,nitrogen
+10.3390/bios13010089,liquid,na+,-0.638272164,4.361727836,sodium ionophore iii,25,7.4,tromethamine/hydrochloric acid/water
+10.3390/bios13010089,liquid,k+,-0.408935393,4.591064607,valinomycin,25,7.4,tromethamine/hydrochloric acid/water
+10.1109/ICSENS.2010.5690196,liquid,dopamine,-9.814797935,-3.814797935,4-carboxyphenylboronic acid,25,6,2-(n-morpholino)ethanesulfonic acid/water
+10.1109/NANO58406.2023.10231318,liquid,hydrogen sulfide,-1.468521083,0.531478917,molybdenum diselenide,25,7,water
+10.1016/j.envres.2023.117193,liquid,cobalt ferrite,-10.65493617,-7.696328855,carbaryl,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.envres.2023.117193,liquid,cobalt ferrite,-10.81001868,-7.655116721,carbofuran,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2019.127609,liquid,h+,-7,-1,gallium oxide,25,,water
+10.1109/TED.2019.2920990,liquid,biotin,-1.301029996,1.698970004,indium oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1246/bcsj.20180065,liquid,citric acid,1.774943314,2.28358162,nickel nitrilotriacetic acid,25,7,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.mejo.2014.05.017,gas,1-butanol,1.759667845,2.361727836,"poly(2,5-bis(3-tetradecylthiophen-2-yl)thienol [3,2-b]thiophene)",25,-1,nitrogen
+10.1016/j.bios.2024.116560,liquid,na+,-0.638272164,3.565847819,silicon nitride,25,7.9,tris(hydroxymethyl)aminomethane/sodium chloride/potassium nitrate/water
+10.1016/j.mssp.2019.104626,liquid,glucose,2.556678726,3.100746771,nickel,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1149/08615.0013ecst,gas,ammonia,-2.397940009,0.602059991,graphene,425,-1,nitrogen
+10.1016/j.snb.2014.12.025,liquid,h+,-9,1,gallium oxide,25,,water
+10.1002/masy.201400131,gas,ammonia,0.954242509,,polypyrrole,25,-1,nitrogen
+10.1016/j.mseb.2021.115542,liquid,h+,-8,2,gallium oxide,25,,water
+10.1149/2.0031807jss,liquid,urea,1.778585328,2.67840583,fluorine/tin dioxide,25,6,water/sodium phosphate/citric acid/sodium citrate
+10.3390/s23177554,liquid,hg2+,-2.464694611,-0.396660726,thiourea/polystyrene,21,7,water
+10.1186/s11671-018-2652-9,gas,nitrogen dioxide,1,1.477121255,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1186/s11671-018-2652-9,gas,ammonia,1,1.477121255,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1021/acsapm.9b00707,gas,methanol,3.934498451,,carbon nanotube,23,-1,oxygen/nitrogen
+10.1016/j.snb.2012.08.076,gas,"2,4,6-trinitrotoluene",1.77815125,,poly(3-hexylthiophene),60,-1,oxygen/nitrogen
+10.1021/acsanm.4c01880,gas,ammonia,-1.795880017,2.301029996,carbon nanotube/cu2+/dipyrrin,25,-1,oxygen/nitrogen
+10.3390/app14146131,liquid,h+,-6.18,-1,gold,25,,water
+10.1016/j.snb.2023.135027,liquid,k+,0.591064607,3.591064607,"poly(3,4-ethylenedioxythiophene)/polystyrene sulfonate",25,7,magnesium chloride/water
+10.7567/JJAP.55.067102,gas,hydrogen,2,4,titanium dioxide/platinum,115,-1,oxygen/nitrogen
+10.1002/adma.201505641,gas,xylene,1.602059991,2.176091259,poly(diketopyrrolopyrrole-terthiophene),25,-1,nitrogen
+10.1038/ncomms9632,gas,nitrogen dioxide,-1.698970004,0,phosphorus,25,-1,oxygen/nitrogen
+10.1021/acsami.2c06904,gas,ammonia,-1,1,"poly(diketopyrrolopyrrolethiophene-thieno[3,2-b]thiophene–thiophene)",25,-1,oxygen/nitrogen
+10.1109/LED.2017.2707592,gas,hydrogen sulfide,0.698970004,1.875061263,tin dioxide,180,-1,oxygen/nitrogen
+10.1021/acsami.4c03999,liquid,pb2+,-3.683610249,-0.683610249,glutathione,25,7,water
+10.1109/ICSENS.2016.7808463,gas,nitrogen dioxide,-1,,graphene,25,-1,oxygen/nitrogen
+10.1109/ICSENS.2016.7808463,gas,ammonia,-0.000012,,graphene,25,-1,oxygen/nitrogen
+10.1007/s10404-010-0740-y,liquid,h+,-7,-1,gold,25,,water
+10.1021/acs.analchem.3c02894,gas,nitrogen dioxide,-2.229147988,1,violet phosphorus,25,-1,oxygen/nitrogen
+10.1021/acs.analchem.3c02894,gas,nitrous oxide,-0.103473783,1,violet phosphorus,25,-1,oxygen/nitrogen
+10.1007/978-1-4614-0935-9_19,gas,water,3.649821463,,polyhexylthiophene,19,-1,oxygen/nitrogen
+10.1021/acssensors.7b00754,gas,n-butylamine,-1,3.176091259,silicon dioxide,25,-1,nitrogen
+10.1021/acssensors.7b00754,gas,ethanol,-1,3.301029996,silicon dioxide,25,-1,nitrogen
+10.1109/TED.2023.3269727,gas,formaldehyde,0.698970004,3,l-ascorbic acid/graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1109/TED.2022.3151044,gas,hydrogen,2.301029996,4.176091259,palladium,25,-1,oxygen/nitrogen
+10.1021/acsami.1c09985,gas,methanethiol,2,3,n-(9-acridinyl)maleimide,25,-1,nitrogen
+10.1016/j.snb.2023.134944,gas,formaldehyde,-1.698970004,0,copper(ii) oxide,175,-1,oxygen/nitrogen
+10.3390/ma13092176,gas,water,3.371067862,4.325310372,tin(iv) oxide,25,-1,oxygen/nitrogen
+10.1038/s41598-023-34617-7,gas,ammonia,1,1.698970004,curcumin/graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1149/1945-7111/ad6e21,liquid,h+,-9,1,gold/gallium nitride/aluminum nitride/gallium nitride,25,,water
+10.3390/s16060917,gas,nitrogen dioxide,-2,-1.301029996,tin(iv) oxide,25,-1,nitrogen
+10.1021/acssensors.2c02562,liquid,tetracycline,-2.452371245,-0.352191747,tetraethyl orthosilicate/3-aminopropyltriethoxysilane/tetracycline,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/admt.202301786,liquid,k+,-0.408935393,3.591064607,polyvinyl chloride,25,7.4,water
+10.1063/5.0165876,liquid,h+,-7,-1,graphene,25,,water/phosphoric acid
+10.1088/0256-307X/37/9/098501,gas,oxygen,2.994756945,4.994299552,zinc oxide/copper oxide/rhodium oxide,25,-1,oxygen/nitrogen
+10.1039/d1nr05992k,liquid,hg2+,-6.697690722,-0.697690722,molybdenum disulfide,25,7,water
+10.1109/NMDC.2016.7777070,gas,ethanol,0.113943352,,carbon nanotube,25,-1,oxygen/nitrogen
+10.1016/j.microc.2022.108043,liquid,nitrate,-4.093664958,-0.207608311,triethylamine,25,7,water
+10.1016/j.jmst.2023.04.010,liquid,hg2+,-3.096910013,0.380211242,rhenium sulfide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1117/12.2187021,gas,nitric oxide,0,1.602059991,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1016/j.snb.2019.127147,gas,nitrogen dioxide,-1,0.397940009,zinc oxide,180,-1,oxygen/nitrogen
+10.1007/s11431-014-5539-8,gas,nitrogen dioxide,-0.698970004,0,alpha-sexithiophene,25,-1,oxygen/nitrogen
+10.5194/jsss-8-261-2019,gas,ammonia,1,2,lithium oxide/tungsten trioxide,300,-1,oxygen/nitrogen
+10.1002/admt.202100481,liquid,h+,-9,0,graphene,25,,water
+10.1149/2162-8777/ad3d86,gas,hydrogen,2.301029996,,platinum,25,-1,oxygen/nitrogen
+10.1016/j.apsusc.2024.161025,gas,nitrogen dioxide,-1.301029996,1,titanium carbide,25,-1,oxygen/nitrogen
+10.1016/j.diamond.2018.11.005,liquid,h+,-9,1,graphene,25,,water
+10.1007/s11664-014-3461-2,gas,acetone,1.698970004,2,copper phthalocyanine sulfonate,35,-1,oxygen/nitrogen
+10.1109/NANO47656.2020.9183686,gas,nitrogen dioxide,-0.301029996,1,platinum diselenide,25,-1,nitrogen
+10.1016/j.snb.2013.04.019,gas,methanol,1.698970004,3.204119983,platinum,200,-1,nitrogen
+10.1016/j.mssp.2022.106927,gas,hydrogen sulfide,-0.823908741,2,zinc oxide/tin dioxide,70,-1,oxygen/nitrogen
+10.1109/Transducers.2013.6626749,gas,ammonia,2.397940009,2.698970004,platinum,187,-1,nitrogen
+10.1109/Transducers.2013.6626749,gas,carbon monoxide,2.397940009,2.698970004,platinum,187,-1,nitrogen
+10.1088/1361-6528/abfe90,gas,nitrogen dioxide,-0.568636236,1.255272505,"6,13-bis(triisopropylsilylethynyl)pentacene",25,-1,oxygen/nitrogen
+10.1109/Transducers.2013.6627199,gas,carbon monoxide,1.301029996,2.903089987,platinum,260,-1,nitrogen
+10.1039/d2tb01067d,liquid,hyoscyamine,-0.538538992,0.306559048,"poly(n-isopropylacrylamide-co-2,2-dimethyl-4-pentenoic acid-co-n,n′-methylenebisacrylamide)",25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/d2nr05838c,liquid,h+,-8,0,graphene,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/aelm.202300872,liquid,k+,0.545307116,0.989004616,graphene,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/DRC46940.2019.9046473,gas,ammonia,2,3,platinum,25,-1,oxygen/nitrogen
+10.1063/1.4819219,liquid,h+,-9,1,graphene,25,,water
+10.1088/0957-0233/22/10/107002,liquid,h+,-7,-1,graphene,25,,water
+10.1007/s00339-020-03627-x,gas,putrescine,-2.522878745,1.875061263,"poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2h,5h)-dione-alt-2,2′:5′,2″:5″,2‴-quaterthiophene]",25,-1,oxygen/nitrogen
+10.1109/SENSORS47087.2021.9639820,gas,hydrogen,3,4,indium oxide/tin dioxide,200,-1,nitrogen
+10.1021/acsami.5b10183,liquid,h+,-5.25,-3.55,graphene,25,,water
+10.1016/j.snb.2021.130949,liquid,nitrate,-3.743763467,1.256236533,fluoropolysiloxane,25,7,water
+10.1016/j.snb.2021.130949,liquid,ammonium,-2.207608311,2.792391689,fluoropolysiloxane,25,7,water
+10.1117/12.861602,gas,ammonia,0,2,poly(3-hexylthiophene),25,-1,argon
+10.1016/j.matt.2019.11.004,liquid,h+,-5,-3,graphene,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.synthmet.2020.116295,gas,ammonia,0,,"4,4′,4′′,4′′′-(porphine-5,10,15,20-tetrayl)tetrakis(benzoic acid)",25,-1,nitrogen
+10.7567/JJAP.52.06GK04,liquid,h+,-6.3,-1,graphene,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1088/1361-6463/ad06ec,liquid,copper(ii) phthalocyanine-tetrasulfonic acid tetrasodium salt,-1.229370345,2.992478404,zinc oxide,25,7,water
+10.1002/smll.201101016,gas,nitrogen monoxide,-0.096910013,0.301029996,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1021/acsnano.5b01961,gas,nitrogen dioxide,-2.301029996,-1.397940009,phosphorus,25,-1,argon
+10.1021/nn100780v,liquid,dopamine,2.185202065,3.088292052,poly-l-lysine,25,7.2,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/adma.201504657,liquid,dopamine,-1.814797935,0.88417207,titanium carbide,25,7,water
+10.1021/nn102803q,gas,nitrogen monoxide,2,,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1021/nn103043v,liquid,ca2+,-1.397072287,0.343290402,graphene/phenol/ethylene oxide/benzoic acid,25,7,water
+10.1021/nn103043v,liquid,hg2+,-3.698449163,-2.251291132,graphene/phenol/ethylene oxide/benzoic acid,25,7,water
+10.1002/adma.201301138,gas,ammonia,1,2,tetrathiapentacene,25,-1,oxygen/nitrogen
+10.1002/anie.201000847,liquid,"2,4,6-trinitrotoluene",-8,,(3-aminopropyl)triethoxysilane,25,7,water
+10.1021/ac3012895,gas,nitrogen monoxide,-1.8239,1,graphene,25,-1,oxygen/nitrogen
+10.1021/ac3012895,gas,ammonia,-0.795880017,2,graphene,25,-1,oxygen/nitrogen
+10.1021/ac3000336,liquid,hg2+,-2.299750713,0.454597623,gold,25,7,water
+10.1016/j.bios.2011.05.025,liquid,dopamine,-3.11582793,-0.513767939,"poly(3,4-ethylenedioxythiophene)",25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/adma.201505946,gas,ammonia,1,,"poly([n,n′-bis(2-octyldodecyl)-naphthalene-1,4,5,8-bis(dicarboximide)-2,6-diyl]-alt-5,5′-(2,2′-bithiophene))",25,-1,oxygen/nitrogen
+10.1002/adma.201505946,gas,ethylene,3,,"poly([n,n′-bis(2-octyldodecyl)-naphthalene-1,4,5,8-bis(dicarboximide)-2,6-diyl]-alt-5,5′-(2,2′-bithiophene))",25,-1,oxygen/nitrogen
+10.1002/adma.201505946,gas,ethanol,3,,"poly([n,n′-bis(2-octyldodecyl)-naphthalene-1,4,5,8-bis(dicarboximide)-2,6-diyl]-alt-5,5′-(2,2′-bithiophene))",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-propenenitrile,-3,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,furfural,-2.522878745,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,6-methyl-5-heptene-2-one,-2.522878745,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentane,-0.920818754,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,heptane,0,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,decane,-0.886056648,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-methylpentane,1.62324929,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-ethyl-1-hexanol,-0.522878745,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,propanal,2.041392685,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentanal,0,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,acetone,1.397940009,,trichloro(phenethyl)silane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-propenenitrile,1,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,furfural,-0.698970004,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,6-methyl-5-heptene-2-one,-1.301029996,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentane,-0.602059991,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,heptane,0.176091259,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,decane,-0.301029996,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-methylpentane,1.819543936,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-ethyl-1-hexanol,-1.15490196,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,propanal,1.903089987,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentanal,0.301029996,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,acetone,1.531478917,,"trichloro(3,3,3-trifluoropropyl)silane",25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-propenenitrile,2,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,furfural,0.230448921,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,6-methyl-5-heptene-2-one,-2.522878745,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentane,0.662757832,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,heptane,1.51851394,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,decane,-1.698970004,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-methylpentane,2.574031268,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-ethyl-1-hexanol,-1.180456064,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,propanal,0.602059991,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentanal,-0.48148606,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,acetone,2.176091259,,heptanoyl chloride,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-propenenitrile,-2.22184875,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,furfural,-2,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,6-methyl-5-heptene-2-one,-0.823908741,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentane,0.477121255,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,heptane,1.602059991,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,decane,-0.522878745,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-methylpentane,2,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-ethyl-1-hexanol,-0.698970004,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,propanal,0.602059991,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentanal,0.301029996,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,acetone,1.477121255,,(3-aminopropyl)triethoxysilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-propenenitrile,0.954242509,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,furfural,-0.522878745,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,6-methyl-5-heptene-2-one,-2,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentane,-0.346787486,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,heptane,1.397940009,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,decane,-0.823908741,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-methylpentane,1,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-ethyl-1-hexanol,-1,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,propanal,1.397940009,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentanal,-0.22184875,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,acetone,1.819543936,,anthracene,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-propenenitrile,1.477121255,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,furfural,0.176091259,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,6-methyl-5-heptene-2-one,-2,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentane,0.954242509,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,heptane,0.477121255,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,decane,-0.301029996,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-methylpentane,2.51851394,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,2-ethyl-1-hexanol,-1.698970004,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,propanal,1.77815125,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,pentanal,-0.124938737,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1021/acsnano.6b03127,gas,acetone,1.653212514,,3-bromopropyltrichlorosilane ,25,-1,oxygen/nitrogen
+10.1002/adfm.201700999,gas,ammonia,-2,1,poly(methyl methacrylate),25,-1,nitrogen
+10.1016/j.snb.2015.11.005,gas,ammonia,0.698970004,1.698970004,poly(3-hexylthiophene)/polystyrene,25,-1,oxygen/nitrogen
+10.1002/adma.201204509,gas,sulfur dioxide,-0.301029996,1.301029996,copper(ii) phthalocyanine,25,-1,nitrogen
+10.1021/jz200087w,gas,nitrogen dioxide,2,,graphene,25,-1,oxygen/nitrogen
+10.1021/jz200087w,gas,ammonia,-4,,graphene,25,-1,oxygen/nitrogen
+10.1007/s10854-020-04101-3,liquid,h+,-6.5,-3.5,graphene,25,,sodium chloride/magnesium sulfate/water
+10.1126/sciadv.1602557,gas,hydrogen sulfide,-3,1,palladium/gold,25,-1,oxygen/nitrogen
+10.1021/nn103324p,liquid,"2,4,6-trinitrotoluene",-9.643725499,-1.643725499,tryptophan/histidine,25,7,water
+10.1088/0957-4484/21/48/485502,gas,nitrogen dioxide,1.096910013,,cupric oxide,25,-1,argon
+10.1002/adfm.201701117,gas,ammonia,-3,2,polyethyleneimine,25,-1,oxygen/nitrogen
+10.1021/am101259t,gas,carbon monoxide,-0.698970004,0.698970004,gold,25,-1,oxygen/nitrogen
+10.1109/MEMSYS.2014.6765828,liquid,h+,-6,0,hafnium dioxide,25,,water
+10.1021/nn201184c,gas,hexane,1.740362689,2.397940009,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/nn201184c,gas,octane,1.740362689,2.181843588,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/nn201184c,gas,decane,1.77815125,2.041392685,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/nn201184c,gas,water,2.769007871,,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/nn201184c,gas,ethanol,1.77815125,1.977723605,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/nn201184c,gas,n-butanol,1.698970004,2.06069784,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/nn201184c,gas,hexanol,1.176091259,2.06069784,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1016/j.snb.2009.11.067,gas,hydrogen,0.698970004,4.698970004,palladium,25,-1,oxygen/nitrogen
+10.1016/j.snb.2010.07.051,gas,carbon monoxide,0,0.698970004,zinc oxide/indium oxide,25,-1,nitrogen
+10.1002/adfm.201700018,gas,ammonia,-2,1,"dinaphtho[2,3-b:2',3'-f]thieno[3,2-b]thiophene",25,-1,oxygen/nitrogen
+10.1021/nl401498t,gas,carbon monoxide,-0.301029996,2,gold,25,-1,oxygen/nitrogen
+10.1016/j.snb.2012.06.010,gas,ammonia,-1,1.397940009,poly(3-hexylthiophene),27,-1,oxygen/nitrogen
+10.1007/s12274-016-1291-7,gas,nitrogen dioxide,2.477121255,,molybdenum diselenide,25,-1,nitrogen
+10.1002/adma.201701706,gas,nitrogen dioxide,-0.381951903,1.477121255,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1021/nn303795r,liquid,potassium chloride,2.872455221,4.872455221,hafnium oxide,25,6,potassium chloride/water
+10.1039/c1nr10270b,gas,nitrogen dioxide,2,,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1016/j.snb.2013.03.089,gas,hydrogen,1.698970004,2.477121255,palladium,75,-1,oxygen/nitrogen
+10.1002/adma.201303281,liquid,sodium chloride,-1.233289793,3.766710207,polyvinyl chloride,25,7,water
+10.1021/nn401998r,liquid,dopamine,-12.81479793,,carbon nanotube,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2012.06.060,gas,ammonia,1,2,pentacene,25,-1,oxygen/nitrogen
+10.1002/adma.201405378,liquid,melamine,-2,3,quinquethiophene,25,7,water
+10.1021/acsami.6b00471,gas,ammonia,1,2,"poly(2,5-bis(3-tetradecylthiophen-2-yl)thieno[3,2-b]thiophene)",25,-1,oxygen/nitrogen
+10.1002/anie.201916397,gas,ammonia,-4,0,di-n-octyl phthalate-d4,25,-1,oxygen/nitrogen
+10.1016/j.bios.2011.04.045,liquid,cortisol,-6,0,hydrocortisone 3-(o-carboxymethyl)oxime,25,7.2,sodium phosphate/ calcium chloride/ potassium chloride/sodium chloride/ mucin/urea/water
+10.1021/nn203653h,gas,decane,1.230448921,1.880813592,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/acsnano.5b05211,liquid,adenosine triphosphate,-2.294837881,0.705162119,polypyrrole,25,7,water
+10.1021/acsami.7b01833,gas,water,2.188720479,2.785579276,phosphorus,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2010.02.007,gas,nitrogen monoxide,-1,0.431363764,iron(iii) tetraphenylporphyrin chloride,25,-1,oxygen/nitrogen
+10.1021/ac403770x,liquid,hydrogen peroxide,-5.468333355,-2.468333355,graphene/phenol/ethylene oxide/benzoic acid/polypyrrole,25,7,water
+10.1002/adma.201305011,gas,ammonia,0,,polydimethylsiloxane,25,-1,oxygen/nitrogen
+10.1002/adma.201305011,gas,hcl,1,,polydimethylsiloxane,25,-1,oxygen/nitrogen
+10.1002/adma.201305011,gas,nitrogen dioxide,1,2.477121255,polydimethylsiloxane,25,-1,oxygen/nitrogen
+10.1002/adma.201908385,gas,ammonia,-2,0.698970004,ruthenium,25,-1,oxygen/nitrogen
+10.1002/adma.201908385,gas,hydrogen sulfide,-2,0.698970004,silver,25,-1,oxygen/nitrogen
+10.1007/s12274-014-0658-x,liquid,hg2+,-5.220565137,2.302313609,molybdenum disulfide,25,7,water
+10.1016/j.chempr.2017.08.015,liquid,amphetamine,-6.868991187,-0.868991187,cucurbit[7]uril,25,7,water
+10.1021/acsnano.0c06996,gas,nitrogen dioxide,-3.823908741,0,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2018.03.164,gas,ammonia,4.397940009,5.301029996,graphene,25,-1,argon
+10.1021/acs.langmuir.7b02466,gas,ammonia,-2.096910013,1.397940009,poly(3-hexylthiophene),26,-1,oxygen/nitrogen
+10.1016/j.carbon.2019.10.073,gas,nitrogen dioxide,-1,2,carbon nanotube,20,-1,nitrogen
+10.1021/acsnano.7b00628,liquid,glucose,-8.899253229,0.255648731,3-aminophenylboronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acs.analchem.6b03208,liquid,nitrogen monoxide,-7.522734005,-2.522734005,meso-tetra(4-carboxyphenyl)porphine/iron(iii) chloride,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.orgel.2011.12.015,liquid,potassium chloride,-3.127544779,1.872455221,valinomycin,25,8.6,tris-(hydroxymethyl)-aminomethane/water
+10.1021/acsanm.9b01133,gas,nitrogen dioxide,1.029383778,,gallium sulfide,150,-1,nitrogen
+10.1021/acssensors.8b00792,gas,acetone,0.698970004,2.301029996,zinc oxide,350,-1,oxygen/nitrogen
+10.1016/j.snb.2016.04.010,gas,nitrogen dioxide,0,1.204119983,zinc oxide,180,-1,oxygen/nitrogen
+10.1016/j.snb.2016.04.010,gas,hydrogen sulfide,0,1.204119983,zinc oxide,180,-1,oxygen/nitrogen
+10.1016/j.orgel.2013.09.018,gas,ammonia,0,2,pentacene,25,-1,oxygen/nitrogen
+10.1021/acssensors.9b02318,gas,nitrogen dioxide,-1,0.698970004,parylene c,25,-1,oxygen/nitrogen
+10.1002/adma.200903305,gas,ethyl acetate,2.301029996,3.477121255,calix[8]arene,25,-1,oxygen/nitrogen
+10.1088/0957-4484/22/40/405501,liquid,h+,-7,-1,hafnium dioxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2011.02.049,gas,ethanol,3,,poly(ethylene-co-vinyl acetate),30,-1,oxygen/nitrogen
+10.1016/j.snb.2011.02.049,gas,ethyl acetate,3,,poly(ethylene-co-vinyl acetate),30,-1,oxygen/nitrogen
+10.1021/nl404289z,gas,nitrogen dioxide,-3.698970004,0.301029996,tin(iv) oxide,25,-1,oxygen/nitrogen
+10.1109/JSEN.2011.2121901,gas,ammonia,-0.301029996,0.698970004,pentacene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2012.09.084,gas,hydrogen sulfide,2,2.698970004,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1109/TED.2017.2776144,liquid,h+,-6,0,hafnium dioxide,25,,water
+10.1016/j.orgel.2015.05.022,gas,nitrogen dioxide,-1,1,pentacene,25,-1,nitrogen
+10.1016/j.bios.2010.07.017,liquid,"2,4,6-trinitrotoluene",-3.301029996,0.698970004,ovalbumin,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/adfm.201501587,liquid,acetylcholine,-6.835030646,4.164969354,perhydroxycucurbit[6]uril,25,7,water
+10.1016/j.snb.2012.12.059,gas,hydrogen,1,3,platinum,300,-1,oxygen/nitrogen
+10.1021/acsami.0c15162,gas,nitrogen dioxide,-1.602059991,0,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1088/0957-4484/21/7/075502,gas,ammonia,-1.301029996,0.301029996,polyaniline,25,-1,oxygen/nitrogen
+10.1021/acssensors.9b01114,liquid,cu2+,-1.489341605,-0.020820523,nitrilotriacetic acid,25,7,4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid/water
+10.1021/am5001954,gas,ammonia,1,2,pentacene,25,-1,nitrogen
+10.1002/adfm.201300245,gas,acetic acid,3.176091259,,"benzo[lmn][3,8]phenanthroline-1,3,6,8(2h,7h)-tetrone",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,acetone,4.068185862,,"benzo[lmn][3,8]phenanthroline-1,3,6,8(2h,7h)-tetrone",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,isopropylamine,3,,"benzo[lmn][3,8]phenanthroline-1,3,6,8(2h,7h)-tetrone",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,water,2.04316572,,"benzo[lmn][3,8]phenanthroline-1,3,6,8(2h,7h)-tetrone",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,dimethyl methylphosphonate,2.903089987,,"benzo[lmn][3,8]phenanthroline-1,3,6,8(2h,7h)-tetrone",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,hydrogen peroxide,3.579783597,,"benzo[lmn][3,8]phenanthroline-1,3,6,8(2h,7h)-tetrone",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,hexane,3.414973348,,"benzo[lmn][3,8]phenanthroline-1,3,6,8(2h,7h)-tetrone",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,toluene,3.380211242,,"benzo[lmn][3,8]phenanthroline-1,3,6,8(2h,7h)-tetrone",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,acetic acid,3.176091259,,copper(ii) phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,acetone,4.068185862,,copper(ii) phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,isopropylamine,3,,copper(ii) phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,water,2.04316572,,copper(ii) phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,dimethyl methylphosphonate,2.903089987,,copper(ii) phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,hydrogen peroxide,3.579783597,,copper(ii) phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,hexane,3.414973348,,copper(ii) phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,toluene,3.380211242,,copper(ii) phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,acetic acid,3.176091259,,"n,n'-dimethyl-1,4,5,8-naphthalenetetracarboxylic diimide",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,acetone,4.068185862,,"n,n'-dimethyl-1,4,5,8-naphthalenetetracarboxylic diimide",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,isopropylamine,3,,"n,n'-dimethyl-1,4,5,8-naphthalenetetracarboxylic diimide",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,water,2.04316572,,"n,n'-dimethyl-1,4,5,8-naphthalenetetracarboxylic diimide",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,dimethyl methylphosphonate,2.903089987,,"n,n'-dimethyl-1,4,5,8-naphthalenetetracarboxylic diimide",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,hydrogen peroxide,3.579783597,,"n,n'-dimethyl-1,4,5,8-naphthalenetetracarboxylic diimide",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,hexane,3.414973348,,"n,n'-dimethyl-1,4,5,8-naphthalenetetracarboxylic diimide",25,-1,oxygen/nitrogen
+10.1002/adfm.201300245,gas,toluene,3.380211242,,"n,n'-dimethyl-1,4,5,8-naphthalenetetracarboxylic diimide",25,-1,oxygen/nitrogen
+10.1021/cg100538z,gas,water,3.371067862,,zinc oxide,25,-1,nitrogen
+10.1016/j.talanta.2014.02.005,gas,methanol,4.113943352,5.875061263,"poly(3,4-ethylenedioxythiophene)",25,-1,oxygen/nitrogen
+10.3390/s18020358,gas,nitrogen dioxide,0.301029996,0.698970004,indium oxide/gallium oxide/zinc oxide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2013.12.118,gas,ammonia,-0.886056648,3.380211242,graphene,25,-1,oxygen/nitrogen
+10.1016/j.electacta.2013.01.029,gas,nitrogen dioxide,-1.602059991,,tin dioxide,25,-1,oxygen/nitrogen
+10.1016/j.electacta.2013.01.029,gas,hydrogen,1,,tin dioxide,25,-1,oxygen/nitrogen
+10.1016/j.electacta.2013.01.029,gas,ammonia,0.397940009,,tin dioxide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2011.06.067,liquid,h+,-7,-1,hafnium dioxide,25,,water
+10.1002/adfm.201806244,gas,ammonia,2,3.301029996,"2,3,5,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane",25,-1,oxygen/nitrogen
+10.1021/acssensors.2c00475,gas,triethylamine,-1.853871964,1,platinum,25,-1,oxygen/nitrogen
+10.1021/acsami.0c12259,gas,ethanol,0,1.698970004,ytterbium oxide/indium oxide,25,-1,oxygen/nitrogen
+10.1021/acsami.7b15093,liquid,dopamine,-10.81479793,3.185202065,platinum,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2015.09.076,gas,"2,4,6-trinitrotoluene",-3,," cadmium cation/2,6-naphthalenedicarboxylic acid/isonicotinic acid ",25,-1,oxygen/nitrogen
+10.1016/j.snb.2015.09.076,gas,"1,3,5-trinitro-1,3,5-triazacyclohexane",-6,," cadmium cation/2,6-naphthalenedicarboxylic acid/isonicotinic acid ",25,-1,oxygen/nitrogen
+10.1002/adma.201404707,liquid,methanol,4,,calix[8]arene,25,7,water
+10.1063/1.4985708,gas,hydrogen,2.698970004,4.602059991,platinum,25,-1,oxygen/nitrogen
+10.1021/nn5064216,liquid,h+,-7,0,hafnium dioxide,25,,water
+10.1016/j.snb.2014.06.083,gas,ammonia,0.698970004,2.397940009,poly(methyl methacrylate),25,-1,oxygen/nitrogen
+10.1002/adfm.201001560,gas,nitrogen dioxide,-2,0.079181246,zinc oxide,40,-1,oxygen/nitrogen
+10.1021/jp409851m,gas,acetone,0.954242509,5.361727836,poly(tetraphenylporphyrin),25,-1,oxygen/nitrogen
+10.1016/j.snb.2019.03.046,gas,nitrogen dioxide,0,1.301029996,tin(ii) oxide,25,-1,oxygen/nitrogen
+10.1021/nn200262u,liquid,ca2+,-5.698970004,1.301029996,fluo-4-am,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/nl300603v,liquid,sodium chloride,-2.631229801,1.766710207,polydimethylsiloxane,25,7,water
+10.1039/c7nr01661a,liquid,sodium arsenite,-7.125402231,-3.125402231,carboxylated polypyrrole,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/adfm.201202473,gas,diethyl chlorophosphate,-2,2,"2,1,3-benzothiadiazole/tetrathiafulvalene",25,-1,oxygen/nitrogen
+10.1016/j.orgel.2017.05.040,gas,ammonia,-0.393618635,1.903089987,"poly (3, 3‴- dialkylquaterthiophene)",25,-1,oxygen/nitrogen
+10.1021/am404328g,gas,hydrogen,1.397940009,3.301029996,palladium,25,-1,oxygen/nitrogen
+10.1080/14686996.2016.1257344,liquid,glucose,-0.045381265,3.857708722,poly(2-hydroxyethylmethacrylate-co-vinylphenylboronic acid),25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/am401265z,gas,hexane,1,1.903089987,11-aminoundecyltrimethoxysilane,25,-1,oxygen/nitrogen
+10.1021/am401265z,gas,octane,1,1.903089987,11-aminoundecyltrimethoxysilane,25,-1,oxygen/nitrogen
+10.1021/am401265z,gas,decane,1,1.903089987,11-aminoundecyltrimethoxysilane,25,-1,oxygen/nitrogen
+10.1021/am401265z,gas,ethanol,1,1.903089987,11-aminoundecyltrimethoxysilane,25,-1,oxygen/nitrogen
+10.1021/am401265z,gas,hexanol,1,1.903089987,11-aminoundecyltrimethoxysilane,25,-1,oxygen/nitrogen
+10.1021/am401265z,gas,octanol,1,1.903089987,11-aminoundecyltrimethoxysilane,25,-1,oxygen/nitrogen
+10.1021/am401265z,gas,decanol,1,1.903089987,11-aminoundecyltrimethoxysilane,25,-1,oxygen/nitrogen
+10.1016/j.snb.2019.126837,liquid,glucose,2.255648731,3.158738718,ruthenium oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1088/0957-4484/21/18/185501,gas,nitrogen dioxide,-1.301029996,0,carbon nanotube,25,-1,oxygen/nitrogen
+10.1007/s12274-014-0489-9,liquid,h+,-5.8,-1.1,hafnium dioxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.talanta.2024.125731,liquid,h+,-8,1,hafnium dioxide,25,,bis-tris propane/water
+10.1021/acsami.9b15651,gas,nitrogen dioxide,-3.15490196,1.477121255,"poly(3-hexylthiophene-2,5-diyl)",25,-1,oxygen/nitrogen
+10.1016/j.snb.2018.10.002,gas,nitrogen dioxide,-0.602059991,1.477121255,"6,13-bis(triisopropylsilylethynyl)pentacene",25,-1,oxygen/nitrogen
+10.1109/EDSSC.2013.6628174,liquid,h+,-7,-1,hafnium dioxide/silicon dioxide/silicon nitride,25,,water
+10.3390/s24031017,liquid,h+,-7,-1,hafnium dioxide/tin dioxide,25,,water
+10.1063/1.4827811 ,gas,dimethyl methylphosphonate,1.698970004,2.477121255,graphene,25,-1,oxygen/nitrogen
+10.1039/C8TC06051G,gas,ethanol,1,2,calix[8]arene,25,-1,nitrogen
+10.1109/LED.2013.2294722,gas,nitrogen dioxide,0,1.698970004,tin(iv) oxide,180,-1,nitrogen
+10.1016/j.snb.2010.04.022,gas,"2,4,6-trinitrotoluene",-2,,copper tetraphenylporphyrin,25,-1,oxygen/nitrogen
+10.1002/smll.201403263,liquid,dopamine,-7.814797935,-3.814797935,platinum/carboxylated polypyrrole,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/am5089633,gas,nitrogen dioxide,-1,-0.301029996,silicon/gold,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2018.01.041,liquid,glucose,2.954618735,3.732769985,phenylboronic acid,25,8.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.3390/nano14141191,liquid,h+,-9,1,hafnium nitride/hafnium oxide,25,,water
+10.1016/j.bios.2018.07.014,liquid,dopamine,-2.212737943,0.486232061,n-[3-(dimethylamino)propyl]methacrylamide/4-vinylphenylboronic acid/ethylene glycol dimethacrylate,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.orgel.2015.04.001,gas,ammonia,2.158362492,3,"poly[2,5-bis(7-decylnonadecyl)pyrrolo[3,4-c]pyrrole-1,4(2h,5h)-dione-(e)-1,2-bis(5-(thiophen-2-yl)selenophen-2-yl)ethene]",25,-1,nitrogen
+10.1021/acsami.5b05479,gas,nitrogen dioxide,0,2,tin(iv) oxide,25,-1,oxygen/nitrogen
+10.1021/nl400645j,gas,ethanol,-0.301029996,,iron porphyrin,25,-1,oxygen/nitrogen
+10.1016/j.snb.2018.02.139,liquid,glucose,-3.744351269,0.255648731,palladium,25,7,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water/sodium hydroxide
+10.1016/j.snb.2020.128087,gas,hydrogen sulfide,1.698970004,,indium oxide,180,-1,oxygen/nitrogen
+10.1039/c8nr04472d,gas,oxygen,4.698970004,5.477121255,pt/indium oxide,25,-1,nitrogen
+10.1016/j.carbon.2015.01.060,gas,nitrogen dioxide,-1.397940009,2.301029996,palladium,25,-1,oxygen/nitrogen
+10.18494/SAM.2013.890,liquid,h+,-7,0,hafnium oxide,25,,water
+10.1021/acsnano.8b00580,gas,hydrogen,2.698970004,3.698970004,palladium/nickel,25,-1,oxygen/nitrogen
+10.1063/1.3360223,gas,oxygen,-1,5.875061263,picene,25,-1,oxygen/nitrogen
+10.1021/acsami.8b07838,gas,nitrogen dioxide,-0.856048884,1.477121255,poly(9-vinylcarbazole),25,-1,oxygen/nitrogen
+10.1088/0953-8984/28/8/085302,liquid,sodium chloride,1.942801466,3.942801466,graphene,25,7,water
+10.1016/j.orgel.2019.01.038,gas,ammonia,0.301029996,1.477121255,graphene/benzoic acid/ethylene oxide/phenol,25,-1,oxygen/nitrogen
+10.1149/1.3623421,liquid,h+,-7,1,hafnium oxide,25,,water
+10.1021/nn100988t,liquid,hydrogen peroxide,-0.769363351,2.531666645,epigallocatechin gallate,25,7,water
+10.1039/c9nr06096k,gas,nitrogen monoxide,-0.958607315,1,"poly(2,5-{2-octyldodecyl}-3,6-diketopyrrolopyrrole-alt-5,5-{2′,5′-di[thien-2-yl]thieno[3,2-b]thiophene})",25,-1,oxygen/nitrogen
+10.1002/elan.201100299,gas,hydrogen sulfide,-2.698970004,0,gold,25,-1,oxygen/nitrogen
+10.1063/1.3686686,liquid,ethanol,2,2.698970004,copper phthalocyanine,25,7,water
+10.1016/j.matchemphys.2012.09.037,gas,hydrogen,3.301029996,,ruthenium dioxide,25,-1,nitrogen
+10.1109/JSEN.2015.2480998,gas,nitrogen dioxide,0.698970004,1.397940009,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1021/acsnano.7b02986,liquid,h+,-6,-1,hafnium oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/TBCAS.2013.2276013,gas,ammonia,1.301029996,2,"poly(3,3”’-dialkylquaterthiophene)",23,-1,oxygen/nitrogen
+10.1021/acsami.8b13317,liquid,glucose,-0.267230015,2.857708722,poly(2-hydroxyethyl methacrylate),25,9,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/c8tc02447b,gas,ammonia,-0.397940009,0,"benzothiophene/1,1,3,3-tetramethyldisiloxane/[1]benzothieno[3,2-b][1]benzothiophene",25,-1,oxygen/nitrogen
+10.1016/j.apsusc.2011.05.101,gas,ethanol,6,6,graphene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2013.02.006,liquid,nitrate,-1.207573989,1.792426011,polyvinyl chloride,25,4,potassium dihydrogen phosphate/water
+10.1021/acsami.8b15427,gas,ammonia,-1.301029996,0.698970004,"benzothiophene/1,1,3,3-tetramethyldisiloxane",25,-1,oxygen/nitrogen
+10.1021/acsami.8b15427,gas,hydrogen sulfide,-2,0.698970004,"benzothiophene/1,1,3,3-tetramethyldisiloxane",25,-1,oxygen/nitrogen
+10.1002/chem.201504196,gas,hydrogen sulfide,-3,1.397940009,"poly(9,9'-spirobifluorene-alt-4,4'-biphenylene)",25,-1,nitrogen
+10.1088/1361-6528/ab277b,liquid,h+,-9,0,hafnium oxide,25,,water
+10.1021/acsami.1c17044,gas,formaldehyde,-2,-0.096910013,palladium/gold,150,-1,nitrogen
+10.1038/s41699-021-00273-6,liquid,h+,5.25,-2.65,hafnium oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/TED.2010.2063330,liquid,dopamine,-9.814797935,-3.814797935,4-carboxyphenylboronic acid,25,6,2-(n-morpholino)ethanesulfonic acid/water
+10.1002/elan.200900314,gas,ammonia,-2,2,carbon nanotube,25,-1,oxygen/nitrogen
+10.1088/0957-4484/24/24/245502,gas,ammonia,2.301029996,,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1016/j.synthmet.2014.12.009,gas,water,1.848189117,4.126942718,pentacene,25,-1,oxygen/nitrogen
+10.1016/j.synthmet.2015.11.021,gas,nitrogen dioxide,0.301029996,1.477121255,copper phthalocyanine,25,-1,nitrogen
+10.1016/j.nanoen.2019.01.052,gas,nitrogen dioxide,0,0.698970004,zinc oxide,25,-1,oxygen/nitrogen
+10.1016/j.cej.2021.131424,gas,isopropyl,0,2,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1016/j.cej.2021.131424,gas,ethanol,0,2,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1016/j.cej.2021.131424,gas,acetone,0,2,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1016/j.cej.2021.131424,gas,methanol,0,2,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1016/j.snb.2019.127040,gas,carbon monoxide,2.397940009,3.301029996,platinum,200,-1,oxygen/nitrogen
+10.1016/j.aca.2017.07.066,liquid,calcium chloride,-2.95475528,3.04524472,calcium ionophore iv,25,7,water
+10.1016/j.snb.2020.127850,liquid,dopamine,-10.09629625,-3.814797935,indium oxide/zinc oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2009.09.037,liquid,h+,-9,1,hafnium oxide,25,,water
+10.1021/acssensors.7b00305,liquid,carbonate,2.100370545,2.193124598,platinum,22.5,7,water
+10.1016/j.snb.2019.127215,liquid,h+,-8,0,hafnium oxide,25,,water
+10.1002/adfm.201101324,gas,ammonia,0.602059991,1.77815125,naphthalene tetracarboxylic diimide,25,-1,oxygen/nitrogen
+10.1021/acsami.5b03059,gas,ethanol,2,,graphene/benzoic acid/ethylene oxide/phenol,25,-1,oxygen/nitrogen
+10.1002/adma.201004203,gas,hydrogen,1,3.397940009,palladium,100,-1,oxygen/nitrogen
+10.1016/j.dyepig.2017.01.054,gas,ammonia,2.158362492,3,"3,6-diphenyl-2,5-dihydropyrrolo[3,4-c]pyrrole-1,4-dione",25,-1,nitrogen
+10.1016/j.sse.2015.07.012,gas,hydrogen,2,3,palladium,25,-1,oxygen/nitrogen
+10.1002/celc.201701117,gas,nitrogen dioxide,-0.301029996,0.477121255,"1,4,8,11,15,18,22,25-octabutoxy-29h,31h-phthalocyanine/yttrium",25,-1,nitrogen
+10.1002/celc.201701117,gas,ammonia,0.875061263,1.301029996,"1,4,8,11,15,18,22,25-octabutoxy-29h,31h-phthalocyanine/yttrium",25,-1,nitrogen
+10.1016/j.cej.2021.129588,gas,nitrogen dioxide,1,1.698970004,tetramethylammonium/silicon dioxide/aluminum oxide/li+/sr2+,25,-1,nitrogen
+10.1016/j.apsusc.2021.150351,gas,acetone,0,1,copper oxide/zinc oxide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2018.08.067,liquid,hexahydropyridine,0.827811744,1.930184652,iron(iii) oxide/nickel oxide/zinc oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1088/0957-4484/26/12/125502,liquid,poly-l-lysine,1.041392685,2.763427994,graphene,25,7,tromethamine/edetic acid/water
+10.1016/j.snb.2009.10.049,liquid,h+,-9,1,holmium titanate,25,,water
+10.1109/JEDS.2020.3008094,liquid,h+,-3,-1,indium arsenide,25,,water
+10.1002/aelm.202000812,gas,ammonia,-0.642065153,1.698970004,nickel porphyrin,25,-1,oxygen/nitrogen
+10.1002/anie.201000122,gas,diphenyl chlorophosphate,-0.301029996,-0.096910013,"1,5,7-trimethyl-3-azabicyclo[3.3.1]nonan-2-one/methanol",25,-1,oxygen/nitrogen
+10.1021/acsami.0c04810,gas,nitrogen dioxide,-0.301029996,1.301029996,diketopyrrolopyrrole-fluorene copolymer/gold,25,-1,oxygen/nitrogen
+10.1021/acsami.0c04810,gas,ammonia,0,1.301029996,diketopyrrolopyrrole-fluorene copolymer/gold,25,-1,oxygen/nitrogen
+10.1016/j.bios.2012.07.063,liquid,hydrogen peroxide,2.531666645,3.531666645,silicon nitride,25,7.2,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.spmi.2016.09.050,gas,hydrogen,-3.879426069,4.120573931,palladium,25,-1,oxygen/nitrogen
+10.1021/acsami.0c17225,gas,nitrogen dioxide,-2.318758763,2,graphene,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2010.04.021,gas,nitrogen dioxide,-1.698970004,-0.698970004,indigo,80,-1,oxygen/nitrogen
+10.1021/acsami.9b19309,liquid,serotonin,-0.975805629,-0.452926884,phenylboronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1088/1361-6528/aad94d,gas,nitrogen dioxide,-2.48148606,-1,phosphorus,25,-1,nitrogen
+10.1002/aelm.201901127,gas,ammonia,-0.301029996,1.698970004,poly(vinylidene fluoride-trifluoroethylene-chlorofluoroethylene),25,-1,oxygen/nitrogen
+10.1007/s10825-019-01349-9,gas,ammonia,-0.853871964,1.698970004,gold,27,-1,oxygen/nitrogen
+10.1016/j.snb.2020.128540,liquid,serotonin,-4.291558881,-0.753956879,aluminum oxide/bismuth oxide,25,7.2,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/d0nr04406g,gas,hydrogen sulfide,-1.173925197,1.602059991,indium oxide,180,-1,oxygen/nitrogen
+10.1166/jnn.2017.14039,gas,nitrogen dioxide,0,1,tungsten diselenide,25,-1,oxygen/nitrogen
+10.1166/jnn.2017.14039,gas,sulfur dioxide,0,1,tungsten diselenide,25,-1,oxygen/nitrogen
+10.1166/jnn.2017.14039,gas,ammonia,0,1,tungsten diselenide,25,-1,oxygen/nitrogen
+10.1166/jnn.2017.14039,gas,hydrogen sulfide,0,1,tungsten diselenide,25,-1,oxygen/nitrogen
+10.1021/acsami.8b13517,gas,beta-citronellol,0.161368002,2,n-(tert-butoxycarbonyl)-l-phenylalanine/pyrene,25,-1,oxygen/nitrogen
+10.1021/acsami.8b18752,liquid,dopamine,-2.814797935,1.185202065,nafion,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2013.02.080,liquid,h+,-5,-1,indium nitride,25,,water
+10.1021/acsami.8b06458,gas,ammonia,-4,2,poly(4-iso-cyano-benzoic acid 5-(2-dimethylamino-ethoxy)-2-nitro-benzylester)-b-poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1007/s10854-013-1301-4,liquid,h+,-9,1,indium oxide,25,,water
+10.1109/JSEN.2010.2080317,liquid,h+,-9,2.97,indium oxide,25,,water
+10.1007/s12274-017-1768-z,gas,nitrogen dioxide,0,,silicon nitride,25,-1,nitrogen
+10.1016/j.cej.2020.128064,liquid,k+,-1.805782134,2.768249134,valinomycin,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.mssp.2014.06.033,liquid,h+,-9,1,indium oxide/carbon nanotube,25,,water
+10.1021/acsnano.7b06853,gas,nitrogen dioxide,-3.318758763,-0.12767523,tantalum trisulfide,25,-1,nitrogen
+10.1143/JJAP.50.06GE07,liquid,sodium chloride,-4.233289793,1.766710207,graphene,25,7,tris(hydroxymethyl)aminomethane/water
+10.1109/JSEN.2016.2531121,gas,dimethyl methylphosphonate,0.698970004,1.176091259,polypyrrole,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2013.12.016,liquid,k+,-0.407845458,3.592154542,valinomycin ,25,7,water
+10.1016/j.orgel.2013.12.016,liquid,ca2+,-5.397072287,3.602927713,calcium ionophore iv,25,7,water
+10.1016/j.orgel.2011.09.014,gas,nitrogen dioxide,-0.602059991,0.602059991,"copper, [1,2,3,4,8,9,10,11,15,16,17,18,22,23,24,25-hexadecachloro-29h,31h-phthalocyaninato(2-)-kappan29,kappan30,kappan31,kappan32]-, (sp-4-1)-",295,-1,oxygen/nitrogen
+10.1016/j.mssp.2018.06.031,gas,hydrogen,2,3,titanium dioxide,25,-1,oxygen/nitrogen
+10.1016/j.jallcom.2016.10.168,liquid,glucose,-0.744351269,3.732769985,graphite,25,7,water
+10.1039/C6RA16736E,gas,ammonia,2,2.698970004,silicene,200,-1,oxygen/nitrogen
+10.1021/acssensors.9b01150,liquid,δ9-tetrahydrocannabinol,-5.500312917,-2.200659451,fast blue bb salt,25,9,sodium hydroxide/water
+10.1016/j.mseb.2017.08.019,gas,nitrogen dioxide,0,1.477121255,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/aelm.201700120,gas,ethanol,-3,0,diketopyrrolopyrrole-terthiophene conjugated polymer,25,-1,oxygen/nitrogen
+10.1016/j.snb.2013.12.030,gas,carbon monoxide,2.301029996,2.903089987,platinum,260,-1,nitrogen
+10.1002/adma.202101518,liquid,dopamine,-0.331924351,1.88417207,copper phthalocyanine,25,6.5,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2013.04.060,liquid,h+,-7,1,indium oxide/gallium oxide/zinc oxide,25,,water
+10.1039/C8TC02635A,gas,nitrogen dioxide,1.84509804,2.544068044,molybdenum ditelluride,25,-1,nitrogen
+10.1016/j.snb.2015.06.069,gas,carbon monoxide,0.698970004,2,tin dioxide,200,-1,oxygen/nitrogen
+10.1149/1945-7111/abcd4c,liquid,hydrazine,-4.415055768,-2.452844328,zinc oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2015.11.012,gas,ethanol,2.698970004,3.447158031,poly(3-hexylthiophene),25,-1,nitrogen
+10.1063/1.4759147,liquid,na+,-0.638466696,2.361533304,graphene,25,7,water
+10.1143/JJAP.49.024206,gas,hydrogen,1,4,platinum,25,-1,oxygen/nitrogen
+10.1016/j.snb.2016.05.096,gas,hydrogen sulfide,0,0.698970004,tin dioxide,25,-1,oxygen/nitrogen
+10.1109/MEMSYS.2013.6474408,gas,ammonia,1.477121255,3.698970004,1-ethyl-3-methylimidazolium tetrafluoroborate,25,-1,oxygen/nitrogen
+10.1021/jp306892p,gas,hydrogen peroxide,1.973127854,4.113943352,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/elan.201300015,gas,ammonia,-1.431798276,0,polyaniline,25,-1,oxygen/nitrogen
+10.1002/aelm.202000579,gas,dimethoate,-0.22184875,1,poly(sodium-p-styrenesulfonate),25,-1,oxygen/nitrogen
+10.1021/acsami.9b16552,gas,formaldehyde,-3,1.301029996,tin (ii) sulfide,25,-1,nitrogen
+10.1109/LED.2016.2536359,liquid,h+,-6,-1,indium oxide/gallium oxide/zinc oxide,25,,water
+10.1039/d0tc01341b,gas,ammonia,1,1.602059991,"poly[(3,6-bis(thiophen-2-yl)-2,5-bis(7-decylnonadecyl)-2,5-dihydropyrrolo[3,4-c]pyrrole-1,4-dione-selenopheno[3,2-b]thiophene-2,5-diyl)]",25,-1,oxygen/nitrogen
+10.1016/j.snb.2022.132113,gas,nitrogen dioxide,-2.638272164,1.477121255,"poly(3-hexylthiophene-2,5-diyl)",25,-1,oxygen/nitrogen
+10.1016/j.sna.2012.01.004,liquid,h+,-6,-2,indium oxide/silica,25,,water
+10.1016/j.snb.2020.128609,gas,ammonia,-1.22184875,-0.124938737,tetraphenylporphyrin,25,-1,oxygen/nitrogen
+10.1016/j.snb.2020.128609,gas,hydrogen sulfide,-0.920818754,0,tetraphenylporphyrin,25,-1,oxygen/nitrogen
+10.1039/d1ta02383g,gas,formaldehyde,-1,1,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1007/s13206-020-4410-1,liquid,h+,-6,-1,indium oxide/tin dioxide,25,,water
+10.1049/mnl.2018.5240,liquid,h+,-0.6,2.99,indium oxide/tin dioxide,25,,water
+10.3390/s23208350,liquid,h+,-9.98,2.64,indium oxide/tin dioxide,25,,water
+10.1021/acssensors.9b01307,gas,nitrogen dioxide,-1,3.301029996,molybdenum disulfide,25,-1,nitrogen
+10.1016/j.bios.2016.03.046,liquid,methylene blue,-2.822955787,2.98206761,graphene/benzoic acid/ethylene oxide/phenol,25,7,water
+10.1016/j.snb.2020.128676,gas,"n,n-dimethylformamide",-2.301029996,0.301029996,indium oxide/ytterbium oxide,25,-1,oxygen/nitrogen
+10.1109/JSEN.2011.2179645,gas,ammonia,1.698970004,2.352182518,platinum,330,-1,nitrogen
+10.1109/JSEN.2011.2179645,gas,carbon monoxide,2,2.602059991,platinum,330,-1,nitrogen
+10.1109/JSEN.2011.2179645,gas,nitrogen monoxide,2,2.602059991,platinum,330,-1,nitrogen
+10.1109/JSEN.2011.2179645,gas,propene,2,2.602059991,platinum,330,-1,nitrogen
+10.1109/JSEN.2011.2179645,gas,hydrogen,2,2.602059991,platinum,330,-1,nitrogen
+10.1149/2.0511906jes,liquid,h+,-9,1,indium oxide/tin dioxide,25,,water
+10.1016/j.orgel.2015.05.012,gas,ammonia,-0.698970004,1.176091259,poly(vinyl alcohol),25,-1,oxygen/nitrogen
+10.1016/j.snb.2021.130419,gas,nitrogen dioxide,-1,-0.301029996,indium oxide,25,-1,oxygen/nitrogen
+10.23919/AM-FPD.2018.8437381,liquid,h+,-7,-1,indium oxide/tin dioxide,25,,water
+10.1016/j.snb.2022.132696,gas,nitrogen dioxide,-1.886056648,1,phosphorus,20,-1,oxygen/nitrogen
+10.1039/c5nr09001f,gas,ammonia,1.698970004,2.397940009,"dithieno[2,3-d:2',3'-d']benzo[1,2-b:4,5-b']dithiophene-5,10-dione/tetrathiapentacene",25,-1,nitrogen
+10.1039/c8nr01275j,gas,ammonia,0.698970004,1.698970004,"dithieno[2,3-d:2',3'-d']benzo[1,2-b:4,5-b']dithiophene-5,10-dione",25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.12.155,gas,carbon dioxide,2.255272505,2.698970004,sodium carbonate/sodium nitrate,160,-1,nitrogen
+10.1063/1.4750063,gas,ethanol,0.698970004,3,"indolo[3,2-b]carbazole/2,8-dichloro-5,11-dihexyl-indolo(3,2-b)carbazole",25,-1,oxygen/nitrogen
+10.1002/celc.201902013,liquid,glucose,2.899096586,3.556673905,4-mercaptophenylboronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/LSENS.2018.2880761,liquid,h+,-9,1,indium oxide/tin dioxide/polyvinyl butyral,25,,water
+10.1109/JSEN.2020.2994331,liquid,h+,-9,1,indium oxide/zinc oxide/gallium oxide/magnesium oxide,25,,water
+10.1149/1.3544928,liquid,h+,-9,1,lutetium oxide,25,,water
+10.1021/acsami.1c24740,gas,nitrogen dioxide,1,1.698970004,co2+/2-methylimidazole,25,-1,nitrogen
+10.1002/admi.201901696,gas,nitrogen dioxide,1.477121255,,"5,11-bis(triethylsilylethynyl)anthradithiophene",25,-1,nitrogen
+10.1109/LED.2011.2146750,gas,diphenyl chlorophosphate,-0.301029996,-0.096910013,"1,5,7-trimethyl-3-azabicyclo[3.3.1]nonan-2-one/methanol",25,-1,oxygen/nitrogen
+10.1063/1.4874182,liquid,na+,-0.638461029,3.361538971,zinc oxide,25,7,water
+10.1063/1.4874182,liquid,k+,-0.407823243,3.592176757,zinc oxide,25,7,water
+10.1039/D0MH01420F,gas,hydrogen sulfide,-3,1.397940009,triazolyl ketone hydrazone,25,-1,nitrogen
+10.1002/smll.201500566,gas,ethanol,1,3.301029996,platinum,25,-1,nitrogen
+10.1016/j.orgel.2019.06.054,gas,nitrogen dioxide,2.158362492,2.883093359,copper phthalocyanine,18,-1,oxygen/nitrogen
+10.1002/adfm.201808188,gas,xylene,1,2.505149978,cyclopentadithiophene benzothiadiazole copolymer,25,-1,nitrogen
+10.1016/j.snb.2017.04.167,gas,hexane,2.152288344,,diketopyrrolopyrrole/furan /anthracene ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,octane,1.643452676,,diketopyrrolopyrrole/furan /anthracene ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,decane,0.301029996,,diketopyrrolopyrrole/furan /anthracene ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,benzene,2.385606274,,diketopyrrolopyrrole/furan /anthracene ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,toluene,1.812913357,,diketopyrrolopyrrole/furan /anthracene ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,p-xylene,1.591064607,,diketopyrrolopyrrole/furan /anthracene ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,hexane,2.459392488,,diketopyrrolopyrrole/thiophene  /naphthalene  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,octane,1.748188027,,diketopyrrolopyrrole/thiophene  /naphthalene  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,decane,1.204119983,,diketopyrrolopyrrole/thiophene  /naphthalene  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,benzene,1.968482949,,diketopyrrolopyrrole/thiophene  /naphthalene  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,toluene,1.908485019,,diketopyrrolopyrrole/thiophene  /naphthalene  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,p-xylene,1.591064607,,diketopyrrolopyrrole/thiophene  /naphthalene  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,hexane,2.252853031,,diketopyrrolopyrrole/thiophene  /benzothiadiazole  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,octane,1.531478917,,diketopyrrolopyrrole/thiophene  /benzothiadiazole  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,decane,0.954242509,,diketopyrrolopyrrole/thiophene  /benzothiadiazole  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,benzene,1.748188027,,diketopyrrolopyrrole/thiophene  /benzothiadiazole  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,toluene,1.944482672,,diketopyrrolopyrrole/thiophene  /benzothiadiazole  ,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.167,gas,p-xylene,1.672097858,,diketopyrrolopyrrole/thiophene  /benzothiadiazole  ,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2017.07.008,gas,nitrogen dioxide,0,1.477121255,molybdenum trioxide,25,-1,oxygen/nitrogen
+10.1063/1.4869638,liquid,h+,-9,1,melanin,25,,water
+10.1016/j.sna.2020.112172,gas,ammonia,-0.508638306,3.698970004,platinum,120,-1,oxygen/nitrogen
+10.1134/S1995078010050137,liquid,patulin,-2,-1,ceric oxide,25,7,water
+10.1134/S1995078010050137,liquid,biphentrin,-4,-2,ceric oxide,25,7,water
+10.1016/j.snb.2020.129166,gas,nitrogen dioxide,-3.568636236,0,indium oxide,150,-1,oxygen/nitrogen
+10.1021/acssensors.9b00637,gas,hydrogen,2,3,platinum,25,-1,oxygen/nitrogen
+10.1016/j.synthmet.2019.116289,gas,ammonia,1,2,naphthalenediimide,25,-1,nitrogen
+10.1016/j.snb.2014.06.064,gas,nitrogen dioxide,-1,1,carbon nanotube,25,-1,oxygen/nitrogen
+10.1016/j.snb.2014.06.064,gas,ammonia,-1,1,carbon nanotube,25,-1,oxygen/nitrogen
+10.1016/j.snb.2014.06.064,gas,dimethyl methylphosphonate,0,1.301029996,carbon nanotube,25,-1,oxygen/nitrogen
+10.1109/JSEN.2019.2963269,gas,ammonia,0.301029996,1,"poly[2,5-bis(3-tetradecylthiophen-2-yl) thieno [3,2-b] thiophene]",25,-1,oxygen/nitrogen
+10.1016/j.snb.2011.06.030,gas,dimethyl methylphosphonate,0.897627091,1.198657087,tetrabenzoporphyrin,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2014.06.034,gas,n-butanol,1.477121255,2.614897216,"poly(3-hexylthiophene-2,5-diyl)",25,-1,nitrogen
+10.1021/acs.langmuir.9b03636,gas,nitrogen dioxide,-0.301029996,1.397940009,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1063/1.4841535,gas,nitrogen monoxide,-5,-3.698970004,carbon nanotube,25,-1,nitrogen
+10.1016/j.orgel.2017.05.043,gas,hydrogen sulfide,-1.698970004,1,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2017.05.043,gas,nitrogen monoxide,-1,1,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2017.05.043,gas,nitrogen dioxide,-1.301029996,1,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1039/c9tc04889h,gas,nitrogen dioxide,0,1.301029996,methyl cellulose,25,-1,nitrogen
+10.1016/j.snb.2012.10.078,gas,ammonia,1.176091259,1.301029996,platinum,300,-1,oxygen/nitrogen
+10.1063/1.4758697,gas,nitrogen dioxide,0.176091259,0.477121255,"2,9-di(pentan-3-yl)anthra[2,1,9-def:6,5,10-d'e'f']diisoquinoline-1,3,8,10(2h,9h)-tetraone",25,-1,nitrogen
+10.1021/acsanm.1c01568,liquid,h+,-9,1,molybdenum disulfide,25,,water
+10.1021/acsami.5b01721,gas,hexane,0,1.903089987,2-propenyl,25,-1,oxygen/nitrogen
+10.1007/s10853-022-08005-x,liquid,h+,-9,1,nafion/vanadium pentoxide,25,,water
+10.1016/j.surfin.2023.102993,liquid,h+,-9,1,nickel oxide/titanium dioxide,25,,water
+10.1021/acsami.1c05681,gas,nitrogen dioxide,-3.619788758,-0.045757491,"poly [3-(3″,4′-difluoro-[2,2′:5′,2″-terthiophen]-5-yl)-2,5-bis(3-(2-(2-methoxyethoxy)ethoxy)-2-((2-(2-methoxyethoxy)-ethoxy)-methyl)-propyl)-6-(thiophen-2-yl)pyrrolo[3,4-c]pyrrole-1,4(2h,5h)-dione]",25,-1,oxygen/nitrogen
+10.1002/adfm.202205299,gas,ammonia,0.698970004,2.698970004,molybdenum ditelluride,25,-1,oxygen/nitrogen
+10.1016/j.snb.2012.05.030,gas,oxygen,2.698970004,5.119186581,picene,25,-1,argon
+10.1016/j.snb.2017.11.146,gas,ammonia,1.477121255,1.954242509,copper phthalocyanine,21,-1,oxygen/nitrogen
+10.1007/s10853-019-03752-w,liquid,k+,-0.67554057,4.384527402,valinomycin,25,7,potassium chloride/water
+10.1007/s12274-013-0393-8,liquid,h+,-9,-2.7,nickel silicide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/LED.2017.2749445,gas,nitrogen dioxide,-1.301029996,1,zinc phthalocyanine,25,-1,nitrogen
+10.1109/LED.2017.2749445,gas,hydrogen sulfide,-1.301029996,1.301029996,zinc phthalocyanine,25,-1,nitrogen
+10.1016/j.orgel.2018.07.023,liquid,nitrogen dioxide,-0.522878745,1.176091259,"poly(3-hexylthiophene-2,5-diyl)/poly(9-vinylcarbazole)",25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/JSEN.2021.3123633,liquid,h+,-10,2,niobium hydride,25,,water
+10.1002/aelm.201800025,gas,ammonia,-2,2,"poly[(4,6-thieno[3,4-b]thiophen-2-yl)-2-ethylhexan-1-one]",25,-1,oxygen/nitrogen
+10.3762/bjnano.7.186,liquid,catechol ,-1.293570705,1.217878578,lutetium phthalocyanine,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2013.12.056,liquid,h+,-7,-1,niobium pentoxide,25,,water
+10.1021/acsami.5b05922,gas,methanol,0,2.477121255,graphene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2014.08.057,liquid,h+,-9,1,palladium oxide,27,,water
+10.1088/1361-6528/aafe44,gas,ammonia,-0.070581074,2.230448921,cadmium sulfide/titanium dioxide,25,-1,oxygen/nitrogen
+10.1039/D0CP02070B,gas,ammonia,-0.428291168,1.812913357,titanium dioxide,27,-1,oxygen/nitrogen
+10.1002/pssr.202000086,gas,nitrogen dioxide,-1.602059991,1.77815125,"nickel cation/hexafluorotitanate(2-)/5,10,15,20-tetra(4-pyridyl)-21h,23h-porphine",25,-1,nitrogen
+10.3390/polym11101682,gas,ammonia,0,1,poly(3-hexylthiophene),25,-1,nitrogen
+10.1021/acssensors.1c01942,gas,ammonia,-0.301029996,1.477121255,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1088/1361-6528/ab668a,gas,ammonia,0.086,2,fullerene,25,-1,nitrogen
+10.1109/LED.2010.2099098,liquid,h+,-11,-1,parylene c,25,,water
+10.1088/1361-6528/abe004,gas,hydrogen sulfide,-3.301029996,0,gold/zinc oxide,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2017.06.010,liquid,h+,-7,-1,parylene c,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsami.1c23390,gas,"n,n-dimethylformamide",0.698970004,1,indium oxide/gadolinium oxide,25,-1,oxygen/nitrogen
+10.1039/c3nr03940d,liquid,h+,-7,0,phenol,25,,water
+10.1016/j.snb.2021.130951,gas,methanol,0,2,poly(3-hexylthiophene),22,-1,oxygen/nitrogen
+10.1021/acsami.0c20957,gas,ammonia,1,,indacenodithiophene-co-benzothiadiazole,25,-1,oxygen/nitrogen
+10.1109/LED.2022.3145374,gas,nitrogen dioxide,-1.301029996,,indium oxide/gallium oxide/zinc oxide,150,-1,oxygen/nitrogen
+10.1016/j.snb.2020.129258,gas,nitrogen dioxide,-1,0,indium oxide,180,-1,oxygen/nitrogen
+10.1016/j.snb.2020.129258,gas,hydrogen sulfide,1,2,indium oxide,180,-1,oxygen/nitrogen
+10.1021/acsami.8b04970,liquid,h+,-6,2,"poly(3,4-ethylenedioxythiophene)/poly(styrenesulfonate)",25,,sodium chloride/potassium chloride/urea/lactic acid/water
+10.1166/jnn.2011.4042,gas,ethanol,0.698970004,3,polypyrrole,25,-1,oxygen/nitrogen
+10.1016/j.bbagen.2013.01.023,liquid,h+,-4.8,-0.4,poly(3-hexylthiophene),25,,water
+10.1166/jnn.2016.12370,gas,ammonia,-0.602059991,1.397940009,poly-3-hexylthiophene/graphene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2011.07.015,gas,methanol,3.477121255,4.698970004,platinum,200,-1,oxygen/nitrogen
+10.1021/acsami.8b13292,gas,ammonia,0.929418926,1.984527313,gold,25,-1,nitrogen
+10.1007/s11431-017-9230-3,gas,nitrogen dioxide,1,1.903089987,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1088/1361-6641/ab2155,gas,nitrogen dioxide,0,1.301029996,indium oxide/gallium oxide/zinc oxide,90,-1,oxygen/nitrogen
+10.1021/acsami.0c09821,gas,nitrogen dioxide,0,1.477121255,"poly[4-(4,4-dihexadecyl-4h-cyclopenta[1,2-b:5,4-b′]dithiophen-2-yl)-alt-[1,2,5]thiadiazolo[3,4-c]pyridine]",25,-1,oxygen/nitrogen
+10.1021/jacs.1c01673,liquid,glucose,-0.744351269,2.255648731,cupric cation/hexahydroxytriphenylene,25,7,potassium chloride/water
+10.1021/acssensors.1c01783,gas,dimethyl methylphosphonate,-0.096910013,,graphene,25,-1,nitrogen
+10.1016/j.snb.2020.129079,gas,hydrogen,-1.468521083,4.301029996,platinum,120,-1,oxygen/nitrogen
+10.1016/j.snb.2012.06.062,gas,nitrogen dioxide,-2,0.041392685,zinc oxide,470,-1,nitrogen
+10.1039/d0mh00049c,gas,nitrogen dioxide,-1.585026652,1.301029996,poly(3-carboxypropylthiophene),25,-1,oxygen/nitrogen
+10.1039/d0na00811g,gas,nitrogen dioxide,-0.244125144,1,carbon nanotube,20,-1,nitrogen
+10.1016/j.bios.2012.07.068,liquid,diethyl ether,3.77815125,4.477121255,soybean lecithin,25,-1,nitrogen
+10.1021/acs.nanolett.9b00052,liquid,hydrogen peroxide,-4.468333355,-0.468333355,sodium anthraquinone-2-sulfonate,37,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsami.3c00022,gas,nitrogen dioxide,-3.167491087,-0.301029996,indium oxide,100,-1,oxygen/nitrogen
+10.1021/acsami.9b12222,gas,ammonia,1.301029996,2,naphthalene diimide,25,-1,nitrogen
+10.1016/j.talanta.2016.03.057,liquid,fe3+,-4.301029996,-2.698970004,transferrin,25,7,water
+10.1016/j.bios.2010.07.053,liquid,diazinon,-2.301029996,-0.301029996,11-ferrocenyl-1-undecanethiol,25,7,sodium sulfate/water
+10.1021/acsami.2c11359,gas,ammonia,-1,2,cupric cation/isophthalate/sodium phosphotungstate,25,-1,oxygen/nitrogen
+10.1063/1.3483942,gas,hydrogen,2,4,platinum/titanium/oxygen,115,-1,oxygen/nitrogen
+10.1021/jp100461p,gas,hydrogen,4.698970004,,zinc oxide,200,-1,nitrogen
+10.1021/jp9106052,liquid,h+,-7,-1,poly(propylene imine) dendrimer/nickel(ii) phthalocyanine-tetrasulfonic acid tetrasodium salt,25,,water
+10.1021/nn103115h,gas,dinitrotoluene,-0.301029996,0.698970004,"n,n'-dimethyl-1,4,5,8-naphthalenetetracarboxylic diimide",25,-1,oxygen/nitrogen
+10.1016/j.cej.2023.145480,gas,nitrogen dioxide,-1.698970004,0,palladium sulfide/tungsten disulfide,25,-1,oxygen/nitrogen
+10.1002/chem.201902483,gas,nitrogen dioxide,-0.769551079,-0.301029996,zn2+/2-methylimidazole,25,-1,oxygen/nitrogen
+10.1016/j.sna.2016.12.024,gas,oxygen,-1.725842151,-1.490797478,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1016/j.ceramint.2017.05.268,gas,ethanol,1.698970004,2,zinc oxide,25,-1,oxygen/nitrogen
+10.1109/JSEN.2022.3170698,gas,ammonia,-0.04383157,2,poly(3-hexylthiophene)/molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1007/s10404-010-0740-y,liquid,k+,-1.40793433,4.59206567,valinomycin/au,25,7,water
+10.1021/am404460j,liquid,h+,-9,1,poly(triarylamine),25,,water
+10.1007/s10854-015-3448-7,gas,nitrogen dioxide,1,1.698970004,pentacene,25,-1,oxygen/nitrogen
+10.1109/LED.2017.2770181,gas,hydrogen sulfide,-0.522878745,0.698970004,"benzo[1,2-b:4,5-b']dithiophene-4,8-dione",25,-1,oxygen/nitrogen
+10.1002/admt.201900410,gas,nitrogen dioxide,0,0.698970004,poly(bisdodecylquaterthiophene),25,-1,oxygen/nitrogen
+10.1016/j.snb.2012.08.036,gas,"2,3-dimethyl-2,3-dinitrobutane",0,0.812913357,aluminium tris(quinolin-8-olate),25,-1,oxygen/nitrogen
+10.1016/j.snb.2022.131398,gas,nitrogen dioxide,-4.354577731,-0.301029996,indium oxide/gallium oxide/zinc oxide,150,-1,oxygen/nitrogen
+10.1039/c9ra09195e,gas,nitrogen dioxide,0.698970004,1.301029996,"poly{[n,n′-bis(2-decylpentadecyl)naphtho[2,3-b:6,7-b′]dithiophene-4,5,9,10-tetracarboxidiimide-2,7-diyl]-alt-5,5′-(2,2′-bithiophene)}",200,-1,oxygen/nitrogen
+10.1039/c9ra09195e,gas,ammonia,1.301029996,2.301029996,"poly{[n,n′-bis(2-decylpentadecyl)naphtho[2,3-b:6,7-b′]dithiophene-4,5,9,10-tetracarboxidiimide-2,7-diyl]-alt-5,5′-(2,2′-bithiophene)}",200,-1,oxygen/nitrogen
+10.1016/j.snb.2017.01.110,gas,nitrogen dioxide,1,1.698970004,tin(iv) oxide,180,-1,oxygen/nitrogen
+10.1016/j.snb.2014.08.002,liquid,potassium chloride,1.872455221,2.872455221,hafnium dioxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acssensors.9b00270,liquid,phenylalanine,-12.87353123,-1.782016247,mono-(6-amino-6-deoxy)-beta-cyclodextrin,25,7,water
+10.1007/s11664-017-5776-2,gas,ammonia,1.698970004,,polyaniline/titanium dioxide,25,-1,oxygen/nitrogen
+10.1021/nn900901f,liquid,pyridine,-11,-10.22184875,zn-tcpp,25,-1,nitrogen
+10.1016/j.orgel.2017.09.033,gas,ammonia,1,,"poly[[2,5-bis(2-octyldodecyl)-2,3,5,6-tetrahydro-3,6-dioxopyrrolo[3,4-c]pyrrole-1,4-diyl]-alt-[[2,2′-(2,5-thiophene)bis-thieno(3,2-b)thiophene]-5,5′-diyl]]",25,-1,oxygen/nitrogen
+10.1016/j.talanta.2011.08.012,gas,diphenyl chlorophosphate,-0.301029996,,"cis,cis-1,3,5-trimethylcyclohexane-1,3,5-tricarboxylic acid/quaternary ammonium sulfanilamide",25,-1,oxygen/nitrogen
+10.1016/j.orgel.2021.106083,gas,nitrogen dioxide,0,1.477121255,"poly[2,5-bis(2-decyltetradecyl)pyrrolo[3,4-c]pyrrole-1,4(2h,5h)-dione-alt-5,5'-di(thiophen-2-yl)-2,2'-(e)-2-(2-(thiophen-2-yl)vinyl)thiophene]",25,-1,nitrogen
+10.1109/TRANSDUCERS.2015.7181084,gas,nitrogen dioxide,2.875061263,,graphene,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2016.02.019,gas,hydrogen sulfide,-0.301029996,1.698970004,"benzo[1,2-b:4,5-b']dithiophene-4,8-dione",25,-1,nitrogen
+10.1016/j.snb.2021.129781,gas,nitrogen dioxide,-0.522878745,1.397940009,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1002/aelm.201901073,liquid,h+,-9,0,"poly[3-(3-carboxypropyl)thiophene-2,5-diyl]",25,,water
+10.1109/JSEN.2018.2818710,gas,xylene,-2,0.301029996,tin(iv) oxide,25,-1,oxygen/nitrogen
+10.1021/acsami.6b02682,gas,nitrogen dioxide,1,2,graphene,25,-1,oxygen/nitrogen
+10.1021/acsami.6b02682,gas,ammonia,2,3,graphene,25,-1,oxygen/nitrogen
+10.1021/acsami.6b02682,gas,ethanol,2.698970004,3.477121255,graphene,25,-1,oxygen/nitrogen
+10.1021/acsami.6b02682,gas,hexane,3,3.477121255,graphene,25,-1,oxygen/nitrogen
+10.1002/smll.201201224,gas,nitrogen dioxide,-2.698970004,0.698970004,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1021/nn5015215,gas,nitrogen dioxide,-1.698970004,-0.397940009,molybdenum disulfide,25,-1,argon
+10.1021/nn5015215,gas,ammonia,0,2.698970004,molybdenum disulfide,25,-1,argon
+10.1021/nl3001293,gas,ethanol,-0.301029996,,graphene,25,-1,oxygen/nitrogen
+10.3390/mi11030274,liquid,h+,-5,-2.6,polyacrylic acid,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/ja907585c,gas,carbon monoxide,1.698970004,2.602059991,zinc oxide,275,-1,nitrogen
+10.1016/j.snb.2023.134788,liquid,h+,-6,-2,polyaniline,25,,water/glucose/saccharose/monosodium phosphate/calcium chloride/sodium chloride/4-(2-hydroxyethyl)-1-piperazine ethanesulfonic acid/potassium chloride
+10.1016/j.mee.2016.03.036,liquid,h+,-5,1,polyaniline,30,,water/citric acid
+10.1088/2053-1583/aa57fe,gas,nitrogen dioxide,-1.920818754,0,molybdenum ditelluride,25,-1,nitrogen
+10.1088/2053-1583/aa57fe,gas,ammonia,0,2,molybdenum ditelluride,25,-1,nitrogen
+10.1002/smll.201400434,gas,nitrogen dioxide,-0.301029996,1.602059991,graphene,25,-1,oxygen/nitrogen
+10.1002/adfm.201603598,gas,nitrogen dioxide,-3.105130343,1,graphene,25,-1,oxygen/nitrogen
+10.1021/acsami.5b07712,liquid,pb2+,-3,2,lead ionophore iii,25,4.6,sodium acetate/water
+10.1021/ja305287p,gas,ammonia,-0.455931956,0.653212514,tris(pentafluorophenyl)borane,25,-1,nitrogen
+10.1002/adma.201702469,gas,oxygen,1.84509804,5.977723605,lead methylammonium tri-iodide,25,-1,oxygen/nitrogen
+10.1021/jp210582t,gas,acetone,1,2,porphyrin,25,-1,oxygen/nitrogen
+10.1021/acssensors.3c00415,liquid,h+,-6,-1,polyaniline,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/adfm.201404228,gas,ammonia,-0.301029996,,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.04.176,gas,nitrogen dioxide,1.397940009,2.301029996,phosphorus,25,-1,nitrogen
+10.1021/am505275a,liquid,pb2+,-2.683610249,0.316389751,glutathione,25,7,water
+10.1016/j.bios.2016.01.043,liquid,hydrogen peroxide,-2.468393368,0.230576636,phosphorus,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1002/adfm.201505477,gas,ammonia,0.698970004,1.602059991,bromophenol blue,25,-1,oxygen/nitrogen
+10.1039/C3CC48197B,liquid,hydrazine,-3.907649709,0.283914237,zinc oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/am300288z,gas,octane,1.230448921,2.086359831,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/am300288z,gas,decane,1.146128036,2.301029996,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/am300288z,gas,water,1,2.301029996,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/am300288z,gas,ethanol,1.944482672,2.785329835,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1021/am300288z,gas,n-butanol,1.176091259,2.06069784,hexyltrichlorosilane,25,-1,oxygen/nitrogen
+10.1002/adfm.201801035,gas,ammonia,-1.698970004,2.698970004,tin (ii) sulfide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2010.02.019,gas,ammonia,1,2,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1016/j.elecom.2017.03.006,liquid,glucose,0.334825155,3.510916414,iron(iii) oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2011.07.054,liquid,h+,-9,1,polyaniline,25,,water
+10.1016/j.bios.2013.02.009,liquid,dopamine,-9.814797935,-6.814797935,ethylboronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1007/s11671-009-9487-3,gas,oxygen,0.146128036,2.698970004,zinc oxide,573,-1,nitrogen
+10.1007/s11671-009-9487-3,gas,nitrogen dioxide,0,0.698970004,zinc oxide,573,-1,nitrogen
+10.1016/j.matchemphys.2015.04.034,liquid,h+,-5,1,polyaniline,25,,water
+10.1002/adfm.200901830,liquid,h+,-10,-2,polyisobutylmethacrylate,25,,water
+10.1039/c3nr03940d,liquid,k+,0.591064607,4.591064607,dibenzo-18-crown-6,25,,water
+10.1016/j.bios.2017.06.027,liquid,hg2+,-5,-1,"7,16-dibenzyl-1,4,10,13-tetraoxa-7,16-diazacyclooctadecane",25,4.6,sodium acetate/water
+10.1063/1.4752272,gas,ammonia,0.77815125,2.301029996,graphene,27,-1,oxygen/nitrogen
+10.1021/nl103306a,liquid,sodium fluoride,1.623125189,4.623125189,graphene,25,7,water
+10.1016/j.snb.2015.02.012,gas,hydrogen,0.698970004,4,platinum,400,-1,oxygen/nitrogen
+10.1002/adfm.202101981,gas,ammonia,-0.698970004,2,perfluorooctanesulfonic acid,25,-1,oxygen/nitrogen
+10.1016/j.snb.2020.129406,gas,ammonia,-1.301029996,2,carbon nanotube,25,-1,oxygen/nitrogen
+10.3390/ma12020250,liquid,formaldehyde,-2.200225373,1.477555332,zinc dioxide,25,7,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.carbon.2023.01.049,liquid,sodium hydroxide,-1.27083521,-0.294820755,hafnium dioxide,20.9,7,water
+10.1016/j.apsusc.2019.144436,gas,nitrogen dioxide,0,1.397940009,α-sexithiophene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2022.132815,gas,nitrogen dioxide,-0.902395671,1.301029996,vanadyl phthalocyanine,25,-1,oxygen/nitrogen
+10.3390/s21010013,gas,ammonia,-4.602059991,2.301029996,gold,25,-1,oxygen/nitrogen
+10.1002/asia.201801787,liquid,ammonia,0.531478917,,"1,4-benzenedicarboxylic acid, mono(2-ethylhexyl) ester",25,7,water
+10.1016/j.synthmet.2020.116569,gas,nitrogen dioxide,-3.15490196,1.477121255,carbon nanotube,25,-1,oxygen/nitrogen
+10.1109/LSENS.2020.2988589,gas,hydrogen,-5,-1,palladium,25,-1,oxygen/nitrogen
+10.1021/acsami.1c15116,gas,ammonia,0.698970004,2,nile red,25,-1,oxygen/nitrogen
+10.1109/TED.2020.3016606,gas,ammonia,-1,0.477121255,silver,25,-1,oxygen/nitrogen
+10.1007/s12633-021-01594-3,liquid,water,4.024280376,4.246129126,polyaniline,25,-1,oxygen/nitrogen
+10.1007/s13738-013-0367-5,liquid,h+,-9.2,0.25,polypyrrole,25,,boric acid/phosphoric acid/acetic acid/water
+10.1039/d1tc04638a,gas,nitrogen monoxide,-0.301029996,1.477121255,"poly(9,9-di-n-dodecylfluorene)/carbon nanotube",25,-1,oxygen/nitrogen
+10.1002/smtd.202200581,gas,nitrogen monoxide,-2.301029996,0,cupric cation/benzenehexathiol,25,-1,oxygen/nitrogen
+10.1109/JSEN.2022.3221997,gas,hydrogen sulfide,-0.217527376,1.397940009,graphene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2022.132313,gas,ammonia,1,1.954242509,lutetium phthalocyanine,20,-1,oxygen/nitrogen
+10.1016/j.snb.2021.130058,gas,nitrogen dioxide,-0.397940009,1.602059991,indium oxide/gallium oxide/zinc oxide,22,-1,oxygen/nitrogen
+10.1021/acsami.0c00293,liquid,"1,4-diaminobutane",0.812913357,2.511883361,4-mercaptobenzoic acid,27,7,water
+10.1039/d3tc02762g,gas,nitrogen dioxide,-0.301029996,1,tin(ii) oxide,26,-1,nitrogen
+10.1039/d2mh00340f,gas,nitrogen dioxide,-1.301029996,2,indium oxide/gallium oxide/zinc oxide,150,-1,oxygen/nitrogen
+10.1002/adfm.202108878,gas,nitrogen dioxide,0,1.397940009,tin diselenide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2022.131854,gas,hydrogen sulfide,1,2.176091259,"poly[2,5-bis(3-dodecylthiophen-2-yl)thieno[3,2-b]thiophene]",25,-1,oxygen/nitrogen
+10.1021/acssensors.2c01511,gas,chloroform,2,,graphene,23,-1,oxygen/nitrogen
+10.1021/jp104377e,liquid,h+,-8,2,polypyrrole,25,,water
+10.1016/j.carbon.2022.09.037,liquid,ca2+,-5.397940009,1.602059991,fluo 4-am,25,7,water
+10.1016/j.snb.2014.11.024,gas,ethanol,1,2.698970004,zinc oxide,300,-1,oxygen/nitrogen
+10.1039/C1CC12658J,gas,ammonia,4,,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.3390/s110706509,gas,ammonia,-0.301029996,1.301029996,polyaniline,25,-1,nitrogen
+10.1109/LED.2021.3059639,liquid,h+,-4.4,-4.2,polyvinyl butyral,25,,water
+10.1021/acs.chemmater.9b00106,gas,carbon monoxide,-2,2,palladium(ii) chloride,25,-1,oxygen/nitrogen
+10.1021/acs.chemmater.9b00106,gas,hydrogen sulfide,-3,3,mercury(ii) perchlorate,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.06.129,liquid,k+,-1.408935393,2.892094603,valinomycin,25,7,water
+10.1016/j.bios.2013.07.061,liquid,uric acid,-1.075435672,2.225594323,11-(ferrocenyl)undecanethiol,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.bios.2016.09.040,liquid,octanol,-6.885295963,-3.885295963,nickel-histidine,25,7,water
+10.1016/j.sna.2023.114392,liquid,h+,-9,1,ruthenium oxide/silver oxide,25,,water
+10.1016/j.snb.2013.01.020,gas,hydrogen,1.602059991,4,platinum,400,-1,nitrogen
+10.1002/admt.201900247,gas,ammonia,-0.301029996,2.698970004,"n,n'-bis(2,5-di-tert-butylphenyl)-3,4,9,10-perylenedicarboximide",25,-1,oxygen/nitrogen
+10.1109/INEC.2011.5991756,liquid,h+,-7,-1,ruthenium oxide/titanium dioxide,25,,water
+10.1021/acssensors.9b00597,liquid,na+,2.361727836,3.361727836,sodium ionophore x,25,7,water
+10.1039/c5tc01100k,liquid,epinephrine,-4.737065048,0.262934952,carbon nanotube,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/c8nr07393g,gas,nitrogen monoxide,-3.698970004,0.698970004,carbon nanotube,25,-1,nitrogen
+10.1063/1.4816764,liquid,potassium chloride,2.872455221,4.872455221,graphene,25,7,water
+10.1007/s11664-022-09468-z,liquid,h+,-10,1,silanol/silicon carbide,25,,water
+10.1039/c6ra09731f,liquid,ammonium hydroxide,-2.610337862,1.942504106,zinc oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.3390/electronics12030777,liquid,h+,-9,0,silicon,25,,sodium acetate/acetic acid/potassium dichromate/water
+10.1039/c4cc07498j,liquid,glucose,-2.301029996,-1.698970004,4-mercaptophenylboronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.susc.2014.01.016,liquid,h+,-9.3,-0.2,silicon,25,,water
+10.3390/s16060839,liquid,h+,-9,1,silicon,25,,water
+10.1007/s11664-017-5604-8,liquid,h+,-9,1,silicon,25,,water
+10.1021/acsami.6b14220,gas,ammonia,0,1,"poly(4-(4,4-bis(2-ethylhexyl)-4h-silolo[3,2-b:4,5-b′]dithiophen-2-yl)-7-(4,4-bis(2-ethylhexyl)-6-(thiophen-2-yl)-4h-silolo[3,2-b:4,5-b′]dithiophen-2-yl)-5,6-difluorobenzo[c][1,2,5]thiadiazole)",25,-1,nitrogen
+10.1063/1.4704803,gas,sulfur dioxide,1.698970004,,graphene,25,-1,nitrogen
+10.1016/j.snb.2010.05.030,gas,carbon monoxide,-0.698970004,1.653212514,gallium oxide/platinum,25,-1,oxygen/nitrogen
+10.1002/adfm.201002086,gas,oxygen,1.698970004,3.698970004,nitrogen/carbon nanotube,25,-1,argon
+10.1021/acs.jpcc.7b11128,liquid,potassium chloride,1.872455221,2.872455221,poly(diallyldimethylammonium chloride)/poly(sodium 4-styrenesulfonate),25,7,water
+10.1016/j.jhazmat.2021.127492,gas,hydrogen sulfide,-1.455931956,1,silver,25,-1,oxygen/nitrogen
+10.1039/c2nr32752j,gas,sulfur dioxide,0.698970004,3.041392685,graphene/benzoic acid/ethylene oxide/phenol,25,-1,oxygen/nitrogen
+10.3390/s22082999,liquid,h+,-6,0,silicon dioxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1038/srep12286,liquid,poly(allylamine hydrochloride),0.942008053,,(3-aminopropyl)triethoxysilane,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.7567/JJAP.56.124001,liquid,h+,-7,-1,silicon dioxide,25,,potassium phosphate/water
+10.1016/j.carbon.2018.10.079,gas,toluene,3.579783597,,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2015.06.075,liquid,hg2+,-4.301029996,-1.22184875,gold,25,1,hydrochloric acid/water
+10.1088/2053-1583/3/4/045012,gas,water,3.848189117,4.274157849,rhenium sulfide,25,-1,nitrogen
+10.3390/bios13100908,liquid,h+,-5.6,2.93,silicon dioxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/c8en00588e,liquid,nitrate,-2.958607315,1.447158031,benzyltriethylammonium chloride,25,7,water
+10.1016/j.sse.2014.06.013,gas,triethylamine,-2,0,molybdenum disulfide,25,-1,nitrogen
+10.3390/s110807763,gas,nitrogen dioxide,1,1.698970004,carbon nanotube,25,-1,oxygen/nitrogen
+10.1115/nemb2010-13124,liquid,h+,-6,-2,silicon dioxide,25,,water
+10.1002/adfm.201803145,gas,ammonia,0,2,poly(3-thiophene-isoindigo),25,-1,nitrogen
+10.1039/c5cc07893h,liquid,hg2+,-2.004364805,0.603343604,dipicolylamine,25,7,water
+10.1016/j.orgel.2012.11.030,gas,ammonia,2,,"poly(2,7-dichlorofluorescein-co-norbornene)",25,-1,argon
+10.1016/j.snb.2015.09.015,gas,ammonia,1,1.954242509,lutetium phthalocyanine,25,-1,oxygen/nitrogen
+10.1088/1674-1056/27/8/087308,liquid,ag+,-5,0,phosphorus,25,7,n-methyl pyrrolidone
+10.1016/j.snb.2012.01.054,liquid,h+,-7.5,2.9,silicon dioxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2017.02.063,gas,ammonia,-0.48148606,2,"poly(2,5-bis(3-tetradecylthiophen-2-yl)thieno(3,2-b)thiophene)",23,-1,oxygen/nitrogen
+10.1016/j.snb.2009.12.064,gas,ozone,-1.301029996,-0.397940009,lutetium phthalocyanine,25,-1,oxygen/nitrogen
+10.1021/nn300874w,liquid,h+,-7.7,-1.6,silicon dioxide,25,,water
+10.1063/1.3691936,gas,water,3.649821463,4.222326211,silicon dioxide,25,-1,oxygen/nitrogen
+10.1021/acsami.7b02721,gas,nitrogen dioxide,0,0.698970004,poly(bisdodecylquaterthiophene),25,-1,oxygen/nitrogen
+10.1016/j.bios.2015.06.073,liquid,inosine,-0.779107275,1.127471039,"2,2'-bithiophene-5-boronic acid/ethyl 2-[[[2,4(or3,5)-dimethyl-3-cyclohexen-1-yl]methyl]amino]benzoate",25,7,water
+10.1016/j.electacta.2010.12.105,gas,nitrogen dioxide,1.698970004,2.602059991,gold,150,-1,nitrogen
+10.1039/c8tc06051g,gas,ethanol,1,2,"poly(3,3-didodecylquaterthiophene)",25,-1,oxygen/nitrogen
+10.1038/s41467-022-32749-4,liquid,k+,-0.408935393,3.591064607,polyvinyl chloride,25,7,water
+10.1038/s41928-018-0162-5,liquid,h+,-4.1,0.2,silicon dioxide,25,,water
+10.1016/j.snb.2017.10.132,liquid,arsenic,-4.124938737,-1.124938737,dithiothreitol/au,25,7,water
+10.1021/nl5010724,liquid,h+,-5.5,-2.5,silicon dioxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2021.129642,gas,nitrogen dioxide,-2,-0.301029996,indium oxide,172,-1,oxygen/nitrogen
+10.1016/j.snb.2013.05.043,gas,water,3.713490543,3.973127854,tin(iv) oxide/antimony trioxide,25,-1,oxygen/nitrogen
+10.3390/s150102086,gas,formaldehyde,0.602059991,2.176091259,zinc oxide,25,-1,oxygen/nitrogen
+10.1021/jp504657c,gas,benzene,-0.301029996,1,fetppcl,25,-1,oxygen/nitrogen
+10.1021/jp504657c,gas,p-xylene,-0.301029996,1,fetppcl,25,-1,oxygen/nitrogen
+10.1021/jp504657c,gas,toluene,-0.301029996,1,fetppcl,25,-1,oxygen/nitrogen
+10.1021/jp504657c,gas,benzene,-0.301029996,1,"5,10,15,20-tetraphenyl-21h,23h-porphine cobalt(ii)",25,-1,oxygen/nitrogen
+10.1021/jp504657c,gas,p-xylene,-0.301029996,1,"5,10,15,20-tetraphenyl-21h,23h-porphine cobalt(ii)",25,-1,oxygen/nitrogen
+10.1021/jp504657c,gas,toluene,-0.301029996,1,"5,10,15,20-tetraphenyl-21h,23h-porphine cobalt(ii)",25,-1,oxygen/nitrogen
+10.1016/j.materresbull.2011.10.006,gas,water,3.450249108,4.305566314,titanium dioxide,25,-1,oxygen/nitrogen
+10.1021/acs.nanolett.6b02360,liquid,"2,4,6-trinitrotoluene",-4.643725499,-0.643725499,"cu/4,4'-[1,4-phenylenebis(ethyne-2,1-diyl)]dibenzoic acid/ethanol",25,7.33,ethanol
+10.1039/c7qm00607a,gas,ammonia,1.176091259,2.903089987,phthalocyanine/thiophenol,25,-1,argon
+10.1021/acssensors.6b00520,liquid,k+,-3.210278306,3.591064607,polyaniline/dinonylnaphthalene sulfonic acid,25,7,water
+10.1039/c9tc01219b,gas,nitrogen dioxide,-2.714442691,1,"6,13-bis(triisopropylsilylethynyl)pentacene",25,-1,oxygen/nitrogen
+10.1016/j.bios.2015.12.088,liquid,d-arabitol,1.261424658,2.182243412,"polythiophene/poly 2,2'-bithiophene-5-boronic acid/3,3'-bithiophene",25,7,water
+10.1016/j.snb.2019.03.071,liquid,glucose,-0.920818754,2.827369273,titanium dioxide,25,6.8,sodium sulfate/water
+10.1016/j.cplett.2014.09.028,gas,nitrogen dioxide,0.301029996,2,graphene/phenol/ethylene oxide/benzoic acid,25,-1,oxygen/nitrogen
+10.1039/c2an15930a,liquid,tetraethyl pyrophosphate,-1.098160408,-0.177341654,"2,2'-dipicolylamine",22,8,tris buffer
+10.1063/1.3685497,liquid,h+,-7,-1,silicon dioxide,25,,water
+10.1016/j.snb.2013.12.056,liquid,na+,-0.638272164,3.361727836,niobium pentoxide,25,7,water
+10.1016/j.snb.2013.12.056,liquid,k+,-0.408935393,3.591064607,niobium pentoxide,25,7,water
+10.1109/TBCAS.2015.2487603,liquid,glucose,0.954618735,4.619260711,adenosine triphosphate,25,8.5,water
+10.1039/c1jm13579a,gas,ethanol,0,2.301029996,platinum,25,-1,oxygen/nitrogen
+10.1038/s41563-017-0016-y,liquid,na+,3.494307684,,silicon dioxide,25,5.5,water
+10.1038/s41563-017-0016-y,liquid,k+,2.743352951,,silicon dioxide,25,5.5,water
+10.1038/s41563-017-0016-y,liquid,ca2+,2.164352856,,silicon dioxide,25,5.5,water
+10.1038/s41563-017-0016-y,liquid,mg2+,1.084576278,1.885293356,silicon dioxide,25,5.5,water
+10.1063/1.4793655,liquid,h+,-7,-1,silicon dioxide,25,,water
+10.1016/j.snb.2018.01.244,gas,water,3.46834733,4.42258984,graphene,24,-1,nitrogen
+10.1016/j.snb.2018.01.244,gas,ethanol,3.889861721,4.792951708,graphene,24,-1,nitrogen
+10.1016/j.snb.2018.01.244,gas,methanol,4.274619619,5.228862129,graphene,24,-1,nitrogen
+10.1016/j.snb.2018.06.077,liquid,hg2+,-3,2,"7,16-dibenzyl-1,4,10,13-tetraoxa-7,16-diazacyclooctadecane",25,7,water
+10.1109/JSEN.2015.2481604,liquid,acetylcholine,-1.266850903,1.465977368,nickel oxide,25,7,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/LED.2012.2193867,gas,nitrogen dioxide,1,,graphene,25,-1,oxygen/nitrogen
+10.1109/LED.2012.2193867,gas,ammonia,1.698970004,,graphene,25,-1,oxygen/nitrogen
+10.1016/j.carbon.2017.08.026,gas,ammonia,2.301029996,3.301029996,graphene,25,-1,nitrogen
+10.1021/acsami.8b14142,gas,acetone,-0.698970004,3.301029996,molybdenum ditelluride,25,-1,nitrogen
+10.1021/acs.nanolett.8b04988,liquid,h+,-7,0.5,silicon dioxide,25,,water
+10.1016/j.snb.2014.02.058,gas,nitrogen dioxide,0,,silicon dioxide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2019.01.062,liquid,ammonium,-2.743763467,4.256236533,polyvinyl chloride,25,7,sodium phosphate/ calcium chloride/ potassium chloride/sodium chloride/ mucin/urea/water
+10.3390/s140916869,gas,n-butanol,2.592176757,,"poly[2,5-bis(3-tetradecylthiophen-2-yl)thieno[3,2-b]thiophene]",25,-1,nitrogen
+10.3390/s140916869,gas,ethanol,3.757775491,,"poly[2,5-bis(3-tetradecylthiophen-2-yl)thieno[3,2-b]thiophene]",25,-1,nitrogen
+10.3390/s140916869,gas,acetone,4.504606771,,"poly[2,5-bis(3-tetradecylthiophen-2-yl)thieno[3,2-b]thiophene]",25,-1,nitrogen
+10.1016/j.bios.2010.12.006,liquid,h+,-8,0,silicon dioxide,25,,water
+10.3762/bjnano.4.38,liquid,h+,-5,-3,silicon dioxide,25,,water
+10.1016/j.bios.2018.12.005,liquid,copper(ii) sulfate,-7.097972619,-2.796942623,gly-his,25,7.7,water
+10.1016/j.jhazmat.2021.126301,liquid,hg2+,-2.998720717,1.302309278,titanium carbide,25,7,water
+10.1038/s41598-021-88569-x,gas,nitrogen dioxide,-1.522878745,0,tetraphenylporphyrin,30,-1,oxygen/nitrogen
+10.1021/acs.nanolett.0c02221,gas,nitrogen dioxide,-1.301029996,1.176091259,rhenium sulfide/niobium sulfide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2019.04.032,liquid,potassium,-4.408935393,2.592176757,potassium ionophore iii,25,7,water
+10.1016/j.snb.2009.01.061,liquid,creatinine,2.301029996,3.113943352,poly(ethylene-co-vinyl alcohol),25,7,water
+10.3390/mi8050155,gas,ammonia,-2.522878745,1.477121255,molybdenum ditelluride,25,-1,nitrogen
+10.1016/j.snb.2020.128403,liquid,h+,-7,-1,silicon dioxide,25,,water
+10.1016/j.snb.2021.129661,gas,nitrogen dioxide,-4.769551079,-0.301029996,indium oxide,75,-1,oxygen/nitrogen
+10.1039/c1cc12073e,liquid,tetraethyl pyrophosphate,0.638341971,,"2,2'-dipicolylamine",25,8,tris buffer
+10.1016/j.cplett.2020.138056,liquid,cu2+,-3.48148606,-1.22184875,l-cysteine,25,7,water
+10.1016/j.cplett.2020.138056,liquid,pb2+,-2.627087997,-1.22184875,l-cysteine,25,7,water
+10.1016/j.carbon.2017.12.065,gas,nitrogen dioxide,0.176091259,1.602059991,carbon nanotube,25,-1,oxygen/nitrogen
+10.1016/j.snb.2020.128936,liquid,methyl parathion,-5,1,zirconium oxide/graphene/phenol/ethylene oxide/benzoic acid,25,5,acetic acid/sodium acetate
+10.1143/JJAP.51.02BL05,liquid,h+,-8,0,silicon dioxide/ hafnium oxide/ aluminum oxide,25,,water
+10.1016/j.snb.2015.03.016,gas,benzene,0.176091259,,platinum,220,-1,oxygen/nitrogen
+10.1016/j.snb.2015.03.016,gas,naphthalene,0.397940009,1.602059991,platinum,220,-1,oxygen/nitrogen
+10.1016/j.snb.2015.03.016,gas,formaldehyde,1.698970004,2,platinum,220,-1,oxygen/nitrogen
+10.4283/JKMS.2020.30.2.064,liquid,h+,-6.8,-0.9,silicon nitride,25,,water
+10.1016/j.bios.2018.04.051,liquid,"2,4-dichlorophenoxyacetic acid",-9.257589119,-7.655529128,"2,4-dichlorophenoxyacetic acid/4-ethynylaniline",25,7,water
+10.1016/j.snb.2012.11.054,liquid,na+,-2.638272164,3.361727836,sodium ionophore i,25,7,lithium acetate
+10.1039/c6tc04908g,gas,nitrogen dioxide,0,0.698970004,zinc oxide/graphene/benzoic acid/ethylene oxide/phenol,25,-1,oxygen/nitrogen
+10.1039/c5cc02643a,liquid,f-,1.123851641,2.977723605,3-carboxy-5-nitrophenylboronic acid,25,5.5,water
+10.1109/TED.2017.2777603,liquid,h+,-9.46,1.32,silicon nitride,25,,water
+10.1007/s00339-020-03907-6,gas,sulfur dioxide,-0.204119983,,"2,3,6,7,10,11-hexahydroxytriphenylene/ni2+",25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.09.076,gas,water,3.973127854,4.274157849,"poly(3,4-ethylenedioxythiophene)/poly(4-styrene sulfonate)",26.2,-1,oxygen/nitrogen
+10.1039/d1qm00118c,liquid,dopamine,-1.814797935,0.88417207,"copper(ii) acetate/2,3,6,7,10,11-hexahydroxytriphenylene",25,7,calcium chloride/water
+10.1016/j.snb.2017.07.198,gas,nitrogen dioxide,0,1,guanine,20,-1,oxygen/nitrogen
+10.1109/MWSCAS.2017.8053107,liquid,h+,-6,0,silicon nitride,25,,water
+10.1016/j.electacta.2017.12.130,liquid,hydrogen peroxide,2.51851394,,polyaniline,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.bios.2017.02.020,liquid,bisphenol a,-5.641513112,-0.641513112,4-[2-(4-hydroxyphenyl)propan-2-yl]phenol;carbonate,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.vacuum.2018.10.016,gas,ammonia,1.301029996,2,poly(3-hexylthiophene),27,-1,oxygen/nitrogen
+10.1109/SMELEC.2018.8481303,liquid,h+,-8,0,silicon nitride,25,,water
+10.3390/s111009442,liquid,glucose,0.68798531,1.858681537,poly(propylene imine) dendrimer/glucose oxidase,25,7.5,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/JSEN.2013.2245032,liquid,h+,-4.3,-3,silicon nitride,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/TBCAS.2014.2313512,liquid,h+,-11,2.940018155,silicon nitride,25,,water
+10.1007/s12274-017-1768-z,liquid,h+,-6,-3,silicon nitride,25,,water
+10.1109/BioCAS.2011.6107804,liquid,h+,-11,2,silicon nitride,25,,water
+10.1002/cjoc.201600490,gas,nitrogen dioxide,-1.301029996,-0.602059991,europium/phthalocyanine,25,-1,nitrogen
+10.1109/TBCAS.2013.2282894,liquid,h+,-6,-2,silicon nitride,25,,water
+10.1016/j.snb.2018.09.114,liquid,h+,-9,2,silicon nitride,25,,water
+10.1016/j.snb.2021.129887,gas,water,3.672097858,4.070037867,poly(acrylic acid),25,-1,oxygen/nitrogen
+10.1039/c4tc02075h,liquid,k+,1.263162465,3.591064607,polyvinylchloride,25,7,potassium chloride/water
+10.1039/c4tc02075h,gas,ammonia,-1.301029996,-0.397940009,"poly(3,3′″-didodecyl quarter thiophene)",25,-1,nitrogen
+10.1002/adfm.200901598,gas,methyl iodide,3,,"poly-(4-[2,2′;5′,2″]terthiophene-3′-yl-pyridine-co-3-hexylthiophene)",25,-1,oxygen/nitrogen
+10.1002/cta.2618,liquid,h+,-11,3,silicon nitride,25,,water
+10.1039/c3tc31713g,gas,water,0.698970004,1.84509804,tin(iv) oxide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2014.06.008,liquid,h+,-9,1,silicon nitride,25,,water
+10.1088/0022-3727/45/47/475101,liquid,h+,-9,1,silicon nitride,24,,water
+10.1039/c0nr00871k,gas,carbon monoxide,0.698970004,,indium oxide,25,-1,oxygen/nitrogen
+10.1039/c0nr00871k,gas,nitrogen monoxide,0.698970004,,indium oxide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2014.01.071,liquid,adenosine triphosphate,-5.294837881,0.705162119,graphene,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1143/JJAP.49.01AG06,liquid,h+,-6,-2,silicon nitride,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.bios.2019.111962,liquid,glucose,-2.744727495,3.334453751,dextran/silver,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2015.05.096,liquid,ca2+,1.602059991,4.602059991,"methyl 5-(dimethylamino)-2-methyl-5-oxopentanoate/1,2-dithiolane/2-[bis(2-methoxy-2-oxoethyl)amino]propanoic acid/phenoxyethanol",25,7,water
+10.1021/acssensors.1c00949,liquid,cortisol,-5.440739914,-1.423706575,tetrakis(4-carboxyphenyl)porphine,25,7,water
+10.1007/s12274-023-6148-2,liquid,h+,-14,-11,strontium oxide/cobalt oxide,25,,sodium hydroxide/water
+10.1016/j.bios.2021.113085,liquid,mercury(ii) nitrate,-8.697690722,2.302309278,gold/cysteine,25,7,water
+10.1016/j.jallcom.2022.163955,liquid,h+,-9,1,tantalum oxide/tantalum,500,,water
+10.1007/s00339-021-04314-1,liquid,mercury(ii) nitrate,-3.31747948,-1.919539471,"poly(3,4-ethylenedioxythiophene)/polystyrene sulfonate/graphene/phenol/ethylene oxide/benzoic acid",25,7,water
+10.1016/j.snb.2012.01.059,gas,hydrogen,0,4,palladium,250,-1,oxygen/nitrogen
+10.1021/la204486y,gas,dimethyl methylphosphonate,0.892094603,1.892094603,"5,9,14,18,23,27,32,36-octabutoxy-2,3-naphthalocyanine",25,-1,oxygen/nitrogen
+10.1021/la204486y,gas,dimethyl sulfoxide,0.447158031,1.447158031,"5,9,14,18,23,27,32,36-octabutoxy-2,3-naphthalocyanine",25,-1,oxygen/nitrogen
+10.1021/la204486y,gas,trimethyl phosphate,0.785329835,1.785329835,"5,9,14,18,23,27,32,36-octabutoxy-2,3-naphthalocyanine",25,-1,oxygen/nitrogen
+10.1021/la204486y,gas,toluene,2.155336037,3.155336037,"5,9,14,18,23,27,32,36-octabutoxy-2,3-naphthalocyanine",25,-1,oxygen/nitrogen
+10.1021/la204486y,gas,diethyl ether,2.84509804,3.84509804,"5,9,14,18,23,27,32,36-octabutoxy-2,3-naphthalocyanine",25,-1,oxygen/nitrogen
+10.1021/la204486y,gas,isopropanol,2.176091259,3.176091259,"5,9,14,18,23,27,32,36-octabutoxy-2,3-naphthalocyanine",25,-1,oxygen/nitrogen
+10.1021/la204486y,gas,water,2.193124598,3.193124598,"5,9,14,18,23,27,32,36-octabutoxy-2,3-naphthalocyanine",25,-1,oxygen/nitrogen
+10.1021/la204486y,gas,methanol,2.903089987,3.903089987,"5,9,14,18,23,27,32,36-octabutoxy-2,3-naphthalocyanine",25,-1,oxygen/nitrogen
+10.1039/d0tc00635a,liquid,ferric chloride,-11.25305459,-1.25305459,carbon quantum dot,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1088/2631-8695/acf649,liquid,h+,-10,2,tantalum pentoxide,25,,water
+10.1109/TBCAS.2019.2895069,liquid,h+,-7,0,tantalum pentoxide,25,,water
+10.1016/j.cclet.2019.04.074,liquid,phenylalanine,-13.78201625,-3.782016247,mono-(6-amino-6-deoxy)-beta-cyclodextrin,25,7,water
+10.1016/j.cclet.2019.04.074,liquid,3-phenyllactic acid,-13.77944738,-3.77944738,mono-(6-amino-6-deoxy)-beta-cyclodextrin,25,7,water
+10.1016/j.cclet.2019.04.074,liquid,mandelic acid,-13.81773575,-3.81773575,mono-(6-amino-6-deoxy)-beta-cyclodextrin,25,7,water
+10.1016/j.cclet.2019.04.074,liquid,2-chloromandelic acid,-13.72911164,-3.729111635,mono-(6-amino-6-deoxy)-beta-cyclodextrin,25,7,water
+10.1016/j.cclet.2019.04.074,liquid,ibuprofen,-13.68552182,-3.685521824,mono-(6-amino-6-deoxy)-beta-cyclodextrin,25,7,water
+10.1016/j.snb.2018.08.015,gas,hydrogen sulfide,1.176091259,1.954242509,platinum,250,-1,oxygen/nitrogen
+10.1016/j.snb.2009.12.071,gas,carbon dioxide,2.602059991,3.602059991,polysiloxane,27,-1,oxygen/nitrogen
+10.1016/j.snb.2021.130148,gas,hydrogen sulfide,0.029383778,1.698970004,silicon,180,-1,oxygen/nitrogen
+10.1016/j.orgel.2016.04.031,liquid,citrate,-1.114358389,1.28358162,iron(iii) phthalocyanine chloride/cobyrinate c-monamide/poly(butyl acrylate),25,7.2,tris hydroxymethyl aminomethane/water
+10.1149/1.3543922,liquid,na+,1.838849091,3.492061605,hafnium oxide,25,8,tris/tromethamine/hydrochloric acid/water
+10.1149/1.3543922,liquid,k+,2.068185862,3.721398376,hafnium oxide,25,8,tris/tromethamine/hydrochloric acid/water
+10.1016/j.snb.2013.07.107,liquid,h+,-9,1.8,tantalum pentoxide/zinc oxide,25,,water
+10.1016/j.snb.2015.07.101,liquid,glucose,-3.443321274,3.255648731,3-aminophenylboronic acid,25,7.8,water
+10.3390/technologies6030077,liquid,"1,5-anhydroglucitol",2.215267343,3.215267343,ferric ferrocyanide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2018.01.097,liquid,ammonia,-1.301029996,2,polyaniline/titanium dioxide,25,7,potassium chloride/water
+10.1016/j.bios.2013.11.038,liquid,k+,-0.408935393,1.591064607,valinomycin,25,7,water
+10.1039/c7tb00629b,liquid,oxalic acid,-9.04561275,,polypyrrole,25,7,water
+10.1016/j.jallcom.2021.158689,liquid,h+,-9,1,"terbium(iii,iv) oxide/tantalum oxide",25,,water
+10.1007/s00339-019-3056-0,liquid,na+,-2.638272164,4.361727836,silicon,25,7,water
+10.1007/s00339-019-3056-0,liquid,k+,-2.408935393,4.591064607,silicon,25,7,water
+10.1007/s00339-019-3056-0,liquid,ca2+,-2.397940009,4.602059991,silicon,25,7,water
+10.1007/s00339-019-3056-0,liquid,mg2+,-2.619788758,4.380211242,silicon,25,7,water
+10.1039/d0nr06920e,liquid,taurine,-1.384576047,0.397940009,"poly(dopamine-co-1,2-diaminobenzene)",25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/JSEN.2009.2037016,liquid,h+,-9,1,thulium oxide,25,,water
+10.3390/chemosensors10040122,liquid,h+,-6.87,-0.07,tin dioxide,25,,water
+10.1063/1.4775579,liquid,poly-l-lysine,-0.920818754,0.120573931,carbon nanotube,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/EUROSOI-ULIS45800.2019.9041867,liquid,h+,-7,-1,tin dioxide,25,,water
+10.1016/j.snb.2018.04.078,gas,ammonia,-0.22184875,1.301029996,calixarene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2018.04.078,gas,trimethylamine,-0.522878745,0.77815125,calixarene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2018.04.078,gas,dimethylamine,-0.397940009,0.77815125,calixarene,25,-1,oxygen/nitrogen
+10.1039/d1sd00007a,liquid,glucose,-0.131567413,2.255648731,poly(3-amino-benzylamine-co-aniline),25,6,water
+10.3390/bios8010009,liquid,dopamine,-9.814797935,-1.814797935,4-carboxyphenyl boronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2017.07.156,gas,hydrogen,0.301029996,4,palladium,130,-1,oxygen/nitrogen
+10.1016/j.electacta.2010.02.093,liquid,alanine,-1.44811105,0.55188895,homocysteine,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2018.08.087,liquid,h+,-7,-1,tin dioxide,25,,water
+10.1016/j.tsf.2020.138083,liquid,h+,-7,0,tin dioxide,25,,water
+10.1063/1.4932124,gas,water,3.371067862,4.325310372,polyethylenimine,25,-1,nitrogen
+10.1109/LED.2012.2210274,liquid,h+,-10,2,tin dioxide,25,,water
+10.1039/c8an02339e,liquid,ibuprofen,-8.685521824,-2.685521824,2-hydroxypropyl-beta-cyclodextrin,25,7,sodium chloride/water
+10.1016/j.snb.2012.11.086,liquid,ca2+,0.602059991,2.606381365,gallium nitride,37,7,sodium chloride/potassium chloride/calcium chloride/magnesium sulfate/sodium bicarbonate/glucose/sodium phosphate/potassium phosphate/water
+10.1021/acs.analchem.8b01806,liquid,ibuprofen,-3.685521824,-2.384491828,2-hydroxypropyl-beta-cyclodextrin,25,7,water
+10.1016/j.snb.2020.128147,liquid,cu2+,-9.193820026,0.806179974,"2,2'-dipicolylamine",25,7,water
+10.1016/j.snb.2020.128835,liquid,h+,-6.87,-0.07,tin dioxide,25,,water
+10.1016/j.snb.2012.11.016,liquid,glucose,2.397940009,3.301029996,gold/sodium ferrocyanide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1080/14686996.2020.1775477,liquid,h+,-7,-1,tin dioxide,25,,water
+10.1016/j.snb.2013.11.089,gas,sulfur dioxide,1.301029996,3.602059991,platinum,300,-1,nitrogen
+10.3390/chemosensors9030042,liquid,h+,-6.87,-0.07,tin dioxide,25,,water
+10.1016/j.snb.2020.128827,liquid,h+,-6.87,-0.07,tin dioxide,25,,water
+10.1021/acsami.1c21092,liquid,hydrogen phosphate,-0.400553624,1.851258349,2-(bis(pyridin-2-ylmethyl)amino)ethane-1-thiol,25,7.4,4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid/water
+10.1016/j.snb.2017.11.132,gas,water,3.371067862,4.292754338,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2017.10.147,gas,benzene,0,1.397940009,tetraphenylporphyrin,25,-1,nitrogen
+10.1088/1361-6641/aa584b,liquid,h+,-7,-1,tin dioxide,25,,water
+10.1063/1.5059376,liquid,h+,-7,-1,tin dioxide,25,,water
+10.1016/j.sse.2017.10.025,liquid,h+,-7,-1,tin(iv) oxide,25,,water
+10.3390/chemosensors11010046,liquid,h+,-7,0,tin(iv) oxide,25,,water
+10.1016/j.snb.2022.132052,gas,hydrogen sulfide,-1.619788758,2,indium oxide/gallium oxide/zinc oxide,180,-1,oxygen/nitrogen
+10.1109/LED.2017.2732352,liquid,h+,-7,-1,tin(iv) oxide/indium oxide,25,,water
+10.3390/s19051063,liquid,h+,-9,1,tin(iv) oxide/indium oxide,25,,water
+10.1590/S1516-14392013005000101,liquid,h+,-9,1,tin(iv) oxide/indium oxide,25,,water
+10.1016/j.snb.2014.12.075,liquid,h+,-9,1,tin(iv) oxide/indium oxide,25,,water
+10.1016/j.sna.2021.113231,liquid,h+,-9,1,titanium dioxide,25,,water
+10.1016/j.jallcom.2023.170857,liquid,h+,-9,1,titanium dioxide,25,,water
+10.1109/TED.2020.3025743,gas,methanol,1.698970004,2.397940009,graphene/phenol/ethylene oxide/benzoic acid,100,-1,oxygen/nitrogen
+10.1016/j.snb.2012.01.003,liquid,h+,-7,-1,titanium dioxide,25,,water
+10.1016/j.snb.2013.02.056,liquid,h+,-7,-1,titanium dioxide,25,,water
+10.3390/gels8110690,liquid,h+,-9,1,titanium dioxide/polyaniline ,25,,water
+10.1016/j.talanta.2010.03.034,liquid,carbonate,-2.22184875,-0.22184875,polyurethane,25,7,water
+10.1039/c2an35168d,gas,p-xylene,2.954242509,4.491361694,zinc oxide,25,-1,oxygen/nitrogen
+10.1039/c2cc34134d,gas,nitrogen dioxide,-1,1,"lanthanum cation (3+)/3,3'-me2-salophen",25,-1,oxygen/nitrogen
+10.1016/j.snb.2014.07.129,liquid,iron(iii),-1.25,2.75,cyclam,25,6.2,water
+10.1021/acsami.5b03597,gas,cyclohexanone,-1.397940009,-0.920818754,octadecylphosphonic acid,25,-1,oxygen/nitrogen
+10.1016/j.cplett.2017.11.049,gas,ethanol,4.69,4.99,carbon nanotube,25,-1,oxygen/nitrogen
+10.1021/acsnano.2c04503,liquid,naphthalene,2.10720997,,molybdenum disulfide,25,7,water
+10.3390/nano12152620,liquid,sodium chloride,-3.23,3.77,graphene,25,7,water
+10.1109/ICEE44586.2018.8937927,gas,nitrogen dioxide,2,,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.3390/chemosensors12030032,gas,hydrogen,1.959041392,3.77815125,indium oxide,25,-1,oxygen/nitrogen
+10.1007/s00289-022-04105-5,liquid,chlorpyrifos,-0.53,0.39,titanium carbide,25,7,water
+10.1038/s41598-018-26792-9,liquid,lead,-4.68,0.316,polyvinyl chloride,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1088/1361-6528/abbca8,gas,nitrogen dioxide,1.301029996,2.079181246,silver,25,-1,oxygen/nitrogen
+10.1109/TED.2017.2679239,gas,ammonia,0,2.698970004,zinc oxide,150,-1,oxygen/nitrogen
+10.1016/j.snb.2024.136393,gas,ethanol,0.698970004,2.77815125,zinc oxide,200,-1,oxygen/nitrogen
+10.1016/j.apsusc.2020.146709,gas,ammonia,1,3.477121255,molybdenum disulfide,25,-1,nitrogen
+10.1109/JSEN.2017.2757701,liquid,hydrogen,-1.65,-4.28,indium oxide/tin dioxide,25,7,water
+10.1109/TED.2019.2901007,gas,ammonia,-0.823908741,1.397940009,"2,3,9,10,16,17,23,24-octakis(octyloxy)-29h,31h-phthalocyanine/fluorine",25,-1,oxygen/nitrogen
+10.1109/ACCESS.2020.2965806,gas,carbon dioxide,0,3,carbon nanotube,25,-1,oxygen/nitrogen
+10.1149/1.3525625,gas,nitrogen dioxide,-2,-0.522878745,sodium nitrite,130,-1,oxygen/nitrogen
+10.1109/LED.2024.3368143,gas,nitric oxide,0.698970004,,indacenodithiophene-co-benzothiadiazole,25,-1,oxygen/nitrogen
+10.1109/TRANSDUCERS.2017.7994034,gas,nitrogen,0,2,polyethylenimine,25,-1,nitrogen
+10.1109/JSEN.2011.2161632,gas,ammonia,1,2,titanium nitride,25,-1,oxygen/nitrogen
+10.1021/acsami.2c23086,gas,nitrogen dioxide,-0.301029996,0.924279286,tungsten disulfide,25,-1,nitrogen
+10.1021/acsanm.4c01988,gas,carbon monoxide,-3,-1.522878745,tin(iv) oxide,150,-1,oxygen/nitrogen
+10.1149/2.0171807jss,gas,ammonia,-1,0.602059991,graphene,25,-1,oxygen/nitrogen
+10.1021/acsami.1c17770,gas,dimethyl methylphosphonate,-0.096910013,2.840733235,graphene,25,-1,nitrogen
+10.1016/j.snb.2012.10.064,gas,nitrogen dioxide,-2,0.698970004,"2,11,20,29,37,38-hexaza-39,40-diazanidanonacyclo[28.6.1.13,10.112,19.121,28.04,9.013,18.022,27.031,36]tetraconta-1,3,5,7,9,11,13,15,17,19,21(38),22,24,26,28,30(37),31,33,35-nonadecaene;titanium(2+);hydrate",25,-1,nitrogen
+10.1109/ICSENS.2011.6127261,gas,hydrogen,-1,1.698970004,tungsten trioxide,150,-1,oxygen/nitrogen
+10.3390/chemosensors11070365,gas,methane,1.698970004,2.698970004,vanadium dioxide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2022.131875,gas,ammonia,-2,1,benzothiophene/3-[2-(3-thienyl)vinyl]thiophene,25,-1,oxygen/nitrogen
+10.1109/JSEN.2022.3227891,gas,carbon dioxide,2.491361694,,graphene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2013.09.031,gas,hydrogen,2.301029996,,palladium,25,-1,oxygen/nitrogen
+10.1007/s40242-021-1167-6,gas,nitrogen dioxide,0,0.698970004,"6,13-bis(triisopropylsilylethynyl)pentacene",25,-1,oxygen/nitrogen
+10.1088/2515-7639/ab1795,gas,nitrogen dioxide,-2,0,carbon nanotube,25,-1,oxygen/nitrogen
+10.1016/j.talanta.2016.01.068,liquid,octylamine,0.551,2.29,"poly(2,5-bis(3-hexadecylthiophen-2-yl)thieno[3,2-b]thiophene)",25,7,water
+10.3390/s17030570,liquid,hydrazine,-0.494,3.51,"poly(3,4-ethylenedioxythiophene)",25,7,water
+10.1016/j.dyepig.2023.111235,gas,nitrogen dioxide,-1,1.698970004,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1016/j.snb.2013.01.026,gas,nitrogen dioxide,-1.397940009,0,zinc oxide,25,-1,oxygen/nitrogen
+10.1109/IEDM.2016.7838443,gas,nitrogen dioxide,-0.602059991,0.397940009,zinc oxide,180,-1,oxygen/nitrogen
+10.1109/LED.2019.2942965,gas,ammonia,-0.301029996,2,tips-pentacene,25,-1,oxygen/nitrogen
+10.1039/c5cp02391b,gas,oxygen,0,1.301029996,zinc oxide,25,-1,oxygen/nitrogen
+10.1007/s12633-021-01381-0,gas,ammonia,-14.03,,palladium,25,-1,water
+10.1109/ICSENS.2011.6126923,gas,water,3.51851394,4.301029996,hexabenzocoronene,25,-1,water
+10.1007/s10853-022-07873-7,gas,nitrogen dioxide,-0.301029996,2,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1002/smll.202001469,liquid,cinnamaldehyde,-8.878,-3.187,carbon nanotube,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.proeng.2016.11.165,gas,naphthalene,-3.301029996,-2,iridium,330,-1,oxygen/nitrogen
+10.1002/adsr.202400040,gas,water,2,3.698970004,sulfide/lignin/sodium hydroxide/poly(ethylene glycol) diglycidyl ether,25,-1,nitrogen
+10.1109/BioCAS.2016.7833717,liquid,3-sialyl lactose,0.801780895,2.801856293,phenylboronic acid,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.matchemphys.2021.125661,gas,nitrogen dioxide,1,1.698970004,poly(3-hexylthiophene),25,-1,nitrogen
+10.1149/1945-7111/ac30aa,liquid,h+,-9,1,titanium nitride,25,,water
+10.1109/DRC46940.2019.9046334,gas,nitrogen dioxide,1.903089987,,molybdenum disulfide,25,-1,nitrogen
+10.1016/j.sna.2011.01.021,gas,"2,4,6-trinitrotoluene",-4,,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1002/aelm.202101353,liquid,phosphate,-4.761953897,-1.040005162,"2,7,12,17,22-penta-tert-butyl-4,9,14,19,24-pentacyano-pentabenzo[ab,fg,kl,pq,uv]-[25]annulene",25,7.2,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1186/s11671-016-1687-z,gas,hydrogen,3.698970004,4.602059991,platinum,130,-1,oxygen/nitrogen
+10.1109/MEMSYS.2014.6765617,gas,ammonia,0,3.544068044,graphene,25,-1,nitrogen
+10.3390/polym15163463,gas,nitrogen dioxide,-2,,poly(triarylamine),25,-1,oxygen/nitrogen
+10.4028/www.scientific.net/AMR.802.232,liquid,h+,-7,-1,titanium nitride,25,,water
+10.1016/j.sse.2022.108545,gas,nitrogen dioxide,-0.698970004,,indium oxide,473,-1,oxygen/nitrogen
+10.1016/j.sse.2022.108545,gas,hydrogen sulfide,1,,indium oxide,473,-1,oxygen/nitrogen
+10.1016/j.snb.2017.12.107,liquid,di-2-ethylhexyl phthalate,-1.602059991,-1.301029996,polyacrylamide,25,7,water
+10.1016/j.apsusc.2024.160061,liquid,pb2+,-3.382999659,1.315970345,rhenium sulfide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.talanta.2009.11.059,liquid,h+,-6.3,-0.5,tridodecylamine,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/ICSENS.2011.6127415,gas,ethanol,2.698970004,,copper phthalocyanine,25,-1,nitrogen
+10.1021/acsaelm.1c01205,liquid,sodium chloride,2.766710207,4.766710207,poly(3-hexylthiophene),25,7,water
+10.1038/s41467-019-09573-4,liquid,hydroxyl radical,-4.769551079,1.230448921,cysteamine,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1007/s10854-016-5669-9,liquid,h+,-9,1,vanadium pentoxide,25,,water
+10.1021/acsanm.2c02211,gas,hydrogen,-2.522878745,-0.397940009,palladium/aluminum oxide/graphene,25,-1,nitrogen
+10.3390/s24020407,liquid,hydrogen sulfide,-3.295334815,1.595936906,gold,25,7,water
+10.1016/j.snb.2024.136463,gas,nitrogen dioxide,-9,2,carbon/poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1117/12.3038158,gas,hydrogen,1.84509804,,palladium,26.7,-1,oxygen/nitrogen
+10.1109/TED.2023.3255835,gas,ammonia,-0.301029996,1.301029996,"poly(3-hexylthiophene-2,5-diyl)/carbon nitride",25,-1,oxygen/nitrogen
+10.1186/s11671-023-03801-z,gas,nitrogen dioxide,-0.301029996,,indium oxide,125,-1,oxygen/nitrogen
+10.1021/acsami.0c08977,gas,hydrogen,1.653212514,3.903089987,palladium,25,-1,oxygen/nitrogen
+10.1016/j.snb.2022.131673,gas,nitrogen dioxide,-0.301029996,,indium oxide,20,-1,oxygen/nitrogen
+10.1016/j.matchemphys.2010.09.040,liquid,h+,-9,1,vanadium pentoxide/tungsten trioxide,25,,water
+10.1021/acsanm.2c04885,gas,nitrogen dioxide,-2,-0.602059991,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1016/j.sse.2022.108563,gas,nitrogen dioxide,-0.698970004,-0.301029996,tungsten trioxide,180,-1,oxygen/nitrogen
+10.1063/1.4918988,liquid,hg2+,-2,2,thioglycolic acid/gold,25,7,water
+10.1063/1.4918988,liquid,pb2+,-2,2,cadmium ionophore i/gold,25,7,water
+10.1016/j.talanta.2024.126178,liquid,epinephrine,-1.73754891,,4-formylphenylboronic acid/indium oxide/zinc oxide/tin dioxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1149/2.0141904jes,liquid,h+,-9,1,yttrium oxide/titanium dioxide,25,,water
+10.1016/j.snb.2011.07.020,gas,hydrogen,2,4,platinum/titanium dioxide,115,-1,oxygen/nitrogen
+10.1088/1361-6463/acffd7,gas,hydrogen,-4.301029996,3.84509804,palladium,25,-1,oxygen/nitrogen
+10.1088/1361-6528/ac49c0,gas,dimethyl methylphosphonate,-1.301029996,1.698970004,hexafluoro-2-propanol/phenyl,25,-1,oxygen/nitrogen
+10.1016/j.heliyon.2024.e32281,gas,methanol,1.698970004,2.698970004,aluminum oxide/zinc oxide,25,-1,oxygen/nitrogen
+10.1016/j.heliyon.2024.e32281,gas,ethanol,1.698970004,2.698970004,aluminum oxide/zinc oxide,25,-1,oxygen/nitrogen
+10.1016/j.matlet.2018.10.121,gas,nitrogen dioxide,-0.615109203,1.477121255,"poly[n,n'-bis(4-butylphenyl)-n,n'-bis(phenyl)benzidine]",25,-1,oxygen/nitrogen
+10.1016/j.matpr.2022.03.111,gas,2-butanone,0.698970004,,titanium dioxide,25,-1,oxygen/nitrogen
+10.3390/s22062383,gas,ethanol,3.892094603,4.136720567,graphene,25,-1,oxygen/nitrogen
+10.1016/j.mejo.2023.105811,liquid,h+,-8,0,zinc oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.snb.2024.135402,liquid,hydrogen sulfide,-6.468521083,1.531478917,cobalt phthalocyanine,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/ICSENS.2013.6688513,liquid,h+,-11,1,zinc oxide,25,,water/hydrochloric acid
+10.1016/j.snb.2021.130791,liquid,hydrogen peroxide,-3.753353725,2.230448921,ferric ferrocyanide,25,6.2,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/c6ra10132a,gas,oxygen,2,3,molybdenum disulfide,25,-1,argon
+10.1039/c6ra10132a,gas,carbon dioxide,2,3,molybdenum disulfide,25,-1,argon
+10.1039/d3cp01813j,gas,ammonia,-0.987162775,2.301029996,graphene/platinum/gold,23,-1,oxygen/nitrogen
+10.1088/2053-1591/aae739,liquid,h+,-9,1,zinc oxide,25,,water
+10.1007/s11172-022-3533-z,gas,ammonia,-2,,benzothienobenzothiophene,25,-1,oxygen/nitrogen
+10.1016/j.ijhydene.2014.06.109,gas,hydrogen,0.698970004,4,palladium,370,-1,oxygen/nitrogen
+10.1016/j.snb.2019.03.083,gas,hydrogen,0.698970004,3.301029996,palladium/silver,130,-1,oxygen/nitrogen
+10.1021/acsami.2c02380,gas,nitrogen dioxide,0,1.602059991,molybdenum disulfide/boron nitride ,25,-1,nitrogen
+10.1021/acsami.2c02380,gas,ammonia,0,1.602059991,molybdenum disulfide/boron nitride ,25,-1,nitrogen
+10.1109/ICSENS.2010.5690276,gas,dimethyl methylphosphonate,-0.301029996,0.301029996,carbon nanotube,25,-1,oxygen/nitrogen
+10.1021/acs.langmuir.3c02334,gas,ethanol,-3.40560745,2.77815125,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1109/ESSDERC.2016.7599638,gas,nitrogen dioxide,-1.301029996,,carbon nanotube,25,-1,oxygen/nitrogen
+10.1021/acsami.3c17503,liquid,norfentanyl,-3,2,carbon nanotube,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsaelm.9b00396,gas,ammonia,-1,0.477121255,fluorinated thiophene–isoindigo conjugated polymer,25,-1,oxygen/nitrogen
+10.1109/GCCE.2017.8229212,gas,ethylene,-0.301029996,1.602059991,iridium,200,-1,oxygen/nitrogen
+10.1021/acsami.4c07692,liquid,polystyrene,1.397940009,3.301029996,carbon nanotube,25,8.19,water/sodium chloride/magnesium sulfate/potassium chloride/sodium nitrate/calcium chloride/potassium dihydrogen phosphate/tricine /ammonium chloride
+10.1002/open.202400098,liquid,spermidine,-0.476185924,,copper(ii) perchlorate,25,8.5,n-cyclohexyl-2-aminoethanesulfonic acid/water
+10.3390/s17071640,gas,acetic acid,3.26927939,,indium arsenide,25,-1,nitrogen
+10.1021/acsaelm.9b00844,liquid,histamine,3.000151976,,4-mercaptobenzoic acid,25,5.5,water/2-morpholinoethanesulfonic acid
+10.1109/EDSSC.2018.8487082,gas,hydrogen,0.698970004,3,pentacene,25,-1,oxygen/nitrogen
+10.1109/TED.2022.3161246,gas,nitrogen dioxide,-2.995678626,,indium oxide/gallium oxide/zinc oxide,150,-1,oxygen/nitrogen
+10.1007/s00339-011-6655-y,gas,ethanol,0.698970004,2,indium oxide,25,-1,oxygen/nitrogen
+10.1016/j.snb.2024.135928,gas,ammonia,-0.630784143,2.698970004,polyaniline/copper phthalocyanine tetrasulfonic acid tetrasodium salt,25,-1,oxygen/nitrogen
+10.1007/s11696-022-02554-w,liquid,na+,0.361727836,4.361727836,zirconium oxide/silicon,25,5.2,water
+10.1109/ICSENS.2011.6127411,gas,hydrogen sulfide,0.301029996,1,iridium,350,-1,nitrogen
+10.1016/j.proeng.2011.12.028,gas,carbon monoxide,0.698970004,1.397940009,zinc oxide,25,-1,oxygen/nitrogen
+10.1109/JSEN.2017.2778228,liquid,hydrazine,-0.995162939,2.837588438,copper hexacyanoferrate(ii),25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.mssp.2017.10.011,liquid,h+,-9,1,zinc oxide,25,,water
+10.1117/12.893401,gas,ethanol,2,2.698970004,pentacene,25,-1,nitrogen
+10.1021/acs.jpcc.7b09499,liquid,hg2+,1,,1-octadecanethiol,25,7,water
+10.1109/EDSSC.2017.8333238,gas,hydrogen,2.301029996,4.176091259,palladium,25,-1,oxygen/nitrogen
+10.1149/1.3547723,liquid,urea,1.77815125,3.283301229,dysprosium(iii) titanium dioxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.3390/mi14061135,liquid,glucose,2.84509804,4.698970004,gold,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.3390/mi14061135,gas,carbon monoxide,2,2.698970004,gold,25,-1,oxygen/nitrogen
+10.7503/cjcu20210688,liquid,hg2+,-6.698970004,-1.698970004,18-crown-6/thioformaldehyde,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1149/08609.0041ecst,gas,ammonia,0,,graphene,25,-1,oxygen/nitrogen
+10.1021/acsami.1c00585,gas,ammonia,-1,2.301029996,silicon,25,-1,oxygen/nitrogen
+10.1109/NMDC57951.2023.10344220,gas,carbon dioxide,1.653212514,2.698970004,phosphorus,25,-1,oxygen/nitrogen
+10.1002/adma.201670145,gas,xylene,1.602059991,,poly(diketopyrrolopyrrole-terthiophene),25,-1,nitrogen
+10.1016/j.ijhydene.2022.10.036,liquid,h+,-9,1,zinc oxide,25,,water
+10.1021/jp505279m,gas,nitrogen dioxide,-2.823908741,0,graphene/phenol/ethylene oxide/benzoic acid/titanium dioxide,200,-1,oxygen/nitrogen
+10.1109/TED.2023.3312060,gas,nitrogen dioxide,-1,3,indium oxide/gallium oxide/zinc oxide,150,-1,oxygen/nitrogen
+10.3390/chemosensors11040252,gas,nitrogen dioxide,-3.443697499,1.096910013,lead sulfide,25,-1,oxygen/nitrogen
+10.3390/s22228744,liquid,glyphosate,-0.22903906,0.403977964,copper oxide,25,6.05,water
+10.1109/ACCESS.2022.3205320,liquid,h+,-7,1,zinc oxide,25,,water
+10.1016/j.tsf.2012.05.045,liquid,h+,-10,2,zinc oxide,25,,water
+10.1016/j.snb.2012.11.029,gas,benzene,-1.301029996,1.698970004,4-amino-n-methylphthalimide,25,-1,nitrogen
+10.1109/TRANSDUCERS.2019.8808818,gas,nitrogen dioxide,-1.698970004,2.77815125,zif-8,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2022.106493,gas,nitrogen dioxide,1,1.698970004,poly(3-hexylthiophene)/n-[3-(trimethoxysilyl)propyl]ethylenediamine,25,-1,oxygen/nitrogen
+10.1039/d4ta02739f,gas,nitrogen dioxide,-1.698970004,,tungsten ditelluride,25,-1,oxygen/nitrogen
+10.1021/acs.chemmater.1c02182,gas,ammonia,-0.301029996,2,poly(3-butylthiophene),25,-1,oxygen/nitrogen
+10.1038/s41467-023-39701-0,liquid,pb2+,-2.301029996,-1,l-cysteine/gold,25,7.7,water
+10.1038/s41467-023-39701-0,liquid,hg2+,-2.698970004,-1,thioglycolic acid/gold,25,7.7,water
+10.1149/2.110306jes,liquid,h+,-9,1,zinc oxide,25,,water
+10.1039/d2cc01224c,liquid,hydrogen peroxide,-6.148741651,-4,"poly{2,5-bis(3-tetradecylthiophene-2-yl)thieno[3,2-b]thiophene}",25,7,water
+10.1039/d1qm01274f,liquid,epinephrine,-4.205595614,0.961895474,bismuth(iii) vanadate,25,7.2,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.3390/s16101763,gas,nitrogen dioxide,-0.301029996,1.176091259,copper phthalocyanine/pentacene,25,-1,oxygen/nitrogen
+10.1109/ICACIA.2010.5709943,gas,ethanol,3.505149978,3.806179974,copper phthalocyanine​,25,-1,nitrogen
+10.1016/bs.mie.2018.06.001,gas,hydrogen,1.698970004,2.397940009,tin(iv) oxide/platinum,180,-1,oxygen/nitrogen
+10.1109/SENSORS47087.2021.9639461,liquid,hg2+,-2.920818754,-2,glutathione/graphene/phenol/ethylene oxide/benzoic acid,25,6,water
+10.1117/12.2623293,gas,ammonia,1.698970004,2.301029996,molybdenum disulfide,25,-1,oxygen/nitrogen
+10.1021/acsnano.9b08253,gas,ethanol,-2,1,indium arsenide,25,-1,nitrogen
+10.1016/j.snb.2021.130509,gas,hydrogen,-1.37675071,-0.096910013,palladium,25,-1,oxygen/nitrogen
+10.3390/s18020343,gas,"1,1-dichloro-1-fluoroethane",0.602059991,1.301029996,silicon,25,-1,oxygen/nitrogen
+10.1109/JSEN.2013.2285488,liquid,h+,-9,-1,zinc oxide,25,,water
+10.1143/APEX.3.047201,gas,hydrogen,3,,platinum,115,-1,oxygen/nitrogen
+10.1039/d3ra00933e,gas,ammonia,0.698970004,2,tungsten disulfide,25,-1,oxygen/nitrogen
+10.1016/j.orgel.2023.106938,gas,ammonia,0.301029996,2,polyaniline,23,-1,oxygen/nitrogen
+10.4313/TEEM.2015.16.2.78,gas,ethanol,0,,zinc oxide/aluminum oxide,300,-1,nitrogen
+10.1002/smll.202310527,liquid,carbon/hydrogen sulfite,2.397940009,3.698970004,"poly(3-hexylthiophene-2,5-diyl)",25,7,ethanol
+10.1109/JSEN.2023.3236438,gas,ammonia,-1.933674075,0.698970004,"poly(3-hexylthiophene-2,5-diyl)",25,-1,oxygen/nitrogen
+10.1016/j.apsusc.2020.145664,liquid,nitrate,0.079181246,1.301029996,ethylenediamine/polyvinyl chloride,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/c4an00403e,liquid,hg2+,-5.698970004,-1.698970004,polyfuran,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1149/2162-8777/ac451b,gas,hydrogen,1,2.698970004,platinum,400,-1,oxygen/nitrogen
+10.1016/j.sna.2023.114695,liquid,glucose,3,3.602059991,gallium oxide,25,7,sodium chloride/sodium bicarbonate/calcium chloride/l-glutamine/phenol red/water
+10.1039/d1nr03704h,liquid,dopamine,0.185258765,1.185258765,silica,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1088/0957-4484/26/35/355202,liquid,h+,-6,1,zinc oxide,25,,sodium dihydrogen phosphate/water
+10.1016/j.snb.2023.133685,gas,hydrogen sulfide,-2,0.698970004,"4-(dicyanomethylene)-2,5-cyclohexadien-1-ylidenecyanamide/propanedinitrile",25,-1,oxygen/nitrogen
+10.1016/j.aca.2020.12.040,liquid,cu2+,-5.675306086,-2.193820026,poly(4-vinylpyridine),25,7.2,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1109/JSEN.2012.2185225,gas,hydrogen,2,4,titanium dioxide/platinum,115,-1,oxygen/nitrogen
+10.1109/JSEN.2022.3151428,gas,nitrogen dioxide,-0.390405591,2.301029996,iodine/graphene,25,-1,oxygen/nitrogen
+10.1016/j.snb.2024.135349,gas,nitrogen dioxide,-0.301029996,,indium oxide,300,-1,oxygen/nitrogen
+10.1016/j.surfcoat.2016.04.052,liquid,nitrate,0.387389826,1.77815125,ionophore/poly(vinyl chloride),25,7,water
+10.1117/12.2507350,gas,ammonia,1,1.698970004,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1117/12.2507350,gas,nitrogen dioxide,-0.22184875,1.477121255,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.3390/s101110413,gas,propane,2.397940009,2.698970004,hematite/pyrrole ,30,-1,oxygen/nitrogen
+10.1002/aelm.201800362,gas,4-hydroxybenzoate,-3.522878745,-1.698970004,"6,13-bis(triisopropylsilylethynyl)pentacene/4-tert-butylcalix[6]arene",25,-1,oxygen/nitrogen
+10.1109/SENSORS52175.2022.9967221,liquid,ammonium,0.255272505,2.255272505,nonactin,25,7,water
+10.1016/j.snb.2014.07.055,liquid,ca2+,-1.397940009,3.602059991,zinc oxide/tantalum oxide,25,2,calcium chloride/water
+10.1021/acssensors.3c02656,gas,nitrogen dioxide,-1.251811973,1,ni2+/hexahydroxytriphenylene,25,-1,oxygen/nitrogen
+10.1021/acsami.3c16144,gas,ammonia,0,1.954242509,lutetium phthalocyanine,25,-1,oxygen/nitrogen
+10.3390/s22176669,liquid,oxygen,0.698970004,0.903089987,tin (iv) oxide,25,6.86,water
+10.1021/acs.jpcc.6b00336,gas,sarin,1.602059991,,diphenyl chlorophosphate,25,-1,oxygen/nitrogen
+10.1063/1.3583594,gas,ethanol,3.301029996,,zinc oxide/pentacene,25,-1,oxygen/nitrogen
+10.3390/polym12010128,gas,ammonia,-1,2,tris(pentafluorophenyl)borane/poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1007/s11664-017-5580-z,liquid,h+,-9,1,zinc oxide,25,,water
+10.1021/acs.langmuir.9b00085,liquid,uric acid,-0.075462282,2.225567713,gold,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/d3ob01781h,liquid,potassium perchlorate,-0.85839347,,polyvinyl chloride,25,7,water
+10.1016/j.synthmet.2018.06.010,gas,ammonia,-1,2,poly(3-hexylthiophene),25,-1,oxygen/nitrogen
+10.1007/s11664-017-5369-0,liquid,h+,-9,-1,zinc oxide,25,,water
+10.1109/ICACIA.2010.5709885,gas,formaldehyde,2.462397998,,copper phthalocyanine,25,-1,nitrogen
+10.1007/s11172-024-4148-3,gas,ammonia,0.176091259,1.380211242,"poly(3,4-ethylenedioxythiophene)/polystyrenesulfonic acid",25,-1,oxygen/nitrogen
+10.1016/j.cej.2023.144443,liquid,aniline,-4.553789142,-3.553789142,pyrene/graphene,25,7,chloroform
+10.1016/j.bios.2012.10.050,liquid,hg2+,-1.081969663,1.86003839,thymine,25,7,water
+10.1016/j.orgel.2020.105878,gas,nitrogen dioxide,1.477121255,,"5,11-bis(triethylsilylethynyl)anthradithiophene",25,-1,oxygen/nitrogen
+10.1016/j.jallcom.2019.153630,liquid,h+,-9,1,zinc oxide/indium oxide,25,,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1063/1.3645028,gas,hydrogen,2,4,platinum/titanium dioxide,115,-1,oxygen/nitrogen
+10.1039/d3nj05597c,gas,nitrogen dioxide,-0.522878745,1.301029996,copper phthalocyanine,25,-1,oxygen/nitrogen
+10.1109/LSENS.2018.2817489,gas,ethanol,0,2,pentacene/copper phthalocyanine ,25,-1,oxygen/nitrogen
+10.1016/j.ceramint.2023.07.222,gas,ammonia,1,3,zinc oxide/tin dioxide/manganese dioxide,25,-1,oxygen/nitrogen
+10.1109/JEDS.2022.3197830,liquid,ascorbic acid,0.138,-0.453,ruthenium dioxide,37.5,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsbiomaterials.3c00869,liquid,serotonin,-10.75,-5.75,zinc oxide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsnano.3c07045,liquid,ethanol,-8,-2,molybdenum disulfide,25,7,water
+10.1002/smll.202402655,liquid,methyl parathion,-7.82,2.48,"copper(ii) benzene-1,3,5-tricarboxylate",25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/d0na00603c,liquid,mercury,-1.7,0.3,gold,25,7,water
+10.1088/1361-6528/abc0c8,liquid,sulfate ion,-0.495,,graphene,25,7,water
+10.1117/12.861329,liquid,polylysine,-1.42,,carbon nanotube,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1088/2043-6262/7/3/035007,liquid,atrazine,-7.301029996,-1.698970004,graphene,25,7,water
+10.14447/jnmes.v21i3.a10,liquid,sodium chloride,3.77,4.77,silicon dioxide,25,7,water
+10.1016/j.microc.2023.108755,liquid,glucose,-0.268,2.95,silver,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1016/j.bios.2021.113903,liquid,γ-aminobutyric acid,-12.99,3.01,carbon nanotube,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1021/acsanm.2c03705,liquid,glutathione,-4.51,2.19,n-(1-pyrenyl)maleimide,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.1039/d0ra02793f,liquid,glucose,0.255,3.25,phenylboronic acid,25,7,water
+10.1109/BMEI.2010.5639245,liquid,urea,-2.221,1.778,polypyrrole,25,7.4,sodium chloride/potassium chloride/disodium phosphate/monopotassium phosphate/water
+10.3390/s21124213,liquid,sodium chloride,0.767,4.767,sodium ionophore x,25,7,water
+10.1016/j.orgel.2023.106844,liquid,water,-0.5686,0.954,poly-3-hexylthiophene,25,7,water

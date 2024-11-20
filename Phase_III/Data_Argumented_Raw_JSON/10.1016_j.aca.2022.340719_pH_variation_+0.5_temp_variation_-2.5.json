@@ -1,0 +1,28 @@
+{
+    "DOI": "10.1016/j.aca.2022.340719",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "glucose"
+    ],
+    "lower_detection_limit_log_ppm": -2.744356091,
+    "upper_detection_limit_log_ppm": 3.653583918,
+    "probe_material": [
+        "gold",
+        "carbon nanotube"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "glycerol",
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "High UDL Range"
+}

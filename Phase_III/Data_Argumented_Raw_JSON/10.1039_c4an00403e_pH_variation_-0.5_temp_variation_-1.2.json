@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1039/c4an00403e",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hg2+"
+    ],
+    "lower_detection_limit_log_ppm": -5.698970004,
+    "upper_detection_limit_log_ppm": -1.698970004,
+    "probe_material": [
+        "polyfuran"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

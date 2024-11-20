@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1109/JSEN.2023.3236438",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": -1.933674075,
+    "upper_detection_limit_log_ppm": 0.698970004,
+    "probe_material": [
+        "poly(3-hexylthiophene-2,5-diyl)"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

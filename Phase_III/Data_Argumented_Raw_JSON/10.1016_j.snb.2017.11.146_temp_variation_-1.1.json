@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.snb.2017.11.146",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": 1.477121255,
+    "upper_detection_limit_log_ppm": 1.954242509,
+    "probe_material": [
+        "copper phthalocyanine"
+    ],
+    "test_operating_temperature_celsius": 19.95,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1063/1.4874182",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "na+"
+    ],
+    "lower_detection_limit_log_ppm": -0.638461029,
+    "upper_detection_limit_log_ppm": 3.361538971,
+    "probe_material": [
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

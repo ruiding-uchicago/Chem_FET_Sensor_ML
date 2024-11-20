@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1016/j.mssp.2019.104911",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "glucose"
+    ],
+    "lower_detection_limit_log_ppm": 2.556678726,
+    "upper_detection_limit_log_ppm": 3.100746771,
+    "probe_material": [
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

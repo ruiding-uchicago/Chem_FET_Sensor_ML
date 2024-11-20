@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.snb.2021.130509",
+    "sensor_type": "gas",
+    "detect_target": [
+        "hydrogen"
+    ],
+    "lower_detection_limit_log_ppm": -1.37675071,
+    "upper_detection_limit_log_ppm": -0.096910013,
+    "probe_material": [
+        "palladium"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 6.0,
+    "UDL_ranking": 9.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1002/smll.202001469",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "cinnamaldehyde"
+    ],
+    "lower_detection_limit_log_ppm": -8.878,
+    "upper_detection_limit_log_ppm": -3.187,
+    "probe_material": [
+        "carbon nanotube"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Very Narrow Range (Low UDL)"
+}

@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1039/d3an00772c",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "uric acid"
+    ],
+    "lower_detection_limit_log_ppm": -1.996255201,
+    "upper_detection_limit_log_ppm": -0.774406452,
+    "probe_material": [
+        "molybdenum disulfide"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "isopropyl alcohol"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

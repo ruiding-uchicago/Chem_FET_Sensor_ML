@@ -1,0 +1,25 @@
+{
+    "DOI": "10.1016/j.orgel.2016.04.031",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "citrate"
+    ],
+    "lower_detection_limit_log_ppm": -1.114358389,
+    "upper_detection_limit_log_ppm": 1.28358162,
+    "probe_material": [
+        "iron(iii) phthalocyanine chloride",
+        "cobyrinate c-monamide",
+        "poly(butyl acrylate)"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.7,
+    "max_pH_when_testing": 6.7,
+    "test_medium_electrolyte": [
+        "tris hydroxymethyl aminomethane",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

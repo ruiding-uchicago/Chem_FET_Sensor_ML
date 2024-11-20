@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/jp504657c",
+    "sensor_type": "gas",
+    "detect_target": [
+        "toluene"
+    ],
+    "lower_detection_limit_log_ppm": -0.301029996,
+    "upper_detection_limit_log_ppm": 1.0,
+    "probe_material": [
+        "fetppcl"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

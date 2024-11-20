@@ -1,0 +1,28 @@
+{
+    "DOI": "10.1109/JSEN.2024.3444482",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "phenobarbital"
+    ],
+    "lower_detection_limit_log_ppm": -0.56219032,
+    "upper_detection_limit_log_ppm": 1.763867681,
+    "probe_material": [
+        "cerium dioxide",
+        "copper oxide",
+        "nickel oxide"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

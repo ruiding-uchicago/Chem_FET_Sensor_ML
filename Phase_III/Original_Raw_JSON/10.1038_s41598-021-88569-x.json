@@ -1,0 +1,21 @@
+{
+    "DOI": "10.1038/s41598-021-88569-x",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -1.522878745,
+    "upper_detection_limit_log_ppm": 0.0,
+    "probe_material": [
+        "tetraphenylporphyrin"
+    ],
+    "test_operating_temperature_celsius": 30.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

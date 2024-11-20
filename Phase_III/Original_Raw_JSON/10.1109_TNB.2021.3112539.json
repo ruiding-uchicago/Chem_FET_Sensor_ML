@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1109/TNB.2021.3112539",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "glucose"
+    ],
+    "lower_detection_limit_log_ppm": 2.255643909,
+    "upper_detection_limit_log_ppm": 3.158733896,
+    "probe_material": [
+        "copper(ii) oxide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.4,
+    "max_pH_when_testing": 7.4,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1002/adma.202403678",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "na+"
+    ],
+    "lower_detection_limit_log_ppm": -1.638272164,
+    "upper_detection_limit_log_ppm": 0.662757832,
+    "probe_material": [
+        "indium oxide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.4,
+    "max_pH_when_testing": 7.4,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1109/SENSORS47087.2021.9639461",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hg2+"
+    ],
+    "lower_detection_limit_log_ppm": -2.920818754,
+    "upper_detection_limit_log_ppm": -2.0,
+    "probe_material": [
+        "glutathione",
+        "graphene",
+        "phenol",
+        "ethylene oxide",
+        "benzoic acid"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 5.5,
+    "max_pH_when_testing": 5.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

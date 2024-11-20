@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1109/ICSENS.2013.6688187",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -1.346787486,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "indium nitride"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": null
+}

@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1016/j.electacta.2017.12.130",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hydrogen peroxide"
+    ],
+    "lower_detection_limit_log_ppm": 2.51851394,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "polyaniline"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.4,
+    "max_pH_when_testing": 7.4,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null
+}

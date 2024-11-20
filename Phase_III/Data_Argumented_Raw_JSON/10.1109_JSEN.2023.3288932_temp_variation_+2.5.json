@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1109/JSEN.2023.3288932",
+    "sensor_type": "gas",
+    "detect_target": [
+        "hydrogen sulfide"
+    ],
+    "lower_detection_limit_log_ppm": -0.698970004,
+    "upper_detection_limit_log_ppm": 0.0,
+    "probe_material": [
+        "poly[2,6-(4,4-bis-(2-ethylhexyl)-4h-cyclopenta [2,1-b; 3,4-b] dithiophene)-alt-4,7-(2,1,3-benzothiadiazole)]"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

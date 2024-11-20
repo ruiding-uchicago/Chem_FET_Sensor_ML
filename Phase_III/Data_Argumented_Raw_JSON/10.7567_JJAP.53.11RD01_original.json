@@ -1,0 +1,23 @@
+{
+    "DOI": "10.7567/JJAP.53.11RD01",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -6.26,
+    "upper_detection_limit_log_ppm": -0.992,
+    "probe_material": [
+        "aluminum nitride",
+        "gallium nitride"
+    ],
+    "test_operating_temperature_celsius": 80.0,
+    "min_pH_when_testing": 3.992,
+    "max_pH_when_testing": 9.26,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

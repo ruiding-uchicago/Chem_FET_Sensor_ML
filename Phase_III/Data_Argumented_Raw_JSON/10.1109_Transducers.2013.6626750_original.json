@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1109/Transducers.2013.6626750",
+    "sensor_type": "gas",
+    "detect_target": [
+        "benzene"
+    ],
+    "lower_detection_limit_log_ppm": -1.301029996,
+    "upper_detection_limit_log_ppm": 1.698970004,
+    "probe_material": [
+        "4-amino-n-methylphthalimide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

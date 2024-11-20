@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.snb.2020.128955",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "na+"
+    ],
+    "lower_detection_limit_log_ppm": 0.139879086,
+    "upper_detection_limit_log_ppm": 1.361727836,
+    "probe_material": [
+        "polyethylene glycol"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

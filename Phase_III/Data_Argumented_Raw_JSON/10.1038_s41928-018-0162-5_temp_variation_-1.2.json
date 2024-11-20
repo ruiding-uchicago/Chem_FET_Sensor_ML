@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1038/s41928-018-0162-5",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -4.1,
+    "upper_detection_limit_log_ppm": 0.2,
+    "probe_material": [
+        "silicon dioxide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 2.8,
+    "max_pH_when_testing": 7.1,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 6.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

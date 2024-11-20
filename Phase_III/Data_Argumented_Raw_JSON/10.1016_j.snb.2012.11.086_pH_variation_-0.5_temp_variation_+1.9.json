@@ -1,0 +1,30 @@
+{
+    "DOI": "10.1016/j.snb.2012.11.086",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "ca2+"
+    ],
+    "lower_detection_limit_log_ppm": 0.602059991,
+    "upper_detection_limit_log_ppm": 2.606381365,
+    "probe_material": [
+        "gallium nitride"
+    ],
+    "test_operating_temperature_celsius": 38.85,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "calcium chloride",
+        "magnesium sulfate",
+        "sodium bicarbonate",
+        "glucose",
+        "sodium phosphate",
+        "potassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

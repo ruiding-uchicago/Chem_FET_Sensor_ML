@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1002/adma.201505946",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ethylene"
+    ],
+    "lower_detection_limit_log_ppm": 3.0,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "poly([n,n-bis(2-octyldodecyl)-naphthalene-1,4,5,8-bis(dicarboximide)-2,6-diyl]-alt-5,5-(2,2-bithiophene))"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

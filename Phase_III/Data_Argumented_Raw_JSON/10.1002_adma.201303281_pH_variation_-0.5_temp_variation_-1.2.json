@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1002/adma.201303281",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "sodium chloride"
+    ],
+    "lower_detection_limit_log_ppm": -1.233289793,
+    "upper_detection_limit_log_ppm": 3.766710207,
+    "probe_material": [
+        "polyvinyl chloride"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "High UDL Range"
+}

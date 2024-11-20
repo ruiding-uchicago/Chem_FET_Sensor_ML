@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1016/j.snb.2023.134251",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": -0.498940738,
+    "upper_detection_limit_log_ppm": 1.698970004,
+    "probe_material": [
+        "poly(2,5-bis(3-tetradecylthiophen-2yl)thieno(3,2-b)thiophene)",
+        "molybdenum disulfide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

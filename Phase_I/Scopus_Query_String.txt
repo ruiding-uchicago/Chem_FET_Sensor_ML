@@ -1,0 +1,1 @@
+TITLE-ABS-KEY ( field AND effect AND transistor AND sensor ) AND PUBYEAR > 2009 AND PUBYEAR < 2025 AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "cp" ) ) AND ( LIMIT-TO ( EXACTKEYWORD , "Chemical Sensors" ) OR LIMIT-TO ( EXACTKEYWORD , "Sensors" ) OR LIMIT-TO ( EXACTKEYWORD , "Gas Detectors" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )

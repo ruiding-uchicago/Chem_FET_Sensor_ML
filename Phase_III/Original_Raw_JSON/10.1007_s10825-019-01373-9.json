@@ -1,0 +1,20 @@
+{
+    "DOI": "10.1007/s10825-019-01373-9",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "trinitrotoluene"
+    ],
+    "lower_detection_limit_log_ppm": -1.643974143,
+    "upper_detection_limit_log_ppm": 0.054995862,
+    "probe_material": [
+        "3-aminopropyltriethoxysilane"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.0,
+    "max_pH_when_testing": 7.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

@@ -1,0 +1,25 @@
+{
+    "DOI": "10.1039/c8tc02447b",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": -0.397940009,
+    "upper_detection_limit_log_ppm": 0.0,
+    "probe_material": [
+        "benzothiophene",
+        "1,1,3,3-tetramethyldisiloxane",
+        "[1]benzothieno[3,2-b][1]benzothiophene"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

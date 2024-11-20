@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.bbagen.2013.01.023",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -4.8,
+    "upper_detection_limit_log_ppm": -0.4,
+    "probe_material": [
+        "poly(3-hexylthiophene)"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 3.4,
+    "max_pH_when_testing": 7.8,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1002/asia.201801787",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": 0.531478917,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "1,4-benzenedicarboxylic acid, mono(2-ethylhexyl) ester"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": null
+}

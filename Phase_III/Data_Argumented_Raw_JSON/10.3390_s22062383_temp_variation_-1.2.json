@@ -1,0 +1,23 @@
+{
+    "DOI": "10.3390/s22062383",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ethanol"
+    ],
+    "lower_detection_limit_log_ppm": 3.892094603,
+    "upper_detection_limit_log_ppm": 4.136720567,
+    "probe_material": [
+        "graphene"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 3.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.sna.2018.09.044",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "na+"
+    ],
+    "lower_detection_limit_log_ppm": -3.93930216,
+    "upper_detection_limit_log_ppm": 2.361727836,
+    "probe_material": [
+        "molybdenum disulfide"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Moderate UDL Range"
+}

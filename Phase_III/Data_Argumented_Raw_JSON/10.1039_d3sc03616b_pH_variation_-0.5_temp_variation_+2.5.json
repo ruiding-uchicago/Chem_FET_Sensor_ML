@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1039/d3sc03616b",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hydrogen sulfide"
+    ],
+    "lower_detection_limit_log_ppm": 1.256800942,
+    "upper_detection_limit_log_ppm": 2.708616331,
+    "probe_material": [
+        "dodecamethylbambus[6]uril hydrate, bu[6]"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

@@ -1,0 +1,25 @@
+{
+    "DOI": "10.1109/LSENS.2024.3409363",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "pb2+"
+    ],
+    "lower_detection_limit_log_ppm": -3.0,
+    "upper_detection_limit_log_ppm": 1.0,
+    "probe_material": [
+        "graphene",
+        "phenol",
+        "ethylene oxide",
+        "benzoic acid"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

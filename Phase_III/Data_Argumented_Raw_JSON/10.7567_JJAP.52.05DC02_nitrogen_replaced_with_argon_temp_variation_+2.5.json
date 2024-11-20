@@ -1,0 +1,23 @@
+{
+    "DOI": "10.7567/JJAP.52.05DC02",
+    "sensor_type": "gas",
+    "detect_target": [
+        "water"
+    ],
+    "lower_detection_limit_log_ppm": 3.301029996,
+    "upper_detection_limit_log_ppm": 4.0,
+    "probe_material": [
+        "pentacene"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

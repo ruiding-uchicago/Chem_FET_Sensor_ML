@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1109/TED.2019.2920990",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "biotin"
+    ],
+    "lower_detection_limit_log_ppm": -1.301029996,
+    "upper_detection_limit_log_ppm": 1.698970004,
+    "probe_material": [
+        "indium oxide"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

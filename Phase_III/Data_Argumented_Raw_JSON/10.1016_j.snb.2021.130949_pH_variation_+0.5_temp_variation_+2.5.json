@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.snb.2021.130949",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "nitrate"
+    ],
+    "lower_detection_limit_log_ppm": -3.743763467,
+    "upper_detection_limit_log_ppm": 1.256236533,
+    "probe_material": [
+        "fluoropolysiloxane"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Moderate UDL Range"
+}

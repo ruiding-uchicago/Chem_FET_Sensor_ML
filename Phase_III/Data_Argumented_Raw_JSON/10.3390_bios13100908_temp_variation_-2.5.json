@@ -1,0 +1,26 @@
+{
+    "DOI": "10.3390/bios13100908",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -5.6,
+    "upper_detection_limit_log_ppm": 2.93,
+    "probe_material": [
+        "silicon dioxide"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 0.06999999999999984,
+    "max_pH_when_testing": 8.6,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 3.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Moderate UDL Range"
+}

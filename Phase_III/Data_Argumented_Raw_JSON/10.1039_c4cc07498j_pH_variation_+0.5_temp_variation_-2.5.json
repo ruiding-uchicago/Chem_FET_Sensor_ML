@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1039/c4cc07498j",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "glucose"
+    ],
+    "lower_detection_limit_log_ppm": -2.301029996,
+    "upper_detection_limit_log_ppm": -1.698970004,
+    "probe_material": [
+        "4-mercaptophenylboronic acid"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

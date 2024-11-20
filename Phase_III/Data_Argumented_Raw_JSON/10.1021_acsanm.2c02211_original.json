@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1021/acsanm.2c02211",
+    "sensor_type": "gas",
+    "detect_target": [
+        "hydrogen"
+    ],
+    "lower_detection_limit_log_ppm": -2.522878745,
+    "upper_detection_limit_log_ppm": -0.397940009,
+    "probe_material": [
+        "palladium",
+        "aluminum oxide",
+        "graphene"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

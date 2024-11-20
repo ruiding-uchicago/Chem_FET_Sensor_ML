@@ -1,0 +1,27 @@
+{
+    "DOI": "10.1021/acsami.3c19431",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "glucose"
+    ],
+    "lower_detection_limit_log_ppm": -0.308193444,
+    "upper_detection_limit_log_ppm": 3.255643909,
+    "probe_material": [
+        "nickel(ii) nitrate hexahydrate",
+        "pyrene-1,3,6,8-tetraphosphonic acid"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

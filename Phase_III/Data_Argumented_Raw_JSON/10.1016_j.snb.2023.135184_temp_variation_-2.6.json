@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1016/j.snb.2023.135184",
+    "sensor_type": "gas",
+    "detect_target": [
+        "dimethyl methylphosphonate"
+    ],
+    "lower_detection_limit_log_ppm": -2.0,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "thiazole",
+        "3-octylthiophene",
+        "2-(thiophen-3-yl)-1,3-thiazole-5-carbaldehyde",
+        "malononitrile"
+    ],
+    "test_operating_temperature_celsius": 23.4,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": null
+}

@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1039/d2tb01067d",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "hyoscyamine"
+    ],
+    "lower_detection_limit_log_ppm": -0.538538992,
+    "upper_detection_limit_log_ppm": 0.306559048,
+    "probe_material": [
+        "poly(n-isopropylacrylamide-co-2,2-dimethyl-4-pentenoic acid-co-n,n-methylenebisacrylamide)"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.4,
+    "max_pH_when_testing": 7.4,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

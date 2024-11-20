@@ -1,0 +1,27 @@
+{
+    "DOI": "10.1016/j.snb.2021.130956",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "cs+"
+    ],
+    "lower_detection_limit_log_ppm": -11.87614836,
+    "upper_detection_limit_log_ppm": 0.123851641,
+    "probe_material": [
+        "calix[4]arene",
+        "benzo-12-crown 4-ether"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 7.7,
+    "max_pH_when_testing": 7.7,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

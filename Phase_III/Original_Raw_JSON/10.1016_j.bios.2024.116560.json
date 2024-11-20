@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.bios.2024.116560",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "na+"
+    ],
+    "lower_detection_limit_log_ppm": -0.638272164,
+    "upper_detection_limit_log_ppm": 3.565847819,
+    "probe_material": [
+        "silicon nitride"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "tris(hydroxymethyl)aminomethane",
+        "sodium chloride",
+        "potassium nitrate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

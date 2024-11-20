@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.bios.2015.06.073",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "inosine"
+    ],
+    "lower_detection_limit_log_ppm": -0.779107275,
+    "upper_detection_limit_log_ppm": 1.127471039,
+    "probe_material": [
+        "2,2'-bithiophene-5-boronic acid",
+        "ethyl 2-[[[2,4(or3,5)-dimethyl-3-cyclohexen-1-yl]methyl]amino]benzoate"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

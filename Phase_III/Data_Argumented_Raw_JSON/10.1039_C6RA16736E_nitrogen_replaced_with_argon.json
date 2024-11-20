@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1039/C6RA16736E",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": 2.0,
+    "upper_detection_limit_log_ppm": 2.698970004,
+    "probe_material": [
+        "silicene"
+    ],
+    "test_operating_temperature_celsius": 200.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

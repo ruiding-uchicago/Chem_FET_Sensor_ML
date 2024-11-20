@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.carbon.2022.09.037",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "ca2+"
+    ],
+    "lower_detection_limit_log_ppm": -5.397940009,
+    "upper_detection_limit_log_ppm": 1.602059991,
+    "probe_material": [
+        "fluo 4-am"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Moderate UDL Range"
+}

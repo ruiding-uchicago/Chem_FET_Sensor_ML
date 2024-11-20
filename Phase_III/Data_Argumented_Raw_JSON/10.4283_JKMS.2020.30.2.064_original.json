@@ -1,0 +1,22 @@
+{
+    "DOI": "10.4283/JKMS.2020.30.2.064",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -6.8,
+    "upper_detection_limit_log_ppm": -0.9,
+    "probe_material": [
+        "silicon nitride"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 3.9,
+    "max_pH_when_testing": 9.8,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 5.0,
+    "UDL_ranking": 7.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

@@ -1,0 +1,30 @@
+{
+    "DOI": "10.1021/acsami.4c07692",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "polystyrene"
+    ],
+    "lower_detection_limit_log_ppm": 1.397940009,
+    "upper_detection_limit_log_ppm": 3.301029996,
+    "probe_material": [
+        "carbon nanotube"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 7.6899999999999995,
+    "max_pH_when_testing": 7.6899999999999995,
+    "test_medium_electrolyte": [
+        "water",
+        "sodium chloride",
+        "magnesium sulfate",
+        "potassium chloride",
+        "sodium nitrate",
+        "calcium chloride",
+        "potassium dihydrogen phosphate",
+        "tricine",
+        "ammonium chloride"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1088/1361-6528/ac512d",
+    "sensor_type": "gas",
+    "detect_target": [
+        "methanol"
+    ],
+    "lower_detection_limit_log_ppm": -0.559090918,
+    "upper_detection_limit_log_ppm": 1.903089987,
+    "probe_material": [
+        "indium oxide",
+        "tin dioxide"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1002/adma.201404707",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "methanol"
+    ],
+    "lower_detection_limit_log_ppm": 4.0,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "calix[8]arene"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

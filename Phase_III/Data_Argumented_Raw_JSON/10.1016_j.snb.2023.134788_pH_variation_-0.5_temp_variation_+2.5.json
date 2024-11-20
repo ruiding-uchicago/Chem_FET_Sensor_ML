@@ -1,0 +1,29 @@
+{
+    "DOI": "10.1016/j.snb.2023.134788",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "na+"
+    ],
+    "lower_detection_limit_log_ppm": -1.890084137,
+    "upper_detection_limit_log_ppm": 3.565847819,
+    "probe_material": [
+        "sodium ionophore x"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water",
+        "glucose",
+        "saccharose",
+        "monosodium phosphate",
+        "calcium chloride",
+        "sodium chloride",
+        "4-(2-hydroxyethyl)-1-piperazine ethanesulfonic acid",
+        "potassium chloride"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "High UDL Range"
+}

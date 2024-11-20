@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1109/JSEN.2023.3271598",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -1.795880017,
+    "upper_detection_limit_log_ppm": 0.146128036,
+    "probe_material": [
+        "poly[2,5-(2-octyldodecyl)-3,6-diketopyrrolopyrrole-alt-5,5-(2,5-di(thien-2-yl)thieno[3,2-b]-thiophene)]"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

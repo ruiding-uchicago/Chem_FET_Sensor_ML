@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1149/2.0031807jss",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "urea"
+    ],
+    "lower_detection_limit_log_ppm": 1.778585328,
+    "upper_detection_limit_log_ppm": 2.67840583,
+    "probe_material": [
+        "fluorine",
+        "tin dioxide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 5.5,
+    "max_pH_when_testing": 5.5,
+    "test_medium_electrolyte": [
+        "water",
+        "sodium phosphate",
+        "citric acid",
+        "sodium citrate"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

@@ -1,0 +1,28 @@
+{
+    "DOI": "10.1016/j.snb.2019.01.062",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "ammonium"
+    ],
+    "lower_detection_limit_log_ppm": -2.743763467,
+    "upper_detection_limit_log_ppm": 4.256236533,
+    "probe_material": [
+        "polyvinyl chloride"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "sodium phosphate",
+        "calcium chloride",
+        "potassium chloride",
+        "sodium chloride",
+        "mucin",
+        "urea",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "High UDL Range"
+}

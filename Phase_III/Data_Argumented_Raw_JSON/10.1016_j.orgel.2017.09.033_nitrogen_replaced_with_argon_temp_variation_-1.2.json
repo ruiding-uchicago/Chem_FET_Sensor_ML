@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.orgel.2017.09.033",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": 1.0,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "poly[[2,5-bis(2-octyldodecyl)-2,3,5,6-tetrahydro-3,6-dioxopyrrolo[3,4-c]pyrrole-1,4-diyl]-alt-[[2,2-(2,5-thiophene)bis-thieno(3,2-b)thiophene]-5,5-diyl]]"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

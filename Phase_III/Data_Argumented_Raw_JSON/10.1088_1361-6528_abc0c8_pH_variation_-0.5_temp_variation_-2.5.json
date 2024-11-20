@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1088/1361-6528/abc0c8",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "sulfate ion"
+    ],
+    "lower_detection_limit_log_ppm": -0.495,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "graphene"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": null
+}

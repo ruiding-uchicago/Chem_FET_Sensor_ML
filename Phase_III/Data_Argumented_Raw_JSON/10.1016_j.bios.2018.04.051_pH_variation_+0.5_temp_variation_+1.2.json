@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1016/j.bios.2018.04.051",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "2,4-dichlorophenoxyacetic acid"
+    ],
+    "lower_detection_limit_log_ppm": -9.257589119,
+    "upper_detection_limit_log_ppm": -7.655529128,
+    "probe_material": [
+        "2,4-dichlorophenoxyacetic acid",
+        "4-ethynylaniline"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Very Narrow Range (Low UDL)"
+}

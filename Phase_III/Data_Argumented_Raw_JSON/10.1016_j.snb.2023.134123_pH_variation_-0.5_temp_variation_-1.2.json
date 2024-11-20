@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.snb.2023.134123",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "f-"
+    ],
+    "lower_detection_limit_log_ppm": -1.494307493,
+    "upper_detection_limit_log_ppm": 2.698970004,
+    "probe_material": [
+        "lanthanum fluoride"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

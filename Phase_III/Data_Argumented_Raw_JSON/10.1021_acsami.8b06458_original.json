@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acsami.8b06458",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": -4.0,
+    "upper_detection_limit_log_ppm": 2.0,
+    "probe_material": [
+        "poly(4-iso-cyano-benzoic acid 5-(2-dimethylamino-ethoxy)-2-nitro-benzylester)-b-poly(3-hexylthiophene)"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Moderate UDL Range"
+}

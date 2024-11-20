@@ -1,0 +1,20 @@
+{
+    "DOI": "10.3390/s22228744",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "glyphosate"
+    ],
+    "lower_detection_limit_log_ppm": -0.22903906,
+    "upper_detection_limit_log_ppm": 0.403977964,
+    "probe_material": [
+        "copper oxide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 6.05,
+    "max_pH_when_testing": 6.05,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

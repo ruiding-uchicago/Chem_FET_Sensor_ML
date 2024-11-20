@@ -1,0 +1,27 @@
+{
+    "DOI": "10.1016/j.bios.2019.111962",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "glucose"
+    ],
+    "lower_detection_limit_log_ppm": -2.744727495,
+    "upper_detection_limit_log_ppm": 3.334453751,
+    "probe_material": [
+        "dextran",
+        "silver"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "High UDL Range"
+}

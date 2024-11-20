@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1109/JSEN.2015.2480998",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": 0.698970004,
+    "upper_detection_limit_log_ppm": 1.397940009,
+    "probe_material": [
+        "poly(3-hexylthiophene)"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 4.0,
+    "UDL_ranking": 4.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

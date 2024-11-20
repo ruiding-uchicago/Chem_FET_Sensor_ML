@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1109/NMDC.2016.7777070",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ethanol"
+    ],
+    "lower_detection_limit_log_ppm": 0.113943352,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "carbon nanotube"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": null
+}

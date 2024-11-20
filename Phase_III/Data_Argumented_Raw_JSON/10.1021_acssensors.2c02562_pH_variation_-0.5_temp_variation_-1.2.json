@@ -1,0 +1,28 @@
+{
+    "DOI": "10.1021/acssensors.2c02562",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "tetracycline"
+    ],
+    "lower_detection_limit_log_ppm": -2.452371245,
+    "upper_detection_limit_log_ppm": -0.352191747,
+    "probe_material": [
+        "tetraethyl orthosilicate",
+        "3-aminopropyltriethoxysilane",
+        "tetracycline"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1002/admi.201901696",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": 1.477121255,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "5,11-bis(triethylsilylethynyl)anthradithiophene"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

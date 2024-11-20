@@ -1,0 +1,21 @@
+{
+    "DOI": "10.1109/SENSORS47087.2021.9639820",
+    "sensor_type": "gas",
+    "detect_target": [
+        "hydrogen"
+    ],
+    "lower_detection_limit_log_ppm": 3.0,
+    "upper_detection_limit_log_ppm": 4.0,
+    "probe_material": [
+        "indium oxide",
+        "tin dioxide"
+    ],
+    "test_operating_temperature_celsius": 200.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1021/ja907585c",
+    "sensor_type": "gas",
+    "detect_target": [
+        "carbon monoxide"
+    ],
+    "lower_detection_limit_log_ppm": 1.698970004,
+    "upper_detection_limit_log_ppm": 2.602059991,
+    "probe_material": [
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 261.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

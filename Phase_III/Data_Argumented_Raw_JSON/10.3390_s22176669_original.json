@@ -1,0 +1,22 @@
+{
+    "DOI": "10.3390/s22176669",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "oxygen"
+    ],
+    "lower_detection_limit_log_ppm": 0.698970004,
+    "upper_detection_limit_log_ppm": 0.903089987,
+    "probe_material": [
+        "tin (iv) oxide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 6.86,
+    "max_pH_when_testing": 6.86,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

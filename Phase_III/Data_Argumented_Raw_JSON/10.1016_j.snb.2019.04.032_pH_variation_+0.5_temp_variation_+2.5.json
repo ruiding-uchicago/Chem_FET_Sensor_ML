@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.snb.2019.04.032",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "potassium"
+    ],
+    "lower_detection_limit_log_ppm": -4.408935393,
+    "upper_detection_limit_log_ppm": 2.592176757,
+    "probe_material": [
+        "potassium ionophore iii"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Moderate UDL Range"
+}

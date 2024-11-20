@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acsami.1c05681",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -3.619788758,
+    "upper_detection_limit_log_ppm": -0.045757491,
+    "probe_material": [
+        "poly [3-(3,4-difluoro-[2,2:5,2-terthiophen]-5-yl)-2,5-bis(3-(2-(2-methoxyethoxy)ethoxy)-2-((2-(2-methoxyethoxy)-ethoxy)-methyl)-propyl)-6-(thiophen-2-yl)pyrrolo[3,4-c]pyrrole-1,4(2h,5h)-dione]"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

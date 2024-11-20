@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1109/ICSENS.2011.6126923",
+    "sensor_type": "gas",
+    "detect_target": [
+        "water"
+    ],
+    "lower_detection_limit_log_ppm": 3.51851394,
+    "upper_detection_limit_log_ppm": 4.301029996,
+    "probe_material": [
+        "hexabenzocoronene"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

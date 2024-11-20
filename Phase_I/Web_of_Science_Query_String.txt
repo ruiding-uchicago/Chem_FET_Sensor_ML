@@ -1,0 +1,14 @@
+
+ALL=(
+(
+(( FET sensors) OR (field effect transistor sensor )) AND (Chemical sensors)
+)
+OR
+(
+(( FET sensors) OR (field effect transistor sensor )) AND (Gas detectors)
+)
+)
+AND
+PY=(2010-2024)
+AND
+DT=(Article)

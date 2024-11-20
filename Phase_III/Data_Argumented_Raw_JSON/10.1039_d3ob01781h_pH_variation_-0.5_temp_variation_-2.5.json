@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1039/d3ob01781h",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "potassium perchlorate"
+    ],
+    "lower_detection_limit_log_ppm": -0.85839347,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "polyvinyl chloride"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": null
+}

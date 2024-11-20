@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1039/d0cp05710j",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "nicotine"
+    ],
+    "lower_detection_limit_log_ppm": 1.988282419,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "molybdenum disulfide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.5,
+    "max_pH_when_testing": 6.5,
+    "test_medium_electrolyte": [
+        "isopropyl alcohol"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

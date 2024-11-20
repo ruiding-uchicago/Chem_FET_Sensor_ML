@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1002/adma.201670145",
+    "sensor_type": "gas",
+    "detect_target": [
+        "xylene"
+    ],
+    "lower_detection_limit_log_ppm": 1.602059991,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "poly(diketopyrrolopyrrole-terthiophene)"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

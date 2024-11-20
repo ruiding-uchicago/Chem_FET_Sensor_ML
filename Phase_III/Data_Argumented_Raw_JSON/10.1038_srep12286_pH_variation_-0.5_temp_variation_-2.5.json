@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1038/srep12286",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "poly(allylamine hydrochloride)"
+    ],
+    "lower_detection_limit_log_ppm": 0.942008053,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "(3-aminopropyl)triethoxysilane"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": null
+}

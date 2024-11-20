@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/jp306892p",
+    "sensor_type": "gas",
+    "detect_target": [
+        "hydrogen peroxide"
+    ],
+    "lower_detection_limit_log_ppm": 1.973127854,
+    "upper_detection_limit_log_ppm": 4.113943352,
+    "probe_material": [
+        "copper phthalocyanine"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1039/d1qm00118c",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "dopamine"
+    ],
+    "lower_detection_limit_log_ppm": -1.814797935,
+    "upper_detection_limit_log_ppm": 0.88417207,
+    "probe_material": [
+        "copper(ii) acetate",
+        "2,3,6,7,10,11-hexahydroxytriphenylene"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.0,
+    "max_pH_when_testing": 7.0,
+    "test_medium_electrolyte": [
+        "calcium chloride",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

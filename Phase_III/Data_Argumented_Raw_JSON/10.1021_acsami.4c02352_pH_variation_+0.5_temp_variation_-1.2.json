@@ -1,0 +1,29 @@
+{
+    "DOI": "10.1021/acsami.4c02352",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "ammonia"
+    ],
+    "lower_detection_limit_log_ppm": -1.956637722,
+    "upper_detection_limit_log_ppm": 1.230448921,
+    "probe_material": [
+        "molybdenum diselenide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 7.3,
+    "max_pH_when_testing": 7.3,
+    "test_medium_electrolyte": [
+        "water",
+        "potassium chloride",
+        "sodium chloride",
+        "magnesium chloride",
+        "calcium chloride",
+        "sodium dihydrogen phosphate dihydrate",
+        "disodium sulfide nonahydrate",
+        "sorbitol"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

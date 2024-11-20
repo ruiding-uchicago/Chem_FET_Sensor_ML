@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1109/JSEN.2013.2245032",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -4.3,
+    "upper_detection_limit_log_ppm": -3.0,
+    "probe_material": [
+        "silicon nitride"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 6.0,
+    "max_pH_when_testing": 7.3,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

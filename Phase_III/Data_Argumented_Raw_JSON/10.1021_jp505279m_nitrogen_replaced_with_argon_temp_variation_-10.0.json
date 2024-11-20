@@ -1,0 +1,27 @@
+{
+    "DOI": "10.1021/jp505279m",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -2.823908741,
+    "upper_detection_limit_log_ppm": 0.0,
+    "probe_material": [
+        "graphene",
+        "phenol",
+        "ethylene oxide",
+        "benzoic acid",
+        "titanium dioxide"
+    ],
+    "test_operating_temperature_celsius": 190.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

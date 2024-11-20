@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1039/d3nj05597c",
+    "sensor_type": "gas",
+    "detect_target": [
+        "nitrogen dioxide"
+    ],
+    "lower_detection_limit_log_ppm": -0.522878745,
+    "upper_detection_limit_log_ppm": 1.301029996,
+    "probe_material": [
+        "copper phthalocyanine"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": 3.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

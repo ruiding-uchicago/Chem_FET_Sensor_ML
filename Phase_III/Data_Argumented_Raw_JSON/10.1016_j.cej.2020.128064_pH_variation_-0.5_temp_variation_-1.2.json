@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1016/j.cej.2020.128064",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "k+"
+    ],
+    "lower_detection_limit_log_ppm": -1.805782134,
+    "upper_detection_limit_log_ppm": 2.768249134,
+    "probe_material": [
+        "valinomycin"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 6.9,
+    "max_pH_when_testing": 6.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}

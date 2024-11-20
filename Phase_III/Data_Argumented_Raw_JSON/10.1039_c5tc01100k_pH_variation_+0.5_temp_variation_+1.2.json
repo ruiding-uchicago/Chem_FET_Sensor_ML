@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1039/c5tc01100k",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "epinephrine"
+    ],
+    "lower_detection_limit_log_ppm": -4.737065048,
+    "upper_detection_limit_log_ppm": 0.262934952,
+    "probe_material": [
+        "carbon nanotube"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

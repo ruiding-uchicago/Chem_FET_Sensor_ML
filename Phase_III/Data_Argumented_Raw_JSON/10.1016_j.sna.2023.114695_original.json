@@ -1,0 +1,27 @@
+{
+    "DOI": "10.1016/j.sna.2023.114695",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "glucose"
+    ],
+    "lower_detection_limit_log_ppm": 3.0,
+    "upper_detection_limit_log_ppm": 3.602059991,
+    "probe_material": [
+        "gallium oxide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.0,
+    "max_pH_when_testing": 7.0,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "sodium bicarbonate",
+        "calcium chloride",
+        "l-glutamine",
+        "phenol red",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

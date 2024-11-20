@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1149/2162-8777/ac451b",
+    "sensor_type": "gas",
+    "detect_target": [
+        "hydrogen"
+    ],
+    "lower_detection_limit_log_ppm": 1.0,
+    "upper_detection_limit_log_ppm": 2.698970004,
+    "probe_material": [
+        "platinum"
+    ],
+    "test_operating_temperature_celsius": 360.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

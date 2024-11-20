@@ -1,0 +1,22 @@
+{
+    "DOI": "10.3390/chemosensors11010046",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -7.0,
+    "upper_detection_limit_log_ppm": 0.0,
+    "probe_material": [
+        "tin(iv) oxide"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 3.0,
+    "max_pH_when_testing": 10.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

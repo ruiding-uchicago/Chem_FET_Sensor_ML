@@ -1,0 +1,20 @@
+{
+    "DOI": "10.3390/s22186947",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "cu2+"
+    ],
+    "lower_detection_limit_log_ppm": -8.494850022,
+    "upper_detection_limit_log_ppm": -2.494850022,
+    "probe_material": [
+        "1-pyrenecarboxaldehyde hydrazone"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.0,
+    "max_pH_when_testing": 7.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1021/acs.analchem.8b01806",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "ibuprofen"
+    ],
+    "lower_detection_limit_log_ppm": -3.685521824,
+    "upper_detection_limit_log_ppm": -2.384491828,
+    "probe_material": [
+        "2-hydroxypropyl-beta-cyclodextrin"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 7.0,
+    "max_pH_when_testing": 7.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

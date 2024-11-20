@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acssensors.9b01150",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "delta9-tetrahydrocannabinol"
+    ],
+    "lower_detection_limit_log_ppm": -5.500312917,
+    "upper_detection_limit_log_ppm": -2.200659451,
+    "probe_material": [
+        "fast blue bb salt"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 9.0,
+    "max_pH_when_testing": 9.0,
+    "test_medium_electrolyte": [
+        "sodium hydroxide",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

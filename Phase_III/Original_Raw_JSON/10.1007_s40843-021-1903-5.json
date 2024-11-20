@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1007/s40843-021-1903-5",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "diethyl carbonate"
+    ],
+    "lower_detection_limit_log_ppm": 0.146128036,
+    "upper_detection_limit_log_ppm": 2.77815125,
+    "probe_material": [
+        "biurea",
+        "dinaphtho[2,3-b:2',3'-f]thieno[3,2-b]thiophene"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0
+}

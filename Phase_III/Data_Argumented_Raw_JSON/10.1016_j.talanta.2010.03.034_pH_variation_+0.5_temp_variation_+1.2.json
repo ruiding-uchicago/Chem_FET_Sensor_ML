@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.talanta.2010.03.034",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "carbonate"
+    ],
+    "lower_detection_limit_log_ppm": -2.22184875,
+    "upper_detection_limit_log_ppm": -0.22184875,
+    "probe_material": [
+        "polyurethane"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 7.5,
+    "max_pH_when_testing": 7.5,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Low UDL Range"
+}

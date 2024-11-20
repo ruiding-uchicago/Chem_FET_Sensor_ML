@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1063/1.3583594",
+    "sensor_type": "gas",
+    "detect_target": [
+        "ethanol"
+    ],
+    "lower_detection_limit_log_ppm": 3.301029996,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "zinc oxide",
+        "pentacene"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "nitrogen"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": null
+}

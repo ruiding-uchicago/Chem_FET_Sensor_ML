@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1063/5.0042977",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "cadmium nitrate"
+    ],
+    "lower_detection_limit_log_ppm": -6.080921908,
+    "upper_detection_limit_log_ppm": -5.698970004,
+    "probe_material": [
+        "polyvinyl chloride"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 7.9,
+    "max_pH_when_testing": 7.9,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Very Narrow Range (Low UDL)"
+}

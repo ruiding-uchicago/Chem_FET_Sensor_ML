@@ -1,0 +1,29 @@
+{
+    "DOI": "10.1016/j.snb.2023.134788",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -6.0,
+    "upper_detection_limit_log_ppm": -2.0,
+    "probe_material": [
+        "polyaniline"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": 5.0,
+    "max_pH_when_testing": 9.0,
+    "test_medium_electrolyte": [
+        "water",
+        "glucose",
+        "saccharose",
+        "monosodium phosphate",
+        "calcium chloride",
+        "sodium chloride",
+        "4-(2-hydroxyethyl)-1-piperazine ethanesulfonic acid",
+        "potassium chloride"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Low Detection",
+    "UDL_category": "Low UDL Range"
+}

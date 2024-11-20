@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1021/acs.accounts.6b00329",
+    "sensor_type": "gas",
+    "detect_target": [
+        "dichloromethane"
+    ],
+    "lower_detection_limit_log_ppm": -3.193820026,
+    "upper_detection_limit_log_ppm": null,
+    "probe_material": [
+        "graphene"
+    ],
+    "test_operating_temperature_celsius": 22.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": null,
+    "LDL_category": "Low Detection",
+    "UDL_category": null
+}

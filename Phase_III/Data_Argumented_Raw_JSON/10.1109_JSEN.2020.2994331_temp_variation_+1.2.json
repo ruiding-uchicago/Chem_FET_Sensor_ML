@@ -1,0 +1,25 @@
+{
+    "DOI": "10.1109/JSEN.2020.2994331",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -9.0,
+    "upper_detection_limit_log_ppm": 1.0,
+    "probe_material": [
+        "indium oxide",
+        "zinc oxide",
+        "gallium oxide",
+        "magnesium oxide"
+    ],
+    "test_operating_temperature_celsius": 26.25,
+    "min_pH_when_testing": 2.0,
+    "max_pH_when_testing": 12.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

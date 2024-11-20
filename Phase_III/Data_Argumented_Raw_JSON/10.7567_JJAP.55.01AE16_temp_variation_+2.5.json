@@ -1,0 +1,27 @@
+{
+    "DOI": "10.7567/JJAP.55.01AE16",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": -10.0,
+    "upper_detection_limit_log_ppm": 2.0,
+    "probe_material": [
+        "aluminum",
+        "zinc oxide"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 1.0,
+    "max_pH_when_testing": 13.0,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very Low Detection (High Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

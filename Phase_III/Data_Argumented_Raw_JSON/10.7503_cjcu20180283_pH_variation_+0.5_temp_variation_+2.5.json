@@ -1,0 +1,26 @@
+{
+    "DOI": "10.7503/cjcu20180283",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "l-cystine"
+    ],
+    "lower_detection_limit_log_ppm": -0.189493949,
+    "upper_detection_limit_log_ppm": 2.380753771,
+    "probe_material": [
+        "polydithiopropane sulfonic acid"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": 5.5,
+    "max_pH_when_testing": 5.5,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "High Detection (Lower Sensitivity)",
+    "UDL_category": "Moderate UDL Range"
+}

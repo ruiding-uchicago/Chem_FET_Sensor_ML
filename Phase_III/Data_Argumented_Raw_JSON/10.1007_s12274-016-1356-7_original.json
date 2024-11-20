@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1007/s12274-016-1356-7",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "nitric acid"
+    ],
+    "lower_detection_limit_log_ppm": 2.875061263,
+    "upper_detection_limit_log_ppm": 4.355834496,
+    "probe_material": [
+        "tin dioxide"
+    ],
+    "test_operating_temperature_celsius": 25.0,
+    "min_pH_when_testing": 1.0,
+    "max_pH_when_testing": 1.0,
+    "test_medium_electrolyte": [
+        "water"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

@@ -1,0 +1,26 @@
+{
+    "DOI": "10.1038/s41699-021-00273-6",
+    "sensor_type": "liquid",
+    "detect_target": [
+        "h+"
+    ],
+    "lower_detection_limit_log_ppm": 5.25,
+    "upper_detection_limit_log_ppm": -2.65,
+    "probe_material": [
+        "hafnium oxide"
+    ],
+    "test_operating_temperature_celsius": 23.75,
+    "min_pH_when_testing": 5.65,
+    "max_pH_when_testing": -2.25,
+    "test_medium_electrolyte": [
+        "sodium chloride",
+        "potassium chloride",
+        "disodium phosphate",
+        "monopotassium phosphate",
+        "water"
+    ],
+    "LDL_ranking": 2.0,
+    "UDL_ranking": 2.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "Low UDL Range"
+}

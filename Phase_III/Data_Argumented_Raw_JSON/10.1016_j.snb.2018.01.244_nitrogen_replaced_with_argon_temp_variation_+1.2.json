@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1016/j.snb.2018.01.244",
+    "sensor_type": "gas",
+    "detect_target": [
+        "water"
+    ],
+    "lower_detection_limit_log_ppm": 3.46834733,
+    "upper_detection_limit_log_ppm": 4.42258984,
+    "probe_material": [
+        "graphene"
+    ],
+    "test_operating_temperature_celsius": 25.2,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Very High Detection (Low Sensitivity)",
+    "UDL_category": "High UDL Range"
+}

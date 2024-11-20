@@ -1,0 +1,23 @@
+{
+    "DOI": "10.1007/s00339-020-03627-x",
+    "sensor_type": "gas",
+    "detect_target": [
+        "putrescine"
+    ],
+    "lower_detection_limit_log_ppm": -2.522878745,
+    "upper_detection_limit_log_ppm": 1.875061263,
+    "probe_material": [
+        "poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2h,5h)-dione-alt-2,2:5,2:5,2-quaterthiophene]"
+    ],
+    "test_operating_temperature_celsius": 27.5,
+    "min_pH_when_testing": -1.0,
+    "max_pH_when_testing": -1.0,
+    "test_medium_electrolyte": [
+        "oxygen",
+        "argon"
+    ],
+    "LDL_ranking": 1.0,
+    "UDL_ranking": 1.0,
+    "LDL_category": "Moderate Detection",
+    "UDL_category": "Moderate UDL Range"
+}
