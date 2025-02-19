@@ -1,1 +1,7 @@
+### SGNN model
 
+The SGNN model trains on 80% of the augmented dataset, and uses the remaining 20% as a test dataset.
+
+We also evaluate its performance using the original dataset.
+
+The results are obtained after 10 epochs--each one with 200 iterations.
